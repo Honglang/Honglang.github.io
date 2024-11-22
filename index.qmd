@@ -1,7 +1,7 @@
 ---
 title: "Honglang Wang, PhD"
 description-meta: "Honglang Wang is an researcher and teacher about data science, Statistics!"
-image: files/profile/honglangwang.jpg
+image: files/profile/honglangwang.JPG
 page-navigation: false
 toc: false
 #sidebar: false
