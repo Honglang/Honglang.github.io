@@ -1,5 +1,5 @@
 ---
-title: "Honglang.github.io"
+title: "Honglang Wang"
 ---
 
 This is a Quarto website.
