@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Honglang Wang">
-<meta name="description" content="Honglang Wang is an researcher and teacher about data science, Statistics!">
+<meta name="description" content="Posts about papers, events, news, and more">
 
-<title>Honglang Wang, PhD – Dr.&nbsp;Honglang Wang</title>
+<title>What’s New &amp; Updated – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,6 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -72,20 +73,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -157,12 +158,12 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="">
+<link rel="alternate" type="application/rss+xml" title="Dr. Honglang Wang" href="posts.xml" data-external="1"><meta property="og:title" content="What’s New &amp; Updated – Dr.&nbsp;Honglang Wang">
+<meta property="og:description" content="Posts about papers, events, news, and more">
 <meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="What’s New &amp; Updated – Dr.&nbsp;Honglang Wang">
+<meta name="twitter:description" content="Posts about papers, events, news, and more">
 <meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -282,81 +283,64 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profile/honglangwang.JPG" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Honglang Wang, PhD</h1>
-</div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="https://math.indianapolis.iu.edu/~hlwang/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-globe"></i>
-     <span class="about-link-text">IUIprofile</span>
-  </a>
-  <a href="mailto:hlwang@iu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://www.linkedin.com/in/honglang-wang-18505b29/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@HonglangWang" class="about-link" rel="" target="_blank">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://orcid.org/0000-0003-3140-5177" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" style="font-size: 1xl;" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
-  </a>
-  <a href="https://honglangwang.wordpress.com/" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:wordpress" aria-label="Icon wordpress from fa6-brands Iconify.design set." title="Icon wordpress from fa6-brands Iconify.design set."></iconify-icon> Wordpress</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_oqJfq4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="academicons:google-scholar" aria-label="Icon google-scholar from academicons Iconify.design set." title="Icon google-scholar from academicons Iconify.design set."></iconify-icon> Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Honglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the <a href="https://science.indianapolis.iu.edu/math/index.html" class="external" target="_blank">Department of Mathematical Sciences</a>, School of Science, Indiana University Indianapolis.</p>
-</div></div>
+<h1 class="title">What’s New &amp; Updated</h1>
+<p class="subtitle lead">Posts about papers, events, news, and more</p>
 </div>
 
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
 
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
-
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -377,6 +361,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -1,1 +1,1 @@
-Sitemap: https://Honglang.github.io/sitemap.xml
+Sitemap: https://honglang.github.io/sitemap.xml

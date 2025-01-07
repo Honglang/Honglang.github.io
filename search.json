@@ -1,10 +1,73 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of December 2024:"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Honglang Wang, PhD",
     "section": "",
-    "text": "–&gt; \n\n  \n    \n\n    \n  \n    \n     IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n     {{&lt; ai orcid &gt;}} ORCID\n  \n  \n     {{&lt; ai google-scholar &gt;}} Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis."
+    "text": "IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Wordpress\n  \n  \n      Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Honglang Wang, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "[March 2025] Robust Inference for Heterogeneous Treatment Effects, March 23-March 26, 2025 @ ENAR 2025 Spring Meeting - New Orleans, LA\n[Feb 2025] Invited Talk—Robust Inference for Heterogeneous Treatment Effects, Feb. 21, 2025 @ Biostatistics Seminar - IU School of Medicine"
+  },
+  {
+    "objectID": "news.html#presentations",
+    "href": "news.html#presentations",
+    "title": "News",
+    "section": "",
+    "text": "[March 2025] Robust Inference for Heterogeneous Treatment Effects, March 23-March 26, 2025 @ ENAR 2025 Spring Meeting - New Orleans, LA\n[Feb 2025] Invited Talk—Robust Inference for Heterogeneous Treatment Effects, Feb. 21, 2025 @ Biostatistics Seminar - IU School of Medicine"
+  },
+  {
+    "objectID": "news.html#students-milestones",
+    "href": "news.html#students-milestones",
+    "title": "News",
+    "section": "Students Milestones",
+    "text": "Students Milestones\n\n\n\n\n\nSpring 2025\nWe live in a world where data are popping up everywhere, in ever richer forms and larger quantities, and are increasingly expected to form the basis for decisions in various fields. STAT 35000 is a data-oriented introduction to the fundamental concepts and methods of applied statistics.  It is intended primarily to acquaint students with essential ideas and skills of statistical analysis for data in simple settings. In particular, the course will cover methods of constructing effective graphical and numerical displays to understand the data (exploratory data analysis), probability rules and conditioning arguments (Bayesian reasoning), and the key ideas in confidence interval and hypotheses testing (statistical inference). We use R as software for statistical data analysis."
+  },
+  {
+    "objectID": "news.html#statistics-seminars",
+    "href": "news.html#statistics-seminars",
+    "title": "News",
+    "section": "Statistics Seminars",
+    "text": "Statistics Seminars\n\n\n\n\n\nFall 2024\nIn our data-driven world, data is becoming increasingly ubiquitous, taking on richer forms and larger quantities. These data are now playing a crucial role in decision-making across various fields. STAT I521 is designed to showcase how computing can be utilized to understand the performance of core statistical methods and introduce modern statistical techniques that require computational applications.\nThe course primarily focuses on providing a solid foundation for two statistical programming languages: SAS and R.\nThe SAS Statistical Software section provides an introduction to the SAS interface and syntax. Students will learn how to read data, manipulate it using various SAS statements and options, perform descriptive analyses using procedures such as proc means, proc univariate, and proc freq. They will also learn how to create charts using proc chart and proc gplot. Additionally, the course covers conditional statements, loops, arrays, macros, and advanced procedures such as proc iml for statistical modeling. Students will explore topics including categorical analysis, t-tests, ANOVA, correlation, and regression using SAS.\nIn the R Statistical Software component, students will delve into various aspects, including the R environment and syntax, managing workspaces and directories, input/output operations, working with vectors, matrices, arrays, data frames, and lists. Additionally, they will explore scalar and vector arithmetic calculations, expressions, and functions. The course also covers R packages, programming techniques, conditional statements, loops, and data visualization using R’s graphical capabilities. Furthermore, students will gain exposure to topics such as random sampling, probability distributions, t-tests, ANOVA, and regression within the R environment.\nThe course also introduces students to computational methods and statistical modeling. They will gain knowledge in simulation studies, permutation tests, bootstrapping, logistic regression, high-dimensional linear regression with LASSO and Ridge penalties, and nonparametric smoothing. If time permits, machine learning and deep learning methods may also be discussed.\nUpon completing this course, students will be equipped with the ability to utilize SAS and R to perform a range of statistical tasks. They will be proficient in reading and writing data, conducting descriptive analyses, visualizing data distributions, and performing statistical analyses such as chi-square tests, t-tests, ANOVA, and regression. Furthermore, students will be able to optimize univariate and multivariate functions using both user-defined and built-in functions. They will also gain expertise in using numerical methods to find maximum likelihood estimations, simulating random variables, and implementing modern statistical methodologies such as bootstrapping and high-dimensional LASSO and Ridge regression."
+  },
+  {
+    "objectID": "news.html#langs-lab-journal-club",
+    "href": "news.html#langs-lab-journal-club",
+    "title": "News",
+    "section": "Lang’s Lab Journal Club",
+    "text": "Lang’s Lab Journal Club\n\n\n\n\n\n\n\n\n\n\nFall 2024\nIn our data-driven world, information is abundant, diverse, and increasingly relied upon for decision-making across numerous fields. STAT I512 is designed to equip students with the tools and techniques needed to construct regression models, uncover associations, and make predictions using real-world data. This course aims to provide a comprehensive understanding of both the theoretical foundations and practical application of linear regression models.\nBy successfully completing this course, students will gain a solid grasp of the underlying principles of linear models. Furthermore, they will acquire the skills to apply a wide range of regression techniques to analyze real datasets. Students will also become proficient in using diagnostic tools to evaluate the validity of regression models, as well as employing variable selection and model building strategies within the context of linear regression.\nTo facilitate these endeavors, extensive computer usage, including data analysis and programming in R, will be an integral part of the course. This hands-on approach ensures that students are not only knowledgeable about regression theory, but also proficient in its practical implementation through real data analysis projects.\nOverall, STAT I512 provides the necessary training to harness the power of linear regression models, enabling students to make informed decisions and draw valuable insights from data in a variety of real-world scenarios."
   },
   {
     "objectID": "about.html",
@@ -12,5 +75,96 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html",
+    "href": "quarto-academic-site-examples.html",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "",
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "href": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "",
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "href": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Templates I adapt you may find useful",
+    "text": "Templates I adapt you may find useful\n\n\n\nType\nWeb\nGitHub\n\n\n\n\nPersonal\nhttps://drganghe.github.io/\nhttps://github.com/drganghe/drganghe.github.io\n\n\nLab/Group\nhttps://deeppolicylab.github.io/\nhttps://github.com/deeppolicylab/deeppolicylab.github.io\n\n\nClass\nhttps://drganghe.github.io/energy-climate-policy/\nhttps://github.com/drganghe/energy-climate-policy\n\n\nEvents\nhttps://drganghe.github.io/climate-guest-speakers/\nhttps://github.com/drganghe/climate-guest-speakers\n\n\nSlides\nhttps://drganghe.github.io/files/slides/solar-supply-chains-slides.html\nhttps://quarto.org/docs/presentations/revealjs/\n\n\nPoster\nhttps://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png\nhttps://github.com/brentthorne/posterdown"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "href": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Useful tips for building an academic Quarto site",
+    "text": "Useful tips for building an academic Quarto site\n\nUsing “Includes” for reusable content\nTo streamline updates across your site, use Quarto’s includes feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.\n{{include _statement.qmd}}\nPrefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.\nHere is an example course description, and reuse it in mainpage and syllabus.\n\n\nAcademic badges\nDisplay academic badges like the Dimension Citation badge and Altmetric badge.\n\nHere’s an example for embedding them:\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace the doi with your own.\nMake sure to include below scripts in the same page to enable the badges:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can also showcase your highly cited and hot papers using custom badges.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\nHere is an example, and the source code.\n\n\nSocial sharing\nFor easy setup of social sharing buttons, AddToAny is a simple solution.\nUsing includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.\nHere is an example.\n\n\nThe art of listing\nListings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.\nType: default, grid, table\nOptions: grid-columns, image-height, grid-item-align\nDisplay: fields and field-display-names\nBy mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.\nHere is an example, and source code; another example, and source code.\n\n\nListing external items\nIf you need to list external resources with key metadata, you can use this format to create clear, linked listings.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nIf you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.\nHere is an example, and source code."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
+  },
+  {
+    "objectID": "teaching.html#elementary-statistical-methods",
+    "href": "teaching.html#elementary-statistical-methods",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-statistics",
+    "href": "teaching.html#introduction-to-statistics",
+    "title": "Teaching",
+    "section": "Introduction to Statistics",
+    "text": "Introduction to Statistics\n\n\n\n\n\nSpring 2025\nWe live in a world where data are popping up everywhere, in ever richer forms and larger quantities, and are increasingly expected to form the basis for decisions in various fields. STAT 35000 is a data-oriented introduction to the fundamental concepts and methods of applied statistics.  It is intended primarily to acquaint students with essential ideas and skills of statistical analysis for data in simple settings. In particular, the course will cover methods of constructing effective graphical and numerical displays to understand the data (exploratory data analysis), probability rules and conditioning arguments (Bayesian reasoning), and the key ideas in confidence interval and hypotheses testing (statistical inference). We use R as software for statistical data analysis."
+  },
+  {
+    "objectID": "teaching.html#statistical-computing",
+    "href": "teaching.html#statistical-computing",
+    "title": "Teaching",
+    "section": "Statistical Computing",
+    "text": "Statistical Computing\n\n\n\n\n\nFall 2024\nIn our data-driven world, data is becoming increasingly ubiquitous, taking on richer forms and larger quantities. These data are now playing a crucial role in decision-making across various fields. STAT I521 is designed to showcase how computing can be utilized to understand the performance of core statistical methods and introduce modern statistical techniques that require computational applications.\nThe course primarily focuses on providing a solid foundation for two statistical programming languages: SAS and R.\nThe SAS Statistical Software section provides an introduction to the SAS interface and syntax. Students will learn how to read data, manipulate it using various SAS statements and options, perform descriptive analyses using procedures such as proc means, proc univariate, and proc freq. They will also learn how to create charts using proc chart and proc gplot. Additionally, the course covers conditional statements, loops, arrays, macros, and advanced procedures such as proc iml for statistical modeling. Students will explore topics including categorical analysis, t-tests, ANOVA, correlation, and regression using SAS.\nIn the R Statistical Software component, students will delve into various aspects, including the R environment and syntax, managing workspaces and directories, input/output operations, working with vectors, matrices, arrays, data frames, and lists. Additionally, they will explore scalar and vector arithmetic calculations, expressions, and functions. The course also covers R packages, programming techniques, conditional statements, loops, and data visualization using R’s graphical capabilities. Furthermore, students will gain exposure to topics such as random sampling, probability distributions, t-tests, ANOVA, and regression within the R environment.\nThe course also introduces students to computational methods and statistical modeling. They will gain knowledge in simulation studies, permutation tests, bootstrapping, logistic regression, high-dimensional linear regression with LASSO and Ridge penalties, and nonparametric smoothing. If time permits, machine learning and deep learning methods may also be discussed.\nUpon completing this course, students will be equipped with the ability to utilize SAS and R to perform a range of statistical tasks. They will be proficient in reading and writing data, conducting descriptive analyses, visualizing data distributions, and performing statistical analyses such as chi-square tests, t-tests, ANOVA, and regression. Furthermore, students will be able to optimize univariate and multivariate functions using both user-defined and built-in functions. They will also gain expertise in using numerical methods to find maximum likelihood estimations, simulating random variables, and implementing modern statistical methodologies such as bootstrapping and high-dimensional LASSO and Ridge regression."
+  },
+  {
+    "objectID": "teaching.html#linear-regression",
+    "href": "teaching.html#linear-regression",
+    "title": "Teaching",
+    "section": "Linear Regression",
+    "text": "Linear Regression\n\n\n\n\n\n\n\n\n\n\nFall 2024\nIn our data-driven world, information is abundant, diverse, and increasingly relied upon for decision-making across numerous fields. STAT I512 is designed to equip students with the tools and techniques needed to construct regression models, uncover associations, and make predictions using real-world data. This course aims to provide a comprehensive understanding of both the theoretical foundations and practical application of linear regression models.\nBy successfully completing this course, students will gain a solid grasp of the underlying principles of linear models. Furthermore, they will acquire the skills to apply a wide range of regression techniques to analyze real datasets. Students will also become proficient in using diagnostic tools to evaluate the validity of regression models, as well as employing variable selection and model building strategies within the context of linear regression.\nTo facilitate these endeavors, extensive computer usage, including data analysis and programming in R, will be an integral part of the course. This hands-on approach ensures that students are not only knowledgeable about regression theory, but also proficient in its practical implementation through real data analysis projects.\nOverall, STAT I512 provides the necessary training to harness the power of linear regression models, enabling students to make informed decisions and draw valuable insights from data in a variety of real-world scenarios."
+  },
+  {
+    "objectID": "teaching.html#statistical-inference",
+    "href": "teaching.html#statistical-inference",
+    "title": "Teaching",
+    "section": "Statistical Inference",
+    "text": "Statistical Inference\n\n\n\n\n\nSpring 2022\nThis is a course on statistical inference i.e., the method of drawing conclusions from noisy data. Statistical concepts and methods developed in a mathematical framework, including decision theory, point estimation, confidence intervals and hypothesis testing. We will cover exponential families, UMVUE, MLE, Neyman-Pearson theory, UMP tests, likelihood ratio tests, Bayesian analysis as well as asymptotic theory."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nLEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging\n\n\nHonglang Wang\n\n\nNational Science Foundation\n\n\nThis project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics.\n\n\n$243,215\n\n\n2022\n\n\n2025\n\n\n\n\n\n\n\nSubcontract to NSF project: ‘Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato’\n\n\nHonglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell\n\n\nNational Science Foundation\n\n\nThis project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato.\n\n\n$14,812\n\n\n2016\n\n\n2017\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "letters.html",
+    "href": "letters.html",
+    "title": "Letters",
+    "section": "",
+    "text": "I’m happpy to provide recommendation letters if you were in my class or collaborated with me directly. If not, I may not know you well enough to write a stong letter.\nWhen requesting a letter, please send bullet points addressing the following:\n\nWhat (class) project did you work on?\nWhat contributions did you make to the project?\nWhat challenges did you face during the project?\nHow did you handle those challenges?\nWhy are you interested in the opportunity or position?\n\nPlease also include links to the position or opportunity and note the deadlines. Please reach out at least one month before the deadline. If you need letters for multiple applications, please send all submission links together if possible."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Gang He\nMarxe School of Public and International Affairs\nBaruch College\nCity University of New York\n135 East 22nd Street, Room 615\nNew York, NY 10010\nPhone: +1 (646) 660-6716\nE-mail: gang.he at baruch dot cuny dot edu"
   }
 ]

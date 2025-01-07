@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Honglang.github.io/index.html</loc>
-    <lastmod>2024-11-22T22:06:08.570Z</lastmod>
+    <loc>https://honglang.github.io/publications.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
   </url>
   <url>
-    <loc>https://Honglang.github.io/about.html</loc>
-    <lastmod>2024-11-22T22:06:08.570Z</lastmod>
+    <loc>https://honglang.github.io/index.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/posts.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/news.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/about.html</loc>
+    <lastmod>2025-01-07T17:06:54.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/quarto-academic-site-examples.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/teaching.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/projects.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/letters.html</loc>
+    <lastmod>2025-01-07T17:06:54.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://honglang.github.io/contact.html</loc>
+    <lastmod>2025-01-07T17:06:54.114Z</lastmod>
   </url>
 </urlset>

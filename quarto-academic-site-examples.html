@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Honglang Wang">
-<meta name="description" content="Honglang Wang is an researcher and teacher about data science, Statistics!">
+<meta name="dcterms.date" content="2024-10-15">
+<meta name="description" content="Quarto academic site examples; Quarto website examples; Quarto website templates; Quarto academic websites; site, class, poster, slides templates; tips of building an academic website.">
 
-<title>Honglang Wang, PhD – Dr.&nbsp;Honglang Wang</title>
+<title>Quarto Academic Site Examples and Tips – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,6 +23,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -32,11 +67,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -69,35 +103,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -126,43 +131,12 @@ https://badge.dimensions.ai/
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="">
+<meta property="og:title" content="Quarto Academic Site Examples and Tips – Dr.&nbsp;Honglang Wang">
 <meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="Quarto Academic Site Examples and Tips – Dr.&nbsp;Honglang Wang">
 <meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -285,75 +259,219 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#example-quarto-academic-websites-i-reference-regularly" id="toc-example-quarto-academic-websites-i-reference-regularly" class="nav-link active" data-scroll-target="#example-quarto-academic-websites-i-reference-regularly">Example Quarto academic websites I reference regularly</a></li>
+  <li><a href="#templates-i-adapt-you-may-find-useful" id="toc-templates-i-adapt-you-may-find-useful" class="nav-link" data-scroll-target="#templates-i-adapt-you-may-find-useful">Templates I adapt you may find useful</a></li>
+  <li><a href="#useful-tips-for-building-an-academic-quarto-site" id="toc-useful-tips-for-building-an-academic-quarto-site" class="nav-link" data-scroll-target="#useful-tips-for-building-an-academic-quarto-site">Useful tips for building an academic Quarto site</a>
+  <ul class="collapse">
+  <li><a href="#using-includes-for-reusable-content" id="toc-using-includes-for-reusable-content" class="nav-link" data-scroll-target="#using-includes-for-reusable-content">Using “Includes” for reusable content</a></li>
+  <li><a href="#academic-badges" id="toc-academic-badges" class="nav-link" data-scroll-target="#academic-badges">Academic badges</a></li>
+  <li><a href="#social-sharing" id="toc-social-sharing" class="nav-link" data-scroll-target="#social-sharing">Social sharing</a></li>
+  <li><a href="#the-art-of-listing" id="toc-the-art-of-listing" class="nav-link" data-scroll-target="#the-art-of-listing">The art of listing</a></li>
+  <li><a href="#listing-external-items" id="toc-listing-external-items" class="nav-link" data-scroll-target="#listing-external-items">Listing external items</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profile/honglangwang.JPG" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Honglang Wang, PhD</h1>
-</div>
-<div class="quarto-title-meta column-page">
+<h1 class="title">Quarto Academic Site Examples and Tips</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">tool</div>
   </div>
+  </div>
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Gang He </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 15, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://math.indianapolis.iu.edu/~hlwang/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-globe"></i>
-     <span class="about-link-text">IUIprofile</span>
-  </a>
-  <a href="mailto:hlwang@iu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://www.linkedin.com/in/honglang-wang-18505b29/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@HonglangWang" class="about-link" rel="" target="_blank">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://orcid.org/0000-0003-3140-5177" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" style="font-size: 1xl;" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
-  </a>
-  <a href="https://honglangwang.wordpress.com/" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:wordpress" aria-label="Icon wordpress from fa6-brands Iconify.design set." title="Icon wordpress from fa6-brands Iconify.design set."></iconify-icon> Wordpress</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_oqJfq4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="academicons:google-scholar" aria-label="Icon google-scholar from academicons Iconify.design set." title="Icon google-scholar from academicons Iconify.design set."></iconify-icon> Google Scholar</span>
-  </a>
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<section id="example-quarto-academic-websites-i-reference-regularly" class="level2">
+<h2 class="anchored" data-anchor-id="example-quarto-academic-websites-i-reference-regularly">Example Quarto academic websites I reference regularly</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://quarto.org/" class="uri">https://quarto.org/</a></td>
+<td><a href="https://github.com/quarto-dev/quarto-web" class="uri">https://github.com/quarto-dev/quarto-web</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://www.andrewheiss.com/" class="uri">https://www.andrewheiss.com/</a></td>
+<td><a href="https://github.com/andrewheiss/ath-quarto" class="uri">https://github.com/andrewheiss/ath-quarto</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.jhelvy.com/" class="uri">https://www.jhelvy.com/</a></td>
+<td><a href="https://github.com/jhelvy/jhelvy_quarto" class="uri">https://github.com/jhelvy/jhelvy_quarto</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://faculty.washington.edu/masiello/" class="uri">https://faculty.washington.edu/masiello/</a></td>
+<td><a href="https://github.com/MasielloGroup/MasielloGroupWebsite" class="uri">https://github.com/MasielloGroup/MasielloGroupWebsite</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://affcom.ku.edu/" class="uri">https://affcom.ku.edu/</a></td>
+<td><a href="https://github.com/jmgirard/affcomlab" class="uri">https://github.com/jmgirard/affcomlab</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://silviacanelon.com/" class="uri">https://silviacanelon.com/</a></td>
+<td><a href="https://github.com/spcanelon/silvia" class="uri">https://github.com/spcanelon/silvia</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</section>
+<section id="templates-i-adapt-you-may-find-useful" class="level2">
+<h2 class="anchored" data-anchor-id="templates-i-adapt-you-may-find-useful">Templates I adapt you may find useful</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Personal</td>
+<td><a href="https://drganghe.github.io/" class="uri">https://drganghe.github.io/</a></td>
+<td><a href="https://github.com/drganghe/drganghe.github.io" class="uri">https://github.com/drganghe/drganghe.github.io</a></td>
+</tr>
+<tr class="even">
+<td>Lab/Group</td>
+<td><a href="https://deeppolicylab.github.io/" class="uri">https://deeppolicylab.github.io/</a></td>
+<td><a href="https://github.com/deeppolicylab/deeppolicylab.github.io" class="uri">https://github.com/deeppolicylab/deeppolicylab.github.io</a></td>
+</tr>
+<tr class="odd">
+<td>Class</td>
+<td><a href="https://drganghe.github.io/energy-climate-policy/" class="uri">https://drganghe.github.io/energy-climate-policy/</a></td>
+<td><a href="https://github.com/drganghe/energy-climate-policy" class="uri">https://github.com/drganghe/energy-climate-policy</a></td>
+</tr>
+<tr class="even">
+<td>Events</td>
+<td><a href="https://drganghe.github.io/climate-guest-speakers/" class="uri">https://drganghe.github.io/climate-guest-speakers/</a></td>
+<td><a href="https://github.com/drganghe/climate-guest-speakers" class="uri">https://github.com/drganghe/climate-guest-speakers</a></td>
+</tr>
+<tr class="odd">
+<td>Slides</td>
+<td><a href="https://drganghe.github.io/files/slides/solar-supply-chains-slides.html" class="uri">https://drganghe.github.io/files/slides/solar-supply-chains-slides.html</a></td>
+<td><a href="https://quarto.org/docs/presentations/revealjs/" class="uri">https://quarto.org/docs/presentations/revealjs/</a></td>
+</tr>
+<tr class="even">
+<td>Poster</td>
+<td><a href="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="uri">https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png</a></td>
+<td><a href="https://github.com/brentthorne/posterdown" class="uri">https://github.com/brentthorne/posterdown</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</section>
+<section id="useful-tips-for-building-an-academic-quarto-site" class="level2">
+<h2 class="anchored" data-anchor-id="useful-tips-for-building-an-academic-quarto-site">Useful tips for building an academic Quarto site</h2>
+<section id="using-includes-for-reusable-content" class="level3">
+<h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
+<p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>{{include _statement.qmd}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
+<p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
+</section>
+<section id="academic-badges" class="level3">
+<h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
+<p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<p>Here’s an example for embedding them:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>&lt;span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"&gt;&lt;/span&gt; &lt;div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"&gt;&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Replace the doi with your own.</p>
+<p>Make sure to include below scripts in the same page to enable the badges:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"&gt;&lt;/script&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>You can also showcase your highly cited and hot papers using custom badges.</p>
+<p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Here is an <a href="https://drganghe.github.io/publications.html">example</a>, and the <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd">source code</a>.</p>
+</section>
+<section id="social-sharing" class="level3">
+<h3 class="anchored" data-anchor-id="social-sharing">Social sharing</h3>
+<p>For easy setup of social sharing buttons, <a href="https://www.addtoany.com/buttons/for/website">AddToAny</a> is a simple solution.</p>
+<p>Using includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.</p>
+<p>Here is an <a href="https://github.com/drganghe/drganghe.github.io/blob/main/files/includes/_socialshare.qmd">example</a>.</p>
+</section>
+<section id="the-art-of-listing" class="level3">
+<h3 class="anchored" data-anchor-id="the-art-of-listing">The art of listing</h3>
+<p><a href="https://quarto.org/docs/websites/website-listings.html">Listings</a> are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.</p>
+<p>Type: <code>default</code>, <code>grid</code>, <code>table</code></p>
+<p>Options: <code>grid-columns</code>, <code>image-height</code>, <code>grid-item-align</code></p>
+<p>Display: <code>fields</code> and <code>field-display-names</code></p>
+<p>By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/research.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd">source code</a>; another <a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd">source code</a>.</p>
+</section>
+<section id="listing-external-items" class="level3">
+<h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
+<p>If you need to list external resources with key metadata, you can use this format to create clear, linked listings.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="in">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="in">      image: /files/images/journal/nature.avif</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="in">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="in">      subtitle: "*Nature*"</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="in">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="in">      date: "2022-10-26"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>If you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Honglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the <a href="https://science.indianapolis.iu.edu/math/index.html" class="external" target="_blank">Department of Mathematical Sciences</a>, School of Science, Indiana University Indianapolis.</p>
-</div></div>
-</div>
-
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
-
-
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -377,6 +495,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
