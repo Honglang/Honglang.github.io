@@ -1,0 +1,46 @@
+---
+title: "Lang's Journal Club"
+subtitle: "Department of Mathematical Sciences, IU Indianapolis"
+page-layout: full
+#author: Organizer - Honglang Wang
+#date: "Tuesdays 12:15-1:15PM (EST)"
+#categories: [news, job]
+#image: "featured.jpeg"
+#css: /custom.css
+listing: 
+- id: langclub
+  sort: "started desc"
+  type: table
+  fields: [date, author, title, description]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 30px
+  field-display-names: 
+      date: "Date"
+      author: "Speaker"
+      title: "Title"
+      description: "Note"
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+#    - projects/ 
+    - langclub.yml 
+---
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk times**: Tuesdays 9:30-11:00am (EST)
+
+**Zoom Meetings**: We host our journal club via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/83130869503?pwd=YXlndWYwNHhwdUp3TzRTNTdkbFhkZz09) to Join or use Meeting ID: 83130869503 with Password: 990915 to join. 
+
+
+
+:::{#langclub}
+:::
+
+ 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
