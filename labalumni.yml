@@ -1,0 +1,43 @@
+    - path: https://www.linkedin.com/in/ruohong-li-268b21132/
+      image: /files/images/ruohong.png
+      title: "Ruohong LI"
+      lastname: "ALi"
+      started: "Sep 2017"
+      ended: "May 2021"
+#      author: 
+      subtitle: "Senior Machine Learning Scientist at Microsoft. Thesis: 'Treatment Effect Estimation and Theraputic Optimization Using Observational Data'."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: 
+      image: /files/images/wang_xiang.jpg
+      title: "Xiang WANG"
+      lastname: "AWang"
+      started: "Feb 2021"
+      ended: "May 2024"
+#      author: 
+      subtitle: "Research Assistant at Shanxi University, China. Thesis: 'EFFICIENT INFERENCE AND DOMINANT-SET BASED CLUSTERING FOR FUNCTIONAL DATA'."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://www.linkedin.com/in/isaac-manring-a3baa81b7/
+      image: /files/images/issac.jpg
+      title: "Isaac MANRING"
+      lastname: "Manring"
+      started: "Aug 2022"
+      ended: "Dec 2023"
+#      author: 
+      subtitle: "Data Scientist at Allstate"
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://scholar.google.com/citations?hl=en&user=1v9ooFUAAAAJ
+      image: /files/images/Wenzhe_Jiao.jpg
+      title: "Wenzhe Jiao"
+      lastname: "Jiao"
+      started: "Aug 2018"
+      ended: "May 2022"
+#      author: 
+      subtitle: "Assistant Professor at TAMU"
+#      date: "2024-03-12"
+#      categories: [] 

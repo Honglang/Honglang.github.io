@@ -58,8 +58,8 @@ website:
       # - text: Deep Policy Lab
       #   href: https://deeppolicylab.github.io/
       #   target: _blank
-      # - text: 中文
-      #   href: cn.qmd
+      - text: Lang's Lab
+        href: people.qmd
 
     right: 
       - text: CV
