@@ -1,0 +1,31 @@
+---
+title: "Lang's Journal Club: Large Language Models"
+description: "We will have journal club in spring 2025 focusing on large language models."
+author: "Honglang Wang"
+date: "2025-01-07"
+categories: [news, event, presentation]
+image: "llm.png"
+css: /custom.css
+#draft: true
+---
+
+[![](llm.png)](/langclub.qmd)
+
+
+## Journal Club on LLM, Spring 2025
+
+Tuesdays 9:30-11:00am (EST): 1/13/2025 --- 5/4/2025
+Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/83130869503?pwd=YXlndWYwNHhwdUp3TzRTNTdkbFhkZz09) to Join or use Meeting ID: 83130869503 with Password: 990915 to join. 
+
+
+Welcome to join us to learn more about LLM at IU Indianapolis!
+
+
+## [Journal Club Website](/langclub.qmd)
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,35 @@
+---
+title: "Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data"
+description: "Ran Mo successfully defended his thesis."
+author: "Honglang Wang"
+date: "2024-11-01"
+categories: [news, event, presentation]
+image: "mo-defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](mo-defense.jpg)]()
+
+
+## Defense
+
+* Friday 12:00-2:00PM (EST), 11/01/2024, SL 137
+* Examining Committee
+  + Dr. Honglang Wang, Chair
+  + Dr. Fang Li 
+  + Dr. Fei Tan
+  + Dr. Hanxiang Peng
+
+
+Welcome to join us to learn more about Ran's thesis work at IU Indianapolis!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,35 @@
+---
+title: "STAT 512/521 Course Projects Samples"
+description: "Nice course projects for statistical computing and applied linear regression."
+author: "Honglang Wang"
+date: "2024-12-18"
+categories: [news]
+image: "Indiana-University-Indianapolis.jpg"
+css: /custom.css
+---
+
+[![IU Indianapolis](Indiana-University-Indianapolis.jpg)](https://drganghe.github.io/program-evaluation/)
+
+
+I had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses. 
+
+
+<!-- ## Course Link -->
+
+<!-- <https://drganghe.github.io/program-evaluation/>{target="_blank"} -->
+
+
+## Presentations
+
+- [STAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data](https://iu.mediaspace.kaltura.com/media/t/1_b0007b1z){target="_blank"} 
+- [STAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods](https://iu.mediaspace.kaltura.com/media/t/1_9mkov070){target="_blank"} 
+
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+
+
