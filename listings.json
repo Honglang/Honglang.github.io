@@ -8,11 +8,25 @@
     "items": []
   },
   {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
     "listing": "/seminar2025spring.html",
     "items": []
   },
   {
-    "listing": "/projects.html",
+    "listing": "/langclub.html",
     "items": []
+  },
+  {
+    "listing": "/media.html",
+    "items": []
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/quarto-academic-site-examples.html"
+    ]
   }
 ]
