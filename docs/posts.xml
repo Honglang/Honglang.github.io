@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dr. Honglang Wang</title>
+<link>https://honglang.github.io/posts.html</link>
+<atom:link href="https://honglang.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://honglang.github.io/files/profile/honglangwang.JPG</url>
+<title>Dr. Honglang Wang</title>
+<link>https://honglang.github.io/posts.html</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Tue, 07 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lang’s Journal Club: Large Language Models</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2025-01-llm-journal-club/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="../../langclub.html"><img src="https://honglang.github.io/posts/2025-01-llm-journal-club/llm.png" class="img-fluid"></a></p>
+<section id="journal-club-on-llm-spring-2025" class="level2">
+<h2 class="anchored" data-anchor-id="journal-club-on-llm-spring-2025">Journal Club on LLM, Spring 2025</h2>
+<p>Tuesdays 9:30-11:00am (EST): 1/13/2025 — 5/4/2025 Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: <a href="https://iu.zoom.us/j/83130869503?pwd=YXlndWYwNHhwdUp3TzRTNTdkbFhkZz09">Zoom</a> to Join or use Meeting ID: 83130869503 with Password: 990915 to join.</p>
+<p>Welcome to join us to learn more about LLM at IU Indianapolis!</p>
+</section>
+<section id="journal-club-website" class="level2">
+<h2 class="anchored" data-anchor-id="journal-club-website"><a href="../../langclub.html">Journal Club Website</a></h2>
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://honglang.github.io/posts/2025-01-llm-journal-club/</guid>
+  <pubDate>Tue, 07 Jan 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2025-01-llm-journal-club/llm.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>STAT 512/521 Course Projects Samples</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2024-12-course-projects-samples/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://drganghe.github.io/program-evaluation/"><img src="https://honglang.github.io/posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" class="img-fluid figure-img" alt="IU Indianapolis"></a></p>
+<figcaption>IU Indianapolis</figcaption>
+</figure>
+</div>
+<p>I had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses.</p>
+<!-- ## Course Link -->
+<!-- <https://drganghe.github.io/program-evaluation/>{target="_blank"} -->
+<section id="presentations" class="level2">
+<h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
+<ul>
+<li><a href="https://iu.mediaspace.kaltura.com/media/t/1_b0007b1z" target="_blank">STAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data</a></li>
+<li><a href="https://iu.mediaspace.kaltura.com/media/t/1_9mkov070" target="_blank">STAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods</a></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://honglang.github.io/posts/2024-12-course-projects-samples/</guid>
+  <pubDate>Wed, 18 Dec 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2024-11-ran-mo-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href=""><img src="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg" class="img-fluid"></a></p>
+<section id="defense" class="level2">
+<h2 class="anchored" data-anchor-id="defense">Defense</h2>
+<ul>
+<li>Friday 12:00-2:00PM (EST), 11/01/2024, SL 137</li>
+<li>Examining Committee
+<ul>
+<li>Dr.&nbsp;Honglang Wang, Chair</li>
+<li>Dr.&nbsp;Fang Li</li>
+<li>Dr.&nbsp;Fei Tan</li>
+<li>Dr.&nbsp;Hanxiang Peng</li>
+</ul></li>
+</ul>
+<p>Welcome to join us to learn more about Ran’s thesis work at IU Indianapolis!</p>
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://honglang.github.io/posts/2024-11-ran-mo-defense/</guid>
+  <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
