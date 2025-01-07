@@ -84,9 +84,6 @@ format:
     link-external-newwindow: true
 ---
 
-<!--Please delete or replace with your own clarity-->
-{{< include /files/includes/_msclarity.qmd >}}
-
 ## Team
 
 :::{#lab-member}
@@ -97,6 +94,12 @@ format:
 
 :::{#lab-alumni}
 :::
+
+## Lab Group Pictures
+
+[![June 5th, 2021](/files/images/06052021.jpg)]()
+
+[![May 10th, 2023](/files/images/05102023.jpg)]()
 
 <!--
 ## Collaborators
