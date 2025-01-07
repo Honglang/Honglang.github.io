@@ -1,0 +1,103 @@
+# 
+#     - path: /projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html
+# #https://www.nyrdrc.org/research-library/ny25-02-estimating-what-we-miss-about-direct-care-workers-employment-earnings-and-retirement-savingsnbsp-7dlrr-dcfy8-zye4b-nt2en-blr3c   
+#       image: /files/images/funders/ssa.png
+#       title: "Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities"
+#       author: Gang He, Kaifang Luo, Hilary Botein, Frank Heiland
+#       subtitle: "Social Security Administration"
+#       description: "The goal of this project is to investigate the energy burden faced by older adults (ages 62 and older) and people with disabilities in New York City to better understand its impact on their wellbeing."
+#       started: "2024"
+#       ended: "2025"
+#       funding: "$100,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+# 
+#     - path: https://ccci.berkeley.edu/research
+#       image: /files/images/funders/ucb.webp
+#       title: "Global Clean Energy Supply Chains Analysis and Power Systems Resources Adequacy Assessment"
+#       author: Gang He
+#       subtitle: "University of California, Berkeley"
+#       description: "The goal of this project is to collaborate with CCCI team to study global clean energy supply chains and power system resources adequacy."
+#       started: "2024"
+#       ended: "2026"
+#       funding: "$100,000"
+# #    date: "2022-10-26"
+# #    categories: []
+# 
+# 
+#     - path: https://www.growaldclimatefund.org/why-electricity
+#       image: /files/images/funders/growald.png
+#       title: "Power system beyond coal"
+#       author: Gang He
+#       subtitle: "Growald Climate Fund"
+#       description: "The goal of this project is to collaborate with LBL team in modeling the decarbonization of China’s power sector."
+#       started: "2024"
+#       ended: "2025"
+#       funding: "$64,000"
+# #     date: "2022-10-26"
+# #     categories: []
+# 
+# 
+#     - path: https://www.climateworks.org/grants-database/?sort_by=newest&search=City%20University%20of%20New%20York&posts_per_page=20
+#       image: /files/images/funders/climateworks.png
+#       title: "The carbon mitigation, air quality, and human health benefits achieved by global solar PV supply chains"
+#       author: Gang He
+#       subtitle: "ClimateWorks Foundation"
+#       description: "The goal of this project is to investigate the air quality and human health benefits achieved by global solar PV supply chains."
+#       started: "2023"
+#       ended: "2025"
+#       funding: "$100,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+# 
+#     - path: https://www.edf.org/work/economics-energy-transition
+#       image: /files/images/funders/edf.png
+#       title: "Multi-Country Electricity Transition Potential and Challenges Project (MCET)"
+#       author: Gang He
+#       subtitle: "Environmental Defense Fund"
+#       description: "The goal of this project is to provide technical support to the MCET team to assess the opportunities and barriers to decarbonize their electricity sectors using open data and models."
+#       started: "2023"
+#       ended: "2024"
+#       funding: "$40,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+#     - path: https://energy.lbl.gov/people/gang-he
+#       image: /files/images/funders/lbl.jpg
+#       title: "Power Systems Modeling and Analysis"
+#       author: Gang He
+#       subtitle: "Lawrence Berkeley National Laboratory"
+#       description: "Multiple projects to collaborate with LBL team modeling the technology and policy options of decarbonizing China's power systems."
+#       started: "2018"
+#       ended: "2024"
+#       funding: "$140,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+
+
+    - path: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false
+      image: /files/images/nsf.png
+      title: "LEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging"
+      author: Honglang Wang
+      subtitle: "National Science Foundation"
+      description: "This project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics."
+      started: "2022"
+      ended: "2025"
+      funding: "$243,215"
+#      date: "2022-10-26"
+#      categories: [] 
+
+    - path: https://www.nsf.gov/awardsearch/showAward?HistoricalAwards=false&AWD_ID=1237969
+      image: /files/images/nsf.png
+      title: "Subcontract to NSF project: 'Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato'"
+      author: Honglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell
+      subtitle: "National Science Foundation"
+      description: "This project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato."
+      started: "2016"
+      ended: "2017"
+      funding: "$14,812"
+#      date: "2022-10-26"
+#      categories: [] 
+

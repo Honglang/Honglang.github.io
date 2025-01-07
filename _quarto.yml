@@ -1,19 +1,134 @@
 project:
   type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Dr. Honglang Wang is a statistician, researcher, and teacher. He studies and teaches data science."
+author-meta: "Honglang Wang"
 
 website:
-  title: "Honglang.github.io"
+  title: "Dr. Honglang Wang"
+  image: "/files/profile/honglangwang.JPG"
   navbar:
+    background: light
+    
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      # - href: index.qmd
+      #   text: Home
+      # - about.qmd
+
+      - text: About
+        menu:
+          - text: News
+            href: posts.qmd#category=news
+          - text: Events
+            href: posts.qmd#category=event
+          - text: Now
+            href: now.qmd       
+          - text: Contact
+            href: contact.qmd             
+      - text: Research
+        menu:
+          - text: List of Publication
+            href: publications.qmd
+          # - text: Selected Papers
+          #   href: posts.qmd#category=paper
+          # - text: Commentary
+          #   href: posts.qmd#category=commentary
+          # - text: Testimony
+          #   href: posts.qmd#category=testimony
+          # - text: Awards
+          #   href: posts.qmd#category=award  
+          - text: Grants
+            href: projects.qmd
+            target: _blank                                  
+      - text: Teaching
+        href: teaching.qmd
+      - text: Outreach
+        menu:
+        - text: Policy Impacts
+          href: posts.qmd#category=outreach 
+        - text: Presentations
+          href: posts.qmd#category=presentation       
+        - text: Media
+          href: media.qmd        
+        - text: Notes
+          href: notes.qmd        
+  
+      # - text: Deep Policy Lab
+      #   href: https://deeppolicylab.github.io/
+      #   target: _blank
+      # - text: 中文
+      #   href: cn.qmd
+
+    right: 
+      - text: CV
+        href: files/Gang-He-CV.pdf
+        target: _blank 
+      - icon: github
+        href: https://github.com/drganghe
+        target: _blank
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/honglangwang.bsky.social
+        target: _blank
+#      - icon: twitter-x 
+#        href: https://twitter.com/DrGangHe
+#        target: _blank        
+      - icon: rss
+        href: posts.xml
+        target: _blank
+  
+  page-navigation: true
+  
+  page-footer: 
+    left: "[Honglang Wang](http://honglang.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/honglang/honglang.github.io
+        target: _blank
+      - text: "{{< iconify fa6-brands bluesky >}}" 
+        href: https://bsky.app/profile/honglangwang.bsky.social
+        target: _blank
+      - icon: rss
+        href: posts.xml
+        target: _blank  
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: true
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/honglang/honglang.github.io
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: true
+  
+  twitter-card: true 
+#  card-style: summary      
+  
+  site-url: "https://honglang.github.io"
+  
+  google-analytics:
+    tracking-id: "G-G4DYZHP5J7"
+    anonymize-ip: true 
+
+bibliography: references.bib
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/honglang\.github\.io\/custom'
+    include-in-header: "files/includes/_academic.qmd"
