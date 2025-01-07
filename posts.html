@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -160,11 +160,11 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="Dr. Honglang Wang" href="posts.xml" data-external="1"><meta property="og:title" content="What’s New &amp; Updated – Dr.&nbsp;Honglang Wang">
 <meta property="og:description" content="Posts about papers, events, news, and more">
-<meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<meta property="og:image" content="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png">
 <meta property="og:site_name" content="Dr. Honglang Wang">
 <meta name="twitter:title" content="What’s New &amp; Updated – Dr.&nbsp;Honglang Wang">
 <meta name="twitter:description" content="Posts about papers, events, news, and more">
-<meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<meta name="twitter:image" content="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -257,7 +257,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="YXdhcmQ=">award <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZXZlbnQ=">event <span class="quarto-category-count">(4)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(6)</span></div><div class="category" data-category="cHJlc2VudGF0aW9u">presentation <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -298,13 +298,280 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1736208000000" data-listing-file-modified-sort="1736273311120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<div class="thumbnail">
+<p><a href="./posts/2025-01-llm-journal-club/index.html" class="no-external"></a></p><a href="./posts/2025-01-llm-journal-club/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/2025-01-llm-journal-club/llm.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/2025-01-llm-journal-club/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2025-01-llm-journal-club/index.html" class="no-external">Lang’s Journal Club: Large Language Models</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/2025-01-llm-journal-club/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">
+event
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cHJlc2VudGF0aW9u'); return false;">
+presentation
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/2025-01-llm-journal-club/index.html" class="no-external">We will have journal club in spring 2025 focusing on large language models.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/2025-01-llm-journal-club/index.html" class="no-external">
+<div class="listing-date">
+Jan 7, 2025
+</div>
+<div class="listing-author">
+Honglang Wang
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1734480000000" data-listing-file-modified-sort="1736273311120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
+<div class="thumbnail">
+<p><a href="./posts/2024-12-course-projects-samples/index.html" class="no-external"></a></p><a href="./posts/2024-12-course-projects-samples/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/2024-12-course-projects-samples/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2024-12-course-projects-samples/index.html" class="no-external">STAT 512/521 Course Projects Samples</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/2024-12-course-projects-samples/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/2024-12-course-projects-samples/index.html" class="no-external">Nice course projects for statistical computing and applied linear regression.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/2024-12-course-projects-samples/index.html" class="no-external">
+<div class="listing-date">
+Dec 18, 2024
+</div>
+<div class="listing-author">
+Honglang Wang
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1730419200000" data-listing-file-modified-sort="1736273311116" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<div class="thumbnail">
+<p><a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external"></a></p><a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external">
+<p><img loading="lazy" src="./posts/2024-11-ran-mo-defense/mo-defense.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external">Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">
+event
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cHJlc2VudGF0aW9u'); return false;">
+presentation
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external">Ran Mo successfully defended his thesis.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/2024-11-ran-mo-defense/index.html" class="no-external">
+<div class="listing-date">
+Nov 1, 2024
+</div>
+<div class="listing-author">
+Honglang Wang
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="bmV3cw==" data-listing-date-sort="1730419200000">
+<div class="thumbnail">
+<p><a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external"></a></p><a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external">
+<p><img loading="lazy" src="./files/images/nyc-mid-town.webp" class="thumbnail-image"></p>
+</a><p><a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external">New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+</div>
+<div class="listing-description">
+<a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external">Gang He, Kaifang Luo, Hilary Botein, and Frank Heiland were awarded a SSA grant</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="no-external">
+<div class="listing-date">
+Nov 1, 2024
+</div>
+<div class="listing-author">
+NYRDRC
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="ZXZlbnQ=" data-listing-date-sort="1727308800000">
+<div class="thumbnail">
+<p><a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external"></a></p><a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external">
+<p><img loading="lazy" src="./files/images/climate-week-logo.png" class="thumbnail-image"></p>
+</a><p><a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external">NYC Climate Week: Clean Energy Global Supply Chains Panel</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">
+event
+</div>
+</div>
+<div class="listing-description">
+<a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external">Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html" class="no-external">
+<div class="listing-date">
+Sep 26, 2024
+</div>
+<div class="listing-author">
+Deep Policy Lab
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="ZXZlbnQlMkNuZXdz" data-listing-date-sort="1721347200000">
+<div class="thumbnail">
+<p><a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external"></a></p><a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external">
+<p><img loading="lazy" src="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png" class="thumbnail-image"></p>
+</a><p><a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external">Workshop on Open Modeling Carbon Neutrality of the Power Sector</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('ZXZlbnQ='); return false;">
+event
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+</div>
+<div class="listing-description">
+<a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external">Deveoping a community to enable open and safe modeling and data sharing.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html" class="no-external">
+<div class="listing-date">
+Jul 19, 2024
+</div>
+<div class="listing-author">
+Deep Policy Lab
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="bmV3cyUyQ2F3YXJk" data-listing-date-sort="1558310400000">
+<div class="thumbnail">
+<p><a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external"></a></p><a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external">
+<p><img loading="lazy" src="./files/images/energy-innovation-scholars.jpg" class="thumbnail-image"></p>
+</a><p><a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external">2019 Energy Innovation Policy and Management Scholars</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('YXdhcmQ='); return false;">
+award
+</div>
+</div>
+<div class="listing-description">
+<a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external">Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="no-external">
+<div class="listing-date">
+May 20, 2019
+</div>
+<div class="listing-author">
+ITIF
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

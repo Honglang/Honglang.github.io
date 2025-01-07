@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Honglang Wang">
-<meta name="description" content="Honglang Wang is an researcher and teacher about data science, Statistics!">
+<meta name="dcterms.date" content="2024-11-01">
+<meta name="description" content="Dr.&nbsp;Honglang Wang is a statistician, researcher, and teacher. He studies and teaches data science.">
 
-<title>Honglang Wang, PhD – Dr.&nbsp;Honglang Wang</title>
+<title>Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,24 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9cb129d53631bd6c8b17cb8d41cbc6a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-9cb129d53631bd6c8b17cb8d41cbc6a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,36 +69,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -127,44 +97,16 @@ https://badge.dimensions.ai/
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../custom.css">
+<meta property="og:title" content="Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data – Dr.&nbsp;Honglang Wang">
+<meta property="og:description" content="Ran Mo successfully defended his thesis.">
+<meta property="og:image" content="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<meta name="twitter:title" content="Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data – Dr.&nbsp;Honglang Wang">
+<meta name="twitter:description" content="Ran Mo successfully defended his thesis.">
+<meta name="twitter:image" content="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -175,7 +117,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Honglang Wang</span>
     </a>
   </div>
@@ -191,11 +133,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./news.html">
+    <a class="dropdown-item" href="../../news.html">
  <span class="dropdown-text">News</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contact.html">
+    <a class="dropdown-item" href="../../contact.html">
  <span class="dropdown-text">Contact</span></a>
   </li>  
     </ul>
@@ -206,23 +148,23 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./publications.html">
+    <a class="dropdown-item" href="../../publications.html">
  <span class="dropdown-text">List of Publication</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./projects.html" target="_blank">
+    <a class="dropdown-item" href="../../projects.html" target="_blank">
  <span class="dropdown-text">Grants</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/CV.pdf" target="_blank"> 
+    <a class="nav-link" href="../../files/CV.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -235,7 +177,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -252,168 +194,88 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#defense" id="toc-defense" class="nav-link active" data-scroll-target="#defense">Defense</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profile/honglangwang.JPG" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Honglang Wang, PhD</h1>
-</div>
-<div class="quarto-title-meta column-page">
+<h1 class="title">Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">news</div>
+    <div class="quarto-category">event</div>
+    <div class="quarto-category">presentation</div>
   </div>
+  </div>
+
+<div>
+  <div class="description">
+    Ran Mo successfully defended his thesis.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Honglang Wang </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 1, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://math.indianapolis.iu.edu/~hlwang/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-globe"></i>
-     <span class="about-link-text">IUIprofile</span>
-  </a>
-  <a href="mailto:hlwang@iu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://www.linkedin.com/in/honglang-wang-18505b29/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@HonglangWang" class="about-link" rel="" target="_blank">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://orcid.org/0000-0003-3140-5177" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" style="font-size: 1xl;" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
-  </a>
-  <a href="https://honglangwang.wordpress.com/" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:wordpress" aria-label="Icon wordpress from fa6-brands Iconify.design set." title="Icon wordpress from fa6-brands Iconify.design set."></iconify-icon> Wordpress</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_oqJfq4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="academicons:google-scholar" aria-label="Icon google-scholar from academicons Iconify.design set." title="Icon google-scholar from academicons Iconify.design set."></iconify-icon> Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Honglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the <a href="https://science.indianapolis.iu.edu/math/index.html" class="external" target="_blank">Department of Mathematical Sciences</a>, School of Science, Indiana University Indianapolis.</p>
-<p><strong>Education</strong></p>
+
+
+<p><a href=""><img src="mo-defense.jpg" class="img-fluid"></a></p>
+<section id="defense" class="level2">
+<h2 class="anchored" data-anchor-id="defense">Defense</h2>
 <ul>
-<li><p>PhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.</p></li>
-<li><p>Dual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.</p></li>
-<li><p>MS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.</p></li>
-<li><p>BS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.</p></li>
-</ul>
-<p>See my <a href="files/CV.pdf">Curriculum Vitae</a> for more information.</p>
-<p><strong>Research Interests</strong></p>
+<li>Friday 12:00-2:00PM (EST), 11/01/2024, SL 137</li>
+<li>Examining Committee
 <ul>
-<li><p>Statistical Analysis for Longitudinal and Functional Data</p></li>
-<li><p>High Dimensional Statistical Inference and its Applications</p></li>
-<li><p>Causal Inference</p></li>
-<li><p>Machine Learning/Deep Learning</p></li>
-<li><p>Nonparametric Statistics</p></li>
-<li><p>Empirical Likelihood Methods and its Applications</p></li>
-<li><p>Statistical Genetics and Statistical Genomics</p></li>
+<li>Dr.&nbsp;Honglang Wang, Chair</li>
+<li>Dr.&nbsp;Fang Li</li>
+<li>Dr.&nbsp;Fei Tan</li>
+<li>Dr.&nbsp;Hanxiang Peng</li>
+</ul></li>
 </ul>
-</div></div>
+<p>Welcome to join us to learn more about Ran’s thesis work at IU Indianapolis!</p>
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
-
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1736208000000" data-listing-file-modified-sort="1736273311120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
-<a href="./posts/2025-01-llm-journal-club/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2025-01-llm-journal-club/llm.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lang’s Journal Club: Large Language Models
-</h5>
-<div class="card-text listing-description">
-We will have journal club in spring 2025 focusing on large language…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Honglang Wang
-</div>
-<div class="listing-date">
-Jan 7, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1734480000000" data-listing-file-modified-sort="1736273311120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
-<a href="./posts/2024-12-course-projects-samples/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-STAT 512/521 Course Projects Samples
-</h5>
-<div class="card-text listing-description">
-Nice course projects for statistical computing and applied linear…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Honglang Wang
-</div>
-<div class="listing-date">
-Dec 18, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1730419200000">
-<a href="https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/nyc-mid-town.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities
-</h5>
-<div class="card-text listing-description">
-Gang He, Kaifang Luo, Hilary Botein, and Frank Heiland were awarded a SSA…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-NYRDRC
-</div>
-<div class="listing-date">
-Nov 1, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
-
-
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
@@ -439,6 +301,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -858,7 +727,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>
