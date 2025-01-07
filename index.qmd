@@ -77,6 +77,35 @@ listing:
 
 Honglang Wang is an researcher and teacher about data science, Statistics!  He is an Associate Professor in the [Department of Mathematical Sciences](https://science.indianapolis.iu.edu/math/index.html){.external target="_blank"}, School of Science, Indiana University Indianapolis. 
 
+**Education**
+
+* PhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.
+
+* Dual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.
+
+* MS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.
+
+* BS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.
+
+See my [Curriculum Vitae](files/CV.pdf) for more information.
+
+**Research Interests**
+
+* Statistical Analysis for Longitudinal and Functional Data
+
+* High Dimensional Statistical Inference and its Applications
+
+* Causal Inference
+
+* Machine Learning/Deep Learning
+
+* Nonparametric Statistics
+
+* Empirical Likelihood Methods and its Applications
+
+* Statistical Genetics and Statistical Genomics
+
+
 :::
 
 ## Recent Posts

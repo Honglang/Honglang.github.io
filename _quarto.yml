@@ -20,11 +20,11 @@ website:
       - text: About
         menu:
           - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event
-          - text: Now
-            href: now.qmd       
+            href: news.qmd
+          # - text: Events
+          #   href: posts.qmd#category=event
+          # - text: Now
+          #   href: now.qmd       
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -44,16 +44,16 @@ website:
             target: _blank                                  
       - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        menu:
-        - text: Policy Impacts
-          href: posts.qmd#category=outreach 
-        - text: Presentations
-          href: posts.qmd#category=presentation       
-        - text: Media
-          href: media.qmd        
-        - text: Notes
-          href: notes.qmd        
+    # - text: Outreach
+    #   menu:
+        # - text: Policy Impacts
+        #   href: posts.qmd#category=outreach 
+        # - text: Presentations
+        #   href: posts.qmd#category=presentation       
+        # - text: Media
+        #   href: media.qmd        
+        # - text: Notes
+        #   href: notes.qmd        
   
       # - text: Deep Policy Lab
       #   href: https://deeppolicylab.github.io/
@@ -63,10 +63,10 @@ website:
 
     right: 
       - text: CV
-        href: files/Gang-He-CV.pdf
+        href: files/CV.pdf
         target: _blank 
       - icon: github
-        href: https://github.com/drganghe
+        href: https://github.com/honglang
         target: _blank
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/honglangwang.bsky.social

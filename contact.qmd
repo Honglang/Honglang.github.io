@@ -4,26 +4,22 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 comments:
  giscus: 
-   repo: drganghe/drganghe.github.io
+   repo: honglang/honglang.github.io
 ---
 
 <center>
 
-**Gang He**
+**Honglang Wang**
 
-Marxe School of Public and International Affairs
+Office: LD 270B, 402 N.Blackford St.
 
-Baruch College
+Department of Mathematical Sciences
 
-City University of New York
+Indiana University Indianapolis
 
-135 East 22nd Street, Room 615
+Indianapolis, IN 46202
 
-New York, NY 10010
-
-Phone: +1 (646) 660-6716
-
-E-mail: <gang.he@baruch.cuny.edu>
+E-mail: <hlwang@iu.edu>
 
 
 </center>
