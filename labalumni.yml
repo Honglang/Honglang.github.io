@@ -1,3 +1,14 @@
+    - path: https://www.linkedin.com/in/ran-mo-2b8a78202/
+      image: /files/images/ran.jpg
+      title: "Ran MO"
+      lastname: "AMo"
+      started: "Jan 2021"
+      ended: "Dec 2024"
+#      author: 
+      subtitle: "Working at IU Indianapolis. Thesis: 'Robust Inference for Heterogeneous Treatment Effects with Applications to NHANES Data'."
+#      date: "2024-03-12"
+#      categories: [] 
+
     - path: https://www.linkedin.com/in/ruohong-li-268b21132/
       image: /files/images/ruohong.png
       title: "Ruohong LI"
@@ -33,7 +44,7 @@
 
     - path: https://scholar.google.com/citations?hl=en&user=1v9ooFUAAAAJ
       image: /files/images/Wenzhe_Jiao.jpg
-      title: "Wenzhe Jiao"
+      title: "Wenzhe JIAO"
       lastname: "Jiao"
       started: "Aug 2018"
       ended: "May 2022"
