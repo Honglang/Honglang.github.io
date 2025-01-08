@@ -31,7 +31,10 @@ about:
 #      href: https://twitter.com/DrGangHe
 #    - icon: mastodon
 #      text: Mastodon
-#      href: https://mastodon.social/@hegang      
+#      href: https://mastodon.social/@hegang    
+    - text: "{{< ai arxiv >}} arXiv" 
+      href: http://arxiv.org/a/wang_h_19
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/honglang-wang-18505b29/

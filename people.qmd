@@ -97,9 +97,15 @@ format:
 
 ## Lab Group Pictures
 
-[![June 5th, 2021](/files/images/06052021.jpg)]()
+::: {layout-ncol=2}
+![June 5th, 2021](/files/images/06052021.jpg)
 
-[![May 10th, 2023](/files/images/05102023.jpg)]()
+![May 10th, 2023](/files/images/05102023.jpg)
+:::
+
+<!-- [![June 5th, 2021](/files/images/06052021.jpg)]() -->
+
+<!-- [![May 10th, 2023](/files/images/05102023.jpg)]() -->
 
 <!--
 ## Collaborators
