@@ -69,6 +69,11 @@ The course also introduces students to computational methods and statistical mod
 
 Upon completing this course, students will be equipped with the ability to utilize SAS and R to perform a range of statistical tasks. They will be proficient in reading and writing data, conducting descriptive analyses, visualizing data distributions, and performing statistical analyses such as chi-square tests, t-tests, ANOVA, and regression. Furthermore, students will be able to optimize univariate and multivariate functions using both user-defined and built-in functions. They will also gain expertise in using numerical methods to find maximum likelihood estimations, simulating random variables, and implementing modern statistical methodologies such as bootstrapping and high-dimensional LASSO and Ridge regression.
 
+### Final Project Samples
+
+- [Fall 2024: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods](https://iu.mediaspace.kaltura.com/media/t/1_9mkov070){target="_blank"} 
+
+
 :::
 
 :::
@@ -103,6 +108,10 @@ By successfully completing this course, students will gain a solid grasp of the 
 To facilitate these endeavors, extensive computer usage, including data analysis and programming in R, will be an integral part of the course. This hands-on approach ensures that students are not only knowledgeable about regression theory, but also proficient in its practical implementation through real data analysis projects.
 
 Overall, STAT I512 provides the necessary training to harness the power of linear regression models, enabling students to make informed decisions and draw valuable insights from data in a variety of real-world scenarios.
+
+### Final Project Samples
+
+- [Fall 2024: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data](https://iu.mediaspace.kaltura.com/media/t/1_b0007b1z){target="_blank"} 
 
 :::
 
