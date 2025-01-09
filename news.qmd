@@ -70,7 +70,7 @@ title-block-banner: false
 
 [Spring 2025](/seminar2025spring.qmd)
 
-<iframe width="800" height="800" src="https://math.indianapolis.iu.edu/~hlwang/statseminar2025spring.html" title="Statistics Seminar Spring 2025"></iframe>
+<!-- <iframe width="800" height="800" src="https://math.indianapolis.iu.edu/~hlwang/statseminar2025spring.html" title="Statistics Seminar Spring 2025"></iframe> -->
 
 
 [Fall 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024fall.html)
