@@ -21,6 +21,10 @@ website:
         menu:
           - text: News
             href: news.qmd
+          - text: Statistics Seminar
+            href: seminar2025spring.qmd
+          - text: Lang's Journal Club
+            href: langclub.qmd
           # - text: Events
           #   href: posts.qmd#category=event
           # - text: Now
