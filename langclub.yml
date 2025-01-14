@@ -79,25 +79,30 @@
 
     - date: Jan 14, 2025
       author: Honglang Wang
-      title: Introduction to Deep Learning and Large Language Models
-      description: "[slides]"
-      
+      title: Introduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)
+      description: "[FNN and BP](/files/papers/cs229-notes-deep_learning.pdf), [CNN](/files/papers/CNN.pdf)"
+ 
     - date: Jan 21, 2025
+      author: Honglang Wang
+      title: Introduction to Recurrent Neural Network (RNN) and Attension
+      description: "[RNN](/files/papers/Lec4-RNN.pdf), [Attension](/files/papers/Lec5-SelfAttention.pdf), [Transformer](/files/papers/Lec6-Transformer.pdf)"
+      
+    - date: Jan 28, 2025
       author: Xiang Wang
       title: "TBD"
       description: "[slides]"
 
-    - date: Jan 28, 2025
+    - date: Feb 04, 2025
       author: Ran Mo
       title: "TBD"
       description: "[slides]"
 
-    - date: Feb 04, 2025
+    - date: Feb 11, 2025
       author: Xuchen Fang
       title: "TBD"
       description: "[slides]"
 
-    - date: Feb 11, 2025
+    - date: Feb 18, 2025
       author: Yishan Cui
       title: "TBD"
       description: "[slides]"
