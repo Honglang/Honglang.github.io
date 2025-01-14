@@ -84,7 +84,7 @@
  
     - date: Jan 21, 2025
       author: Honglang Wang
-      title: Introduction to Recurrent Neural Network (RNN) and Attension
+      title: Introduction to Recurrent Neural Network (RNN), Attension and Transformer
       description: "[RNN](/files/papers/Lec4-RNN.pdf), [Attension](/files/papers/Lec5-SelfAttention.pdf), [Transformer](/files/papers/Lec6-Transformer.pdf)"
       
     - date: Jan 28, 2025
