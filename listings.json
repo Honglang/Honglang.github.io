@@ -1,25 +1,14 @@
 [
   {
-    "listing": "/seminar2025spring.html",
-    "items": []
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/new-york-state-climate-policy.html",
-      "/quarto-academic-site-examples.html"
-    ]
-  },
-  {
-    "listing": "/langclub.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": []
   },
   {
     "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/media.html",
     "items": []
   },
   {
@@ -31,15 +20,26 @@
     ]
   },
   {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/new-york-state-climate-policy.html",
+      "/quarto-academic-site-examples.html"
+    ]
+  },
+  {
+    "listing": "/seminar2025spring.html",
+    "items": []
+  },
+  {
+    "listing": "/langclub.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/2025-01-llm-journal-club/index.html",
       "/posts/2024-12-course-projects-samples/index.html",
       "/posts/2024-11-ran-mo-defense/index.html"
     ]
-  },
-  {
-    "listing": "/media.html",
-    "items": []
   }
 ]
