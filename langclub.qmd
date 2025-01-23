@@ -34,17 +34,36 @@ listing:
 
 **Zoom Meetings**: We host our journal club via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/83130869503?pwd=YXlndWYwNHhwdUp3TzRTNTdkbFhkZz09) to Join or use Meeting ID: 83130869503 with Password: 990915 to join. 
 
+
+:::{#langclub}
+:::
+
 **Resources**: places to select papers to study
 
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) 
 - [Luberlab Journal Club - AI in Healthcare Research](https://facevoid.github.io/luberlab-jc-fall24/papers)
 - [A.I. LLM Journal Club](https://docs.google.com/spreadsheets/d/16C5IivYfqZz0-pwFX3R0jK_9OQkq2e6IuM1lP4oMKGo/edit?gid=0#gid=0)
 - [LLM Research Papers: The 2024 List from Sebastian Raschka](https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html)
+- [Memory Networks](https://arxiv.org/abs/1410.3916)
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [Mixture of Experts（MoE）学习笔记](https://zhuanlan.zhihu.com/p/675216281?utm_medium=social&utm_psn=1865922622358941696&utm_source=ZHShareTargetIDMore)
+- [混合专家模型 (MoE) 详解](https://zhuanlan.zhihu.com/p/674698482?utm_medium=social&utm_psn=1865923450385870848&utm_source=ZHShareTargetIDMore)
+- [deepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention)](https://zhuanlan.zhihu.com/p/16730036197); [deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生](https://zhuanlan.zhihu.com/p/18056041194); [deepseek技术解读(3)-MoE的演进之路](https://zhuanlan.zhihu.com/p/18565423596)
+- [Theoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data](https://arxiv.org/abs/2402.00743v2)
+- [Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer](https://arxiv.org/abs/2305.16380)
+- [JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention](https://arxiv.org/abs/2310.00535)
 
-:::{#langclub}
-:::
 
- 
+**Nice YouTube Videos**:
+
+- [Transformer论文逐段精读](https://youtu.be/nzqlFIcCSWQ?si=BCuY9McOPPB_1iwD) 
+- [从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)](https://youtu.be/GGLr-TtKguA?si=q55sLBpzA_9ZiP1m)
 
 <!--Include social share buttons-->
 
