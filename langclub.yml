@@ -88,21 +88,26 @@
       description: "[RNN](/files/papers/Lec4-RNN.pdf), [Attension](/files/papers/Lec5-SelfAttention.pdf), [Transformer](/files/papers/Lec6-Transformer.pdf)"
       
     - date: Jan 28, 2025
-      author: Xiang Wang
-      title: "TBD"
-      description: "[slides]"
+      author: Happy Chinese New Year
+      title: "Cancelled"
+      description: ""
 
     - date: Feb 04, 2025
+      author: Xiang Wang
+      title: Philosophy of Language
+      description: "[slides]"
+
+    - date: Feb 11, 2025
       author: Ran Mo
       title: "TBD"
       description: "[slides]"
 
-    - date: Feb 11, 2025
+    - date: Feb 18, 2025
       author: Xuchen Fang
       title: "TBD"
       description: "[slides]"
-
-    - date: Feb 18, 2025
+      
+    - date: Feb 25, 2025
       author: Yishan Cui
       title: "TBD"
       description: "[slides]"

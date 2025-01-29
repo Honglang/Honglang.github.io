@@ -16,9 +16,9 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-**[Jan 2025]** Jingyi Zhang, **Honglang Wang**, Yuehua Cui. Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits. *Plos One*
+**[Jan 2025]** Jingyi Zhang, **Honglang Wang**, Yuehua Cui. [Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318103&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author). *Plos One*
 
-**[Jan 2025]** Jingyi Zhang, Xu Liu, **Honglang Wang**, Yuehua Cui. Functional varying-index coefficients model for dynamic synergistic gene-environment interactions. *Statistics in Biosciences*
+**[Jan 2025]** Jingyi Zhang, Xu Liu, **Honglang Wang**, Yuehua Cui. [Functional varying-index coefficients model for dynamic synergistic gene-environment interactions](https://link.springer.com/article/10.1007/s12561-024-09472-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250108&utm_content=10.1007%2Fs12561-024-09472-3). *Statistics in Biosciences*
 :::
 
 :::
