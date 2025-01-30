@@ -6,6 +6,34 @@ title-block-banner: false
 ---
 
 
+## Capstone Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/capstone.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+### Undergraduate:
+
+- Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).
+- Shruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).
+- Jimin Li: Logistic regression with applications to the analysis of Alzheimer's disease (Fall 2019).
+- Grant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).
+- Caleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).
+- Spencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).
+- Xavier Miller: Spatial Transcriptomics Data Anlysis (Spring 2025).
+
+### Graudate:
+
+- Isaac Manring: [BSTPP](https://github.com/imanring/BSTPP): Bayesian Spatiotemporal Point Process (Fall 2023).
+
+:::
+
+:::
+
 
 ## Elementary Statistical Methods
 
