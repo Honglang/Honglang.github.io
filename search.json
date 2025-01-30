@@ -207,14 +207,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Spring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomics Data Anlysis (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
+  },
+  {
+    "objectID": "teaching.html#capstone-projects",
+    "href": "teaching.html#capstone-projects",
+    "title": "Teaching",
+    "section": "",
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomics Data Anlysis (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
   },
   {
     "objectID": "teaching.html#elementary-statistical-methods",
     "href": "teaching.html#elementary-statistical-methods",
     "title": "Teaching",
-    "section": "",
-    "text": "Spring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
+    "section": "Elementary Statistical Methods",
+    "text": "Elementary Statistical Methods\n\n\n\n\n\nSpring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
   },
   {
     "objectID": "teaching.html#introduction-to-statistics",
