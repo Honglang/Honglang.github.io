@@ -16,7 +16,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-**[Jan 2025]** Isaac Manring, **Honglang Wang**, George Mohler, Xenia Miscouridou. [BSTPP](https://github.com/imanring/BSTPP): A Python Package for Bayesian Spatiotemporal Point Processes. *Journal of Applied Statistics*
+**[Feb 2025]** Isaac Manring, **Honglang Wang**, George Mohler, Xenia Miscouridou. [BSTPP](https://github.com/imanring/BSTPP): [A Python Package for Bayesian Spatiotemporal Point Processes](https://doi.org/10.1080/02664763.2025.2462969). *Journal of Applied Statistics*
 
 **[Jan 2025]** Jingyi Zhang, **Honglang Wang**, Yuehua Cui. [Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318103&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author). *Plos One*
 
