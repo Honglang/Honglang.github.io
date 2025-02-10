@@ -95,12 +95,12 @@
     - date: Feb 04, 2025
       author: Xiang Wang
       title: Philosophy of Language
-      description: "[slides]"
+      description: "[bilibili talk](https://b23.tv/Wx2yG7C)"
 
     - date: Feb 11, 2025
       author: Ran Mo
-      title: "TBD"
-      description: "[slides]"
+      title: "Estimating textual treatment effect via causal disentangled representation learning"
+      description: "[Paper](/files/papers/Yang_Shen_2025_Textual_Treatment_Effect_Supercomputing.pdf)"
 
     - date: Feb 18, 2025
       author: Xuchen Fang
