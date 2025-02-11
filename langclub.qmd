@@ -44,6 +44,7 @@ listing:
 - [Luberlab Journal Club - AI in Healthcare Research](https://facevoid.github.io/luberlab-jc-fall24/papers)
 - [A.I. LLM Journal Club](https://docs.google.com/spreadsheets/d/16C5IivYfqZz0-pwFX3R0jK_9OQkq2e6IuM1lP4oMKGo/edit?gid=0#gid=0)
 - [LLM Research Papers: The 2024 List from Sebastian Raschka](https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html)
+- [Noteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024](https://sebastianraschka.com/blog/2025/llm-research-2024.html)
 - [Memory Networks](https://arxiv.org/abs/1410.3916)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
@@ -58,6 +59,9 @@ listing:
 - [Theoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data](https://arxiv.org/abs/2402.00743v2)
 - [Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer](https://arxiv.org/abs/2305.16380)
 - [JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention](https://arxiv.org/abs/2310.00535)
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
+- [RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval](https://arxiv.org/abs/2402.18510)
+- [From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency](https://arxiv.org/abs/2410.05459)
 
 
 **Nice YouTube Videos**:
