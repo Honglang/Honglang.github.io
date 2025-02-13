@@ -1,10 +1,17 @@
 [
   {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/new-york-state-climate-policy.html",
+      "/quarto-academic-site-examples.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": []
   },
   {
-    "listing": "/projects.html",
+    "listing": "/langclub.html",
     "items": []
   },
   {
@@ -20,18 +27,7 @@
     ]
   },
   {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/new-york-state-climate-policy.html",
-      "/quarto-academic-site-examples.html"
-    ]
-  },
-  {
-    "listing": "/seminar2025spring.html",
-    "items": []
-  },
-  {
-    "listing": "/langclub.html",
+    "listing": "/projects.html",
     "items": []
   },
   {
@@ -41,5 +37,9 @@
       "/posts/2024-12-course-projects-samples/index.html",
       "/posts/2024-11-ran-mo-defense/index.html"
     ]
+  },
+  {
+    "listing": "/seminar2025spring.html",
+    "items": []
   }
 ]
