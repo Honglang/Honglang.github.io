@@ -68,6 +68,9 @@ listing:
 
 - [Transformer论文逐段精读](https://youtu.be/nzqlFIcCSWQ?si=BCuY9McOPPB_1iwD) 
 - [从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)](https://youtu.be/GGLr-TtKguA?si=q55sLBpzA_9ZiP1m)
+- [Introduction to Transformers w/ Andrej Karpathy](https://youtu.be/XfpMkf4rD6E?si=BwtKeYPkMdeZTTIv)
+- [Let's build GPT: from scratch, in code, spelled out](https://youtu.be/kCc8FmEb1nY?si=aIIClnkaQFFIEfqF)
+- [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=tqSrbt7PRQ9PzUU1)
 
 <!--Include social share buttons-->
 
