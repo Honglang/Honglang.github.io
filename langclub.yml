@@ -109,5 +109,5 @@
       
     - date: Feb 25, 2025
       author: Xuchen Fang
-      title: "TBD"
-      description: "[slides]"
+      title: "Investigating Gender Bias in Language Models Using Causal Mediation Analysis"
+      description: "[paper](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf)"
