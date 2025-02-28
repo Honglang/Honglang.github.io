@@ -62,10 +62,12 @@ listing:
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval](https://arxiv.org/abs/2402.18510)
 - [From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency](https://arxiv.org/abs/2410.05459)
+- [An Overview of Large Language Models for Statisticians](https://arxiv.org/abs/2502.17814)
 
 
 **Nice YouTube Videos**:
 
+- [Intro to Large Language Models-Andrej Karpathy](https://youtu.be/zjkBMFhNj_g?si=ceYFgBOqG6JT5AOv)
 - [Transformer论文逐段精读](https://youtu.be/nzqlFIcCSWQ?si=BCuY9McOPPB_1iwD) 
 - [从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)](https://youtu.be/GGLr-TtKguA?si=q55sLBpzA_9ZiP1m)
 - [Introduction to Transformers w/ Andrej Karpathy](https://youtu.be/XfpMkf4rD6E?si=BwtKeYPkMdeZTTIv)
