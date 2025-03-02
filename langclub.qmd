@@ -73,6 +73,7 @@ listing:
 - [Introduction to Transformers w/ Andrej Karpathy](https://youtu.be/XfpMkf4rD6E?si=BwtKeYPkMdeZTTIv)
 - [Let's build GPT: from scratch, in code, spelled out](https://youtu.be/kCc8FmEb1nY?si=aIIClnkaQFFIEfqF)
 - [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=tqSrbt7PRQ9PzUU1)
+- [Building LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka](https://youtu.be/quh7z1q7-uc?si=YoOwXEoRKHKaq9g6)
 
 <!--Include social share buttons-->
 
