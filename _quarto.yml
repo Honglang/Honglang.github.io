@@ -16,21 +16,21 @@ website:
       # - href: index.qmd
       #   text: Home
       # - about.qmd
-
-      - text: About
-        menu:
-          - text: News
-            href: news.qmd
-          - text: Statistics Seminar
-            href: seminar2025spring.qmd
-          - text: Lang's Journal Club
-            href: langclub.qmd
+      - text: News
+        href: news.qmd
+      - text: Statistics Seminar
+        href: seminar2025spring.qmd
+      - text: Lang's Journal Club
+        href: langclub.qmd
+            
+      # - text: About
+      #   menu:
           # - text: Events
           #   href: posts.qmd#category=event
           # - text: Now
           #   href: now.qmd       
-          - text: Contact
-            href: contact.qmd             
+  
+            
       - text: Research
         menu:
           - text: List of Publication
@@ -65,6 +65,9 @@ website:
       - text: Lang's Lab
         href: people.qmd
 
+      - text: Contact
+        href: contact.qmd
+            
     right: 
       - text: CV
         href: files/CV.pdf
