@@ -14,8 +14,55 @@
 <title>Dr. Honglang Wang</title>
 <link>https://honglang.github.io/posts.html</link>
 </image>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 07 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2025-04-yishan-cui-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href=""><img src="https://honglang.github.io/posts/2025-04-yishan-cui-defense/defense.jpg" class="img-fluid"></a></p>
+<section id="defense" class="level2">
+<h2 class="anchored" data-anchor-id="defense">Defense</h2>
+<ul>
+<li>Friday 11:00-1:00PM (EST), 04/04/2025, LD 004</li>
+<li>Examining Committee
+<ul>
+<li>Dr.&nbsp;Honglang Wang, Chair</li>
+<li>Dr.&nbsp;Jyotirmoy Sarkar</li>
+<li>Dr.&nbsp;Hanxiang Peng</li>
+<li>Dr.&nbsp;Fang Li</li>
+</ul></li>
+</ul>
+<p>Welcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!</p>
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://honglang.github.io/posts/2025-04-yishan-cui-defense/</guid>
+  <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2025-04-yishan-cui-defense/defense.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Lang’s Journal Club: Large Language Models</title>
   <dc:creator>Honglang Wang</dc:creator>
