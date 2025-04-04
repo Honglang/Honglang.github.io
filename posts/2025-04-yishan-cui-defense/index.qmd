@@ -1,0 +1,35 @@
+---
+title: "Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models"
+description: "Yishan Cui successfully defended his thesis."
+author: "Honglang Wang"
+date: "2025-04-04"
+categories: [news, event, presentation]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](defense.jpg)]()
+
+
+## Defense
+
+* Friday 11:00-1:00PM (EST), 04/04/2025, LD 004
+* Examining Committee
+  + Dr. Honglang Wang, Chair
+  + Dr. Jyotirmoy Sarkar
+  + Dr. Hanxiang Peng
+  + Dr. Fang Li 
+
+
+Welcome to join us to learn more about Yishan's thesis work at IU Indianapolis!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
