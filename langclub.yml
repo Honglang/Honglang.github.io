@@ -122,4 +122,7 @@
       title: "Disentangled Representation for Causal Mediation Analysis"
       description: "[paper](https://arxiv.org/abs/2302.09694)"
          
-    
+    - date: Apr 15, 2025
+      author: Xiang Wang
+      title: "[Mixture of Experts Explained](https://huggingface.co/blog/moe)" 
+      description: "[混合专家模型 (MoE) 详解](https://zhuanlan.zhihu.com/p/674698482?utm_medium=social&utm_psn=1865923450385870848&utm_source=ZHShareTargetIDMore)"    
