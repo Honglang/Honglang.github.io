@@ -126,3 +126,8 @@
       author: Xiang Wang
       title: "[Mixture of Experts Explained](https://huggingface.co/blog/moe)" 
       description: "[混合专家模型 (MoE) 详解](https://zhuanlan.zhihu.com/p/674698482?utm_medium=social&utm_psn=1865923450385870848&utm_source=ZHShareTargetIDMore)"    
+      
+    - date: Apr 22, 2025
+      author: Ran Mo
+      title: "Latent Semantic and Disentangled Attention"
+      description: "[Paper](https://ieeexplore.ieee.org/abstract/document/10607968)"      
