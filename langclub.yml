@@ -130,4 +130,9 @@
     - date: Apr 22, 2025
       author: Ran Mo
       title: "Latent Semantic and Disentangled Attention"
-      description: "[Paper](https://ieeexplore.ieee.org/abstract/document/10607968)"      
+      description: "[Paper](https://ieeexplore.ieee.org/abstract/document/10607968)"    
+      
+    - date: Apr 29, 2025
+      author: Xuchen Fang
+      title: "Towards Reasoning in Large Language Models: A Survey"
+      description: "[paper](https://arxiv.org/abs/2212.10403)"      
