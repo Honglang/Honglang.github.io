@@ -4,7 +4,7 @@
     "items": []
   },
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2025-04-yishan-cui-defense/index.html",
       "/posts/2025-01-llm-journal-club/index.html",
@@ -13,20 +13,18 @@
     ]
   },
   {
-    "listing": "/media.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/media.html",
+    "items": []
+  },
+  {
+    "listing": "/notes.html",
     "items": [
-      "/posts/2025-04-yishan-cui-defense/index.html",
-      "/posts/2025-01-llm-journal-club/index.html",
-      "/posts/2024-12-course-projects-samples/index.html",
-      "/posts/2024-11-ran-mo-defense/index.html"
+      "/notes/new-york-state-climate-policy.html",
+      "/quarto-academic-site-examples.html"
     ]
   },
   {
@@ -38,10 +36,12 @@
     "items": []
   },
   {
-    "listing": "/notes.html",
+    "listing": "/posts.html",
     "items": [
-      "/notes/new-york-state-climate-policy.html",
-      "/quarto-academic-site-examples.html"
+      "/posts/2025-04-yishan-cui-defense/index.html",
+      "/posts/2025-01-llm-journal-club/index.html",
+      "/posts/2024-12-course-projects-samples/index.html",
+      "/posts/2024-11-ran-mo-defense/index.html"
     ]
   }
 ]
