@@ -1,0 +1,158 @@
+# 
+#     - path: /projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html
+# #https://www.nyrdrc.org/research-library/ny25-02-estimating-what-we-miss-about-direct-care-workers-employment-earnings-and-retirement-savingsnbsp-7dlrr-dcfy8-zye4b-nt2en-blr3c   
+#       image: /files/images/funders/ssa.png
+#       title: "Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities"
+#       author: Gang He, Kaifang Luo, Hilary Botein, Frank Heiland
+#       subtitle: "Social Security Administration"
+#       description: "The goal of this project is to investigate the energy burden faced by older adults (ages 62 and older) and people with disabilities in New York City to better understand its impact on their wellbeing."
+#       started: "2024"
+#       ended: "2025"
+#       funding: "$100,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+# 
+#     - path: https://ccci.berkeley.edu/research
+#       image: /files/images/funders/ucb.webp
+#       title: "Global Clean Energy Supply Chains Analysis and Power Systems Resources Adequacy Assessment"
+#       author: Gang He
+#       subtitle: "University of California, Berkeley"
+#       description: "The goal of this project is to collaborate with CCCI team to study global clean energy supply chains and power system resources adequacy."
+#       started: "2024"
+#       ended: "2026"
+#       funding: "$100,000"
+# #    date: "2022-10-26"
+# #    categories: []
+# 
+# 
+#     - path: https://www.growaldclimatefund.org/why-electricity
+#       image: /files/images/funders/growald.png
+#       title: "Power system beyond coal"
+#       author: Gang He
+#       subtitle: "Growald Climate Fund"
+#       description: "The goal of this project is to collaborate with LBL team in modeling the decarbonization of China’s power sector."
+#       started: "2024"
+#       ended: "2025"
+#       funding: "$64,000"
+# #     date: "2022-10-26"
+# #     categories: []
+# 
+# 
+#     - path: https://www.climateworks.org/grants-database/?sort_by=newest&search=City%20University%20of%20New%20York&posts_per_page=20
+#       image: /files/images/funders/climateworks.png
+#       title: "The carbon mitigation, air quality, and human health benefits achieved by global solar PV supply chains"
+#       author: Gang He
+#       subtitle: "ClimateWorks Foundation"
+#       description: "The goal of this project is to investigate the air quality and human health benefits achieved by global solar PV supply chains."
+#       started: "2023"
+#       ended: "2025"
+#       funding: "$100,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+# 
+#     - path: https://www.edf.org/work/economics-energy-transition
+#       image: /files/images/funders/edf.png
+#       title: "Multi-Country Electricity Transition Potential and Challenges Project (MCET)"
+#       author: Gang He
+#       subtitle: "Environmental Defense Fund"
+#       description: "The goal of this project is to provide technical support to the MCET team to assess the opportunities and barriers to decarbonize their electricity sectors using open data and models."
+#       started: "2023"
+#       ended: "2024"
+#       funding: "$40,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+# 
+#     - path: https://energy.lbl.gov/people/gang-he
+#       image: /files/images/funders/lbl.jpg
+#       title: "Power Systems Modeling and Analysis"
+#       author: Gang He
+#       subtitle: "Lawrence Berkeley National Laboratory"
+#       description: "Multiple projects to collaborate with LBL team modeling the technology and policy options of decarbonizing China's power systems."
+#       started: "2018"
+#       ended: "2024"
+#       funding: "$140,000"
+# #      date: "2022-10-26"
+# #      categories: [] 
+
+
+    - date: Sep 02, 2025
+      author: Jiwei Zhao
+      title: #"[Optimally splitting cases for training and testing high dimensional classifiers](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-4-31)"
+      description: "[Associate Professor, University of Wisconsin-Madison](https://pages.stat.wisc.edu/~jiweizhao/)"
+      
+    - date: Sep 09, 2025
+      author: Ruixuan Zhang
+      title: #"[Hierarchical dependence modeling for the analysis of large insurance claims data](/files/seminars/Statistics Seminar-1-21-2025.pdf)"
+      description: "[Postdoctoral Research Associate, University of Utah](https://sites.google.com/view/rayzhang/)"
+
+    - date: Sep 16, 2025
+      author: Junwei Lu
+      title: 
+      description: "[Assistant professor, Harvard T.H. Chan School of Public Health](https://junwei-lu.github.io/)"
+
+    - date: Sep 23, 2025
+      author: Yue Wang
+      title: #"[The A-optimal subsampling approach to the analysis of count data of massive size](https://www.tandfonline.com/doi/full/10.1080/10485252.2024.2383307)"
+      description: "[Assistant professor, University of Colorado Anschutz Medical Campus](https://taryue.github.io/)"
+
+    - date: Sep 30, 2025
+      author: Yuying Xie
+      title: #"[Identifying temporal pathways using biomarkers in the presence of latent non-Gaussian components](/files/seminars/Statistics Seminar-2-11-2025.pdf)"
+      description: "[Associate Professor, Michigan State University ](https://directory.natsci.msu.edu/Directory/Profiles/Person/101084)"
+
+    - date: Oct 07, 2025
+      author: Bingkai Wang	
+      title: #"[Lasso and some of its varieties](/files/seminars/Statistics Seminar-2-18-2025.pdf)"
+      description: "[Assistant Professor, University of Michigan](https://bingkaiwang.com/)"
+
+    - date: Oct 14, 2025
+      author: Debolina Chatterjee
+      title: #"[Penalized variable selection with U-estimates](https://www.tandfonline.com/doi/abs/10.1080/10485250903348781)"
+      description: "[Postdoctoral Fellow, IU School of Medicine](https://sites.google.com/view/debolinachatterjee/home)"
+
+
+    - date: Oct 21, 2025
+      author: Fall Break
+      #title: 
+      #description: 
+      
+    - date: Oct 28, 2025
+      author: Haohao Su
+      title: #"[Deciphering gene expression in single cells with single molecule imaging and math-modeling](/files/seminars/Statistics Seminar-3-04-2025.pdf)"
+      description: "[PhD Student, Michigan State University](https://directory.natsci.msu.edu/directory/Profiles/Person/102517)"
+
+    - date: Nov 04, 2025
+      author: Yu Huang
+      title: #"[Functional Fixed and Random Effects Inference with Applications to Accelerometry Data](/files/seminars/Statistics Seminar-3-11-2025.pdf)"
+      description: "[Assistant Professor, IU School of Medicine](https://yuvisu.github.io/)"
+
+ 
+
+    - date: Nov 11, 2025
+      author: Yikun Zhang
+      title: #"[Maximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models](/files/seminars/Statistics Seminar-3-25-2025.pdf)"
+      description: "[PhD Student, University of Washington, Seattle](https://zhangyk8.github.io/)"
+
+    - date: Nov 18, 2025
+      author: Qiang Sun
+      title: 
+      description: "[Professor, University of Toronto](https://sites.google.com/view/qsun)"
+
+    - date: Nov 25, 2025
+      author: Yaqing Chen
+      title: #"[Instrumental variable analysis with multivariate point process treatments](/files/seminars/Statistics Seminar-4-08-2025.pdf)"
+      description: "[Assistant Professor, Rutgers University](https://sites.google.com/view/yaqingchen)"
+
+    - date: Dec 02, 2025
+      author: Ruohong Li
+      title: #"[Instrumental variable analysis with multivariate point process treatments](/files/seminars/Statistics Seminar-4-08-2025.pdf)"
+      description: "[Applied Scientist at Amazon](https://www.linkedin.com/in/ruohong-li-268b21132)"
+
+    - date: Dec 09, 2025
+      author: Yuxin Dong
+      title: #"[Spatiotemporal Shape Analysis of Longitudinal Brain Imaging Data](/files/seminars/Statistics Seminar-4-15-2025.pdf)"
+      description: "IU Indianapolis PhD Student"
+
+ 

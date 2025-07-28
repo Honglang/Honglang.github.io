@@ -7,27 +7,27 @@
 #      date: "2024-03-12"
 #      categories: [] 
 
-    - path: https://www.linkedin.com/in/cui-yishan-42615018b
-      image: /files/images/yishan1.jpg
-      title: "Yishan CUI"
-      lastname: "BCui"
-      started: "Feb 2021"
-      ended: "May 2025"       
-#      author: 
-      subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Semiparametric Inference, Causal Inference."
-#      date: "2024-03-12"
-#      categories: [] 
-
-    - path: https://science.indianapolis.iu.edu/people-directory/people/fang-xuchen.html
-      image: /files/images/xuchen.jpg
-      title: "Xuchen FANG"
-      lastname: "CFang"
-      started: "Jan 2025"
-      ended: ""
-#      author: 
-      subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Causal Inference, Machine Learning."
-#      date: "2024-03-12"
-#      categories: [] 
+#     - path: https://www.linkedin.com/in/cui-yishan-42615018b
+#       image: /files/images/yishan1.jpg
+#       title: "Yishan CUI"
+#       lastname: "BCui"
+#       started: "Feb 2021"
+#       ended: "May 2025"       
+# #      author: 
+#       subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Semiparametric Inference, Causal Inference."
+# #      date: "2024-03-12"
+# #      categories: [] 
+# 
+#     - path: https://science.indianapolis.iu.edu/people-directory/people/fang-xuchen.html
+#       image: /files/images/xuchen.jpg
+#       title: "Xuchen FANG"
+#       lastname: "CFang"
+#       started: "Jan 2025"
+#       ended: ""
+# #      author: 
+#       subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Causal Inference, Machine Learning."
+# #      date: "2024-03-12"
+# #      categories: [] 
 
     - path: 
       image: /files/images/zhiyuan.jpg
@@ -41,14 +41,14 @@
 #      categories: []
 
 
-    - path: https://openreview.net/profile?id=~Zhiyuan_Zhu4
-      image: /files/images/zhiyuanzhu.jpg
-      title: "Zhiyuan ZHU"
-      lastname: "EZhu"
-      started: "May 2024"
-      ended: "" 
-#      author: 
-      subtitle: "Undergraduate, Zhejiang University"
-#      date: "2024-03-12"
-#      categories: []
+#     - path: https://openreview.net/profile?id=~Zhiyuan_Zhu4
+#       image: /files/images/zhiyuanzhu.jpg
+#       title: "Zhiyuan ZHU"
+#       lastname: "EZhu"
+#       started: "May 2024"
+#       ended: "" 
+# #      author: 
+#       subtitle: "Undergraduate, Zhejiang University"
+# #      date: "2024-03-12"
+# #      categories: []
 

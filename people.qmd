@@ -21,13 +21,14 @@ listing:  #an example of listing external links
 - id: lab-alumni
   sort: "lastname asc"
   type: table
-  fields: [image, title, subtitle, started, ended]
+  fields: [image, title, subtitle,was, started, ended]
   grid-item-align: center  
-  grid-columns: 4
+  grid-columns: 5
   image-height: 50px
   field-display-names: 
       title: "Name"
       subtitle: "Now"
+      was: "Was"
       started: "Started"
       ended: "Ended"
 #  categories: true

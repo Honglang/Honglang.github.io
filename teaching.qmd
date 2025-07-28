@@ -84,6 +84,7 @@ We live in a world where data are popping up everywhere, in ever richer forms an
 ::: {.g-col-12 .g-col-md-10}
 
 [Fall 2024](https://iu.instructure.com/courses/2268099)
+[Fall 2025](https://iu.instructure.com/courses/2348612)
 
 In our data-driven world, data is becoming increasingly ubiquitous, taking on richer forms and larger quantities. These data are now playing a crucial role in decision-making across various fields. STAT I521 is designed to showcase how computing can be utilized to understand the performance of core statistical methods and introduce modern statistical techniques that require computational applications.
 
@@ -128,6 +129,7 @@ Upon completing this course, students will be equipped with the ability to utili
 ::: {.g-col-12 .g-col-md-10}
 
 [Fall 2024](https://iu.instructure.com/courses/2268094)
+[Fall 2025](https://iu.instructure.com/courses/2348608)
 
 In our data-driven world, information is abundant, diverse, and increasingly relied upon for decision-making across numerous fields. STAT I512 is designed to equip students with the tools and techniques needed to construct regression models, uncover associations, and make predictions using real-world data. This course aims to provide a comprehensive understanding of both the theoretical foundations and practical application of linear regression models.
 

@@ -36,6 +36,7 @@ title-block-banner: false
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+**[Dec 2025] Invited Talk**---Rank-based Inference for Individualized Treatment Rules in Single-index Varying Coefficient Model, Dec 13-Dec 15 @ [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025/) - Birkbeck, University of London
 
 **[June 2025] Invited Talk**---Dominant-Set Based Clustering For Functional Data, June 15-June 18 @ [The 2025 ICSA Applied Statistics Symposium](https://symposium2025.icsa.org/) - University of Connecticut, Storrs, Connecticut
 
@@ -68,9 +69,11 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-**[Nov 2024]** Ran had a successful defense! Congratulations, Dr. Ran Mo! November 01, 2024
+**[April 2025]** Yishan had a successful defense! Congratulations, Dr. Cui! April 04, 2025
 
-**[April 2024]** Xiang had a successful defense! Congratulations, Dr. Wang Xiang! April 05, 2024
+**[Nov 2024]** Ran had a successful defense! Congratulations, Dr. Mo! November 01, 2024
+
+**[April 2024]** Xiang had a successful defense! Congratulations, Dr. Wang! April 05, 2024
 
 :::
 
@@ -87,11 +90,11 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](/seminar2025spring.qmd)
+[Fall 2025](/seminar2025fall.qmd)
 
 <!-- <iframe width="800" height="800" src="https://math.indianapolis.iu.edu/~hlwang/statseminar2025spring.html" title="Statistics Seminar Spring 2025"></iframe> -->
 
-
+[Spring 2025](/seminar2025spring.qmd)
 [Fall 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024fall.html)
 [Spring 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024spring.html)
 [Fall 2023](https://math.indianapolis.iu.edu/~hlwang/statseminar2023fall.html)
