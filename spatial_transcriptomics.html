@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Honglang Wang">
-<meta name="description" content="Honglang Wang is an researcher and teacher about data science, Statistics!">
+<meta name="description" content="Toturial on Spatial Transcriptomics.">
 
-<title>Honglang Wang, PhD – Dr.&nbsp;Honglang Wang</title>
+<title>Spatial Transcriptomics – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,20 +32,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-461446b6e9a8fcea71e53a5f1f7aa55d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
-<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,36 +69,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -130,43 +97,14 @@ https://badge.dimensions.ai/
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="">
+<meta property="og:title" content="Spatial Transcriptomics – Dr.&nbsp;Honglang Wang">
+<meta property="og:description" content="Spatial transcriptomics is a cutting-edge technology that maps gene expression to precise locations within a tissue, allowing researchers to study how cells’ functions and interactions are organized in their native spatial context.">
 <meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Honglang Wang, PhD – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="Spatial Transcriptomics – Dr.&nbsp;Honglang Wang">
+<meta name="twitter:description" content="Spatial transcriptomics is a cutting-edge technology that maps gene expression to precise locations within a tissue, allowing researchers to study how cells’ functions and interactions are organized in their native spatial context.">
 <meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -260,166 +198,84 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#reveiw-and-research-papers" id="toc-reveiw-and-research-papers" class="nav-link active" data-scroll-target="#reveiw-and-research-papers">Reveiw and Research Papers</a></li>
+  <li><a href="#packages" id="toc-packages" class="nav-link" data-scroll-target="#packages">Packages</a></li>
+  <li><a href="#youtube-tutorial" id="toc-youtube-tutorial" class="nav-link" data-scroll-target="#youtube-tutorial">Youtube Tutorial</a></li>
+  <li><a href="#data-base" id="toc-data-base" class="nav-link" data-scroll-target="#data-base">Data Base</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profile/honglangwang.JPG" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Honglang Wang, PhD</h1>
+<h1 class="title">Spatial Transcriptomics</h1>
+<p class="subtitle lead">Spatial transcriptomics is a cutting-edge technology that maps gene expression to precise locations within a tissue, allowing researchers to study how cells’ functions and interactions are organized in their native spatial context.</p>
 </div>
-<div class="quarto-title-meta column-page">
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://math.indianapolis.iu.edu/~hlwang/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-globe"></i>
-     <span class="about-link-text">IUIprofile</span>
-  </a>
-  <a href="mailto:hlwang@iu.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="http://arxiv.org/a/wang_h_19" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-arxiv" aria-label="arxiv"></i> arXiv</span>
-  </a>
-  <a href="https://www.linkedin.com/in/honglang-wang-18505b29/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@HonglangWang" class="about-link" rel="" target="_blank">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://orcid.org/0000-0003-3140-5177" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:orcid" style="font-size: 1xl;" aria-label="Icon orcid from fa6-brands Iconify.design set." title="Icon orcid from fa6-brands Iconify.design set."></iconify-icon> ORCID</span>
-  </a>
-  <a href="https://honglangwang.wordpress.com/" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:wordpress" aria-label="Icon wordpress from fa6-brands Iconify.design set." title="Icon wordpress from fa6-brands Iconify.design set."></iconify-icon> Wordpress</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=_oqJfq4AAAAJ&amp;hl=en" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="academicons:google-scholar" aria-label="Icon google-scholar from academicons Iconify.design set." title="Icon google-scholar from academicons Iconify.design set."></iconify-icon> Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Honglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the <a href="https://science.indianapolis.iu.edu/math/index.html" class="external" target="_blank">Department of Mathematical Sciences</a>, School of Science, Indiana University Indianapolis.</p>
-<p><strong>Education</strong></p>
+
+
+<section id="reveiw-and-research-papers" class="level2">
+<h2 class="anchored" data-anchor-id="reveiw-and-research-papers">Reveiw and Research Papers</h2>
 <ul>
-<li><p>PhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.</p></li>
-<li><p>Dual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.</p></li>
-<li><p>MS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.</p></li>
-<li><p>BS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.</p></li>
+<li><a href="https://www.nature.com/articles/s41592-022-01409-2">Museum of spatial transcriptomics</a></li>
+<li><a href="https://www.nature.com/articles/s41586-021-03634-9">Exploring tissue architecture using spatial transcriptomics</a></li>
+<li><a href="https://www.nature.com/articles/s41581-024-00841-1">Spatial transcriptomics in health and disease</a></li>
+<li><a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1">An introduction to spatial transcriptomics for biomedical research</a></li>
+<li><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02653-7">Statistical and machine learning methods for spatially resolved transcriptomics data analysis</a></li>
+<li><a href="https://academic.oup.com/bib/article/25/2/bbae082/7628264">Deep learning in spatially resolved transcriptomics: a comprehensive technical view</a></li>
+<li><a href="https://arxiv.org/abs/2311.13801">A selective review of recent developments in spatially variable gene detection for spatial transcriptomics</a></li>
+<li><a href="https://academic.oup.com/bib/article/24/1/bbac475/6835380">Benchmarking cell-type clustering methods for spatially resolved transcriptomics data</a></li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2023.04.25.538326v2">TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses</a></li>
+<li><a href="https://www.nature.com/articles/s41586-024-08334-8">Spatial transcriptomic clocks reveal cell proximity effects in brain ageing</a></li>
+<li><a href="https://www.nature.com/articles/s41467-025-57117-w">STANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics</a></li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2024.08.20.608863v1">TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics</a></li>
+<li><a href="https://www.nature.com/articles/s41467-025-56080-w">Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data</a></li>
+<li><a href="https://www.nature.com/articles/s41576-025-00845-y">Cell-type deconvolution methods for spatial transcriptomics</a></li>
 </ul>
-<p>See my <a href="files/CV.pdf">Curriculum Vitae</a> for more information.</p>
-<p><strong>Research Interests</strong></p>
+</section>
+<section id="packages" class="level2">
+<h2 class="anchored" data-anchor-id="packages">Packages</h2>
+<p><a href="https://satijalab.org/seurat/">Seurat</a> is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.</p>
 <ul>
-<li><p>Statistical Analysis for Longitudinal and Functional Data</p></li>
-<li><p>High Dimensional Statistical Inference and its Applications</p></li>
-<li><p>Causal Inference</p></li>
-<li><p>Machine Learning/Deep Learning</p></li>
-<li><p>Nonparametric Statistics</p></li>
-<li><p>Empirical Likelihood Methods and its Applications</p></li>
-<li><p>Statistical Genetics and Statistical Genomics</p></li>
+<li><a href="https://www.youtube.com/watch?v=O3QzXWPjc74">Single-cell and spatial transcriptomics data analysis with Seurat in R</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLOLdjuxsfI4N1SdaQQYXGoa5Z93hPxWVY">Seurat Video Tutorials</a></li>
 </ul>
-</div></div>
-</div>
-
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1743724800000" data-listing-file-modified-sort="1753823106429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
-<a href="./posts/2025-04-yishan-cui-defense/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2025-04-yishan-cui-defense/defense.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models
-</h5>
-<div class="card-text listing-description delink">
-<p>Yishan Cui successfully defended his thesis.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Honglang Wang
-</div>
-<div class="listing-date">
-Apr 4, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1736208000000" data-listing-file-modified-sort="1753823106421" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
-<a href="./posts/2025-01-llm-journal-club/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2025-01-llm-journal-club/llm.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lang’s Journal Club: Large Language Models
-</h5>
-<div class="card-text listing-description delink">
-<p>We will have journal club in spring 2025 focusing on large language…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Honglang Wang
-</div>
-<div class="listing-date">
-Jan 7, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1734480000000" data-listing-file-modified-sort="1753823106421" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
-<a href="./posts/2024-12-course-projects-samples/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-STAT 512/521 Course Projects Samples
-</h5>
-<div class="card-text listing-description delink">
-<p>Nice course projects for statistical computing and applied linear…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Honglang Wang
-</div>
-<div class="listing-date">
-Dec 18, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
-
-
+</section>
+<section id="youtube-tutorial" class="level2">
+<h2 class="anchored" data-anchor-id="youtube-tutorial">Youtube Tutorial</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=URqjNcZ7d5E">UCLA Collaboratory Workshop on Spatial Transcriptomics Day 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=JlpOs0yEh9U&amp;t=172s">UCLA Collaboratory Workshop on Spatial Transcriptomics Day 2</a></li>
+</ul>
+</section>
+<section id="data-base" class="level2">
+<h2 class="anchored" data-anchor-id="data-base">Data Base</h2>
+<ul>
+<li><a href="https://db.cngb.org/stomics/">STOmics DB</a>: <a href="https://academic.oup.com/nar/article/52/D1/D1053/7416388">a comprehensive database for spatial transcriptomics data sharing, analysis and visualization</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1sJDb9B7AtYmfKv4-m8XR7uc3XXw_k4kGSout8cqZ8bY/edit?gid=1363594152#gid=1363594152">Database for the museum of spatial transcriptomics project</a></li>
+</ul>
 
 
 </section>
@@ -427,6 +283,13 @@ Dec 18, 2024
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

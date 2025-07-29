@@ -39,14 +39,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "teaching.html#capstone-projects",
     "href": "teaching.html#capstone-projects",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "teaching.html#elementary-statistical-methods",
@@ -182,11 +182,46 @@
     "text": "Selected Work\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "spatial_transcriptomics.html",
+    "href": "spatial_transcriptomics.html",
+    "title": "Spatial Transcriptomics",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "title": "Spatial Transcriptomics",
+    "section": "",
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#packages",
+    "href": "spatial_transcriptomics.html#packages",
+    "title": "Spatial Transcriptomics",
+    "section": "Packages",
+    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
+    "href": "spatial_transcriptomics.html#youtube-tutorial",
+    "title": "Spatial Transcriptomics",
+    "section": "Youtube Tutorial",
+    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#data-base",
+    "href": "spatial_transcriptomics.html#data-base",
+    "title": "Spatial Transcriptomics",
+    "section": "Data Base",
+    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "seminar2025spring.html",
@@ -196,11 +231,11 @@
     "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nYuxing Dong\n\n\nOptimally splitting cases for training and testing high dimensional classifiers\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nJan 21, 2025\n\n\nTing Fung Ma\n\n\nHierarchical dependence modeling for the analysis of large insurance claims data\n\n\nAssistant professor of Statistics at the University of South Carolina\n\n\n\n\n\n\nJan 28, 2025\n\n\nTae-Hwi Schwantes-An\n\n\nCancelled\n\n\nAssistant Professor of Medical & Molecular Genetics, IU School of Medicine\n\n\n\n\n\n\nFeb 4, 2025\n\n\nEnoch Su\n\n\nThe A-optimal subsampling approach to the analysis of count data of massive size\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 11, 2025\n\n\nShanghong Xie\n\n\nIdentifying temporal pathways using biomarkers in the presence of latent non-Gaussian components\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nFeb 18, 2025\n\n\nXuchen Fang\n\n\nLasso and some of its varieties\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 25, 2025\n\n\nYishan Cui\n\n\nPenalized variable selection with U-estimates\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nMar 4, 2025\n\n\nJing Liu\n\n\nDeciphering gene expression in single cells with single molecule imaging and math-modeling\n\n\nAssociate Professor of Physics and Astronomy, Purdue University\n\n\n\n\n\n\nMar 11, 2025\n\n\nErjia Cui\n\n\nFunctional Fixed and Random Effects Inference with Applications to Accelerometry Data\n\n\nAssistant Professor in the Division of Biostatistics and Health Data Science at the University of Minnesota\n\n\n\n\n\n\nMar 18, 2025\n\n\nSpring Break\n\n\n \n\n\n \n\n\n\n\n\n\nMar 25, 2025\n\n\nYizhou (Jake) Cai\n\n\nMaximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models\n\n\nPhD Candidate, University of South Carolina\n\n\n\n\n\n\nApr 1, 2025\n\n\nJingwen Yan\n\n\nCancelled\n\n\nAssociate Professor, Bioinformatics, IU Indianapolis\n\n\n\n\n\n\nApr 8, 2025\n\n\nShizhe Chen\n\n\nInstrumental variable analysis with multivariate point process treatments\n\n\nAssistant professor in the Department of Statistics at UC Davis\n\n\n\n\n\n\nApr 15, 2025\n\n\nYuexuan Wu\n\n\nSpatiotemporal Shape Analysis of Longitudinal Brain Imaging Data\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nApr 22, 2025\n\n\nZhaoxia Yu\n\n\nAdvancing Statistical Rigor in Research: The Power of Awareness, Action, and Advocacy\n\n\nProfessor in the Department of Statistics at the University of California, Irvine\n\n\n\n\n\n\nApr 29, 2025\n\n\nArcher Y. Yang\n\n\nMultivariate Conformal Selection\n\n\nAssociate Professor of Statistics, Department of Mathematics and Statistics, McGill University\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
