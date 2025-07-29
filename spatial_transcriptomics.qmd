@@ -1,0 +1,58 @@
+---
+title: "Spatial Transcriptomics"
+subtitle: "Spatial transcriptomics is a cutting-edge technology that maps gene expression to precise locations within a tissue, allowing researchers to study how cells’ functions and interactions are organized in their native spatial context."
+description-meta: "Toturial on Spatial Transcriptomics."
+title-block-banner: false
+---
+
+
+## Reveiw and Research Papers
+
+
+- [Museum of spatial transcriptomics](https://www.nature.com/articles/s41592-022-01409-2)
+- [Exploring tissue architecture using spatial transcriptomics](https://www.nature.com/articles/s41586-021-03634-9)
+- [Spatial transcriptomics in health and disease](https://www.nature.com/articles/s41581-024-00841-1)
+- [An introduction to spatial transcriptomics for biomedical research](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1)
+- [Statistical and machine learning methods for spatially resolved transcriptomics data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02653-7)
+- [Deep learning in spatially resolved transcriptomics: a comprehensive technical view](https://academic.oup.com/bib/article/25/2/bbae082/7628264)
+- [A selective review of recent developments in spatially variable gene detection for spatial transcriptomics](https://arxiv.org/abs/2311.13801)
+- [Benchmarking cell-type clustering methods for spatially resolved transcriptomics data](https://academic.oup.com/bib/article/24/1/bbac475/6835380)
+- [TISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses](https://www.biorxiv.org/content/10.1101/2023.04.25.538326v2)
+- [Spatial transcriptomic clocks reveal cell proximity effects in brain ageing](https://www.nature.com/articles/s41586-024-08334-8)
+- [STANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics](https://www.nature.com/articles/s41467-025-57117-w)
+- [TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2024.08.20.608863v1)
+- [Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data](https://www.nature.com/articles/s41467-025-56080-w)
+- [Cell-type deconvolution methods for spatial transcriptomics](https://www.nature.com/articles/s41576-025-00845-y)
+
+
+
+## Packages
+
+
+
+[Seurat](https://satijalab.org/seurat/) is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.
+
+
+- [Single-cell and spatial transcriptomics data analysis with Seurat in R](https://www.youtube.com/watch?v=O3QzXWPjc74)
+- [Seurat Video Tutorials](https://www.youtube.com/playlist?list=PLOLdjuxsfI4N1SdaQQYXGoa5Z93hPxWVY)
+
+
+
+## Youtube Tutorial
+
+
+
+- [UCLA Collaboratory Workshop on Spatial Transcriptomics Day 1](https://www.youtube.com/watch?v=URqjNcZ7d5E)
+- [UCLA Collaboratory Workshop on Spatial Transcriptomics Day 2](https://www.youtube.com/watch?v=JlpOs0yEh9U&t=172s)
+
+
+
+## Data Base
+
+
+- [STOmics DB](https://db.cngb.org/stomics/): [a comprehensive database for spatial transcriptomics data sharing, analysis and visualization](https://academic.oup.com/nar/article/52/D1/D1053/7416388)
+- [Database for the museum of spatial transcriptomics project](https://docs.google.com/spreadsheets/d/1sJDb9B7AtYmfKv4-m8XR7uc3XXw_k4kGSout8cqZ8bY/edit?gid=1363594152#gid=1363594152)
+
+
+
+

@@ -30,6 +30,10 @@ title-block-banner: false
 
 - Isaac Manring: [BSTPP](https://github.com/imanring/BSTPP): Bayesian Spatiotemporal Point Process (Fall 2023).
 
+### Potential Projects:
+
+- [Spatial Transcriptomics](/spatial_transcriptomics.qmd)
+
 :::
 
 :::

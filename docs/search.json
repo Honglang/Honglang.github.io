@@ -802,7 +802,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "teaching.html#energy-and-climate-policy",
@@ -1957,7 +1957,7 @@
     "href": "teaching.html#capstone-projects",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023)."
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "posts/2025-04-yishan-cui-defense/index.html#defense",
@@ -1979,5 +1979,40 @@
     "title": "Statistics Seminars: Fall 2025",
     "section": "Previous Seminars",
     "text": "Previous Seminars\nSpring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html",
+    "href": "spatial_transcriptomics.html",
+    "title": "Spatial Transcriptomics",
+    "section": "",
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "title": "Spatial Transcriptomics",
+    "section": "",
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#packages",
+    "href": "spatial_transcriptomics.html#packages",
+    "title": "Spatial Transcriptomics",
+    "section": "Packages",
+    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
+    "href": "spatial_transcriptomics.html#youtube-tutorial",
+    "title": "Spatial Transcriptomics",
+    "section": "Youtube Tutorial",
+    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#data-base",
+    "href": "spatial_transcriptomics.html#data-base",
+    "title": "Spatial Transcriptomics",
+    "section": "Data Base",
+    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project"
   }
 ]
