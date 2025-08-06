@@ -52,6 +52,7 @@ title-block-banner: false
 
 - [STOmics DB](https://db.cngb.org/stomics/): [a comprehensive database for spatial transcriptomics data sharing, analysis and visualization](https://academic.oup.com/nar/article/52/D1/D1053/7416388)
 - [Database for the museum of spatial transcriptomics project](https://docs.google.com/spreadsheets/d/1sJDb9B7AtYmfKv4-m8XR7uc3XXw_k4kGSout8cqZ8bY/edit?gid=1363594152#gid=1363594152)
+- [StatsUpAI](https://statsupai.org/pages/Omics_data.html)
 
 
 
