@@ -76,6 +76,10 @@
 # #      date: "2022-10-26"
 # #      categories: [] 
 
+    - date: Aug 26, 2025
+      author: Liangliang Zhang
+      title: #"[Optimally splitting cases for training and testing high dimensional classifiers](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-4-31)"
+      description: "[Assistant Professor, Case Western Reserve University](https://cwru-cinema.com/author/lianglianglyon-zhang/)"
 
     - date: Sep 02, 2025
       author: Jiwei Zhao
