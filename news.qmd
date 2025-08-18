@@ -5,6 +5,7 @@ description-meta: "This is a list of things going around now."
 title-block-banner: false
 ---
 
+
 ## Papers Publication
 
 ::: {.grid}
@@ -15,6 +16,7 @@ title-block-banner: false
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+
 
 **[Feb 2025]** Isaac Manring, **Honglang Wang**, George Mohler, Xenia Miscouridou. [BSTPP](https://github.com/imanring/BSTPP): [A Python Package for Bayesian Spatiotemporal Point Processes](https://doi.org/10.1080/02664763.2025.2462969). *Journal of Applied Statistics*
 
@@ -36,6 +38,9 @@ title-block-banner: false
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+
+**[March 2026] Invited Talk**---Rank-based Inference for Individualized Treatment Rules in Single-index Varying Coefficient Model, March 15-March 18 @ [ENAR 2026 Spring Meeting](https://www.enar.org/meetings/spring2026/) - Indianapolis, Indiana
+
 **[Dec 2025] Invited Talk**---Rank-based Inference for Individualized Treatment Rules in Single-index Varying Coefficient Model, Dec 13-Dec 15 @ [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025/) - Birkbeck, University of London
 
 **[June 2025] Invited Talk**---Dominant-Set Based Clustering For Functional Data, June 15-June 18 @ [The 2025 ICSA Applied Statistics Symposium](https://symposium2025.icsa.org/) - University of Connecticut, Storrs, Connecticut
