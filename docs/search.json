@@ -2014,5 +2014,26 @@
     "title": "Spatial Transcriptomics",
     "section": "Data Base",
     "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics"
+  },
+  {
+    "objectID": "seminars/LiangliangZhang/index.html#defense",
+    "href": "seminars/LiangliangZhang/index.html#defense",
+    "title": "Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis",
+    "section": "Defense",
+    "text": "Defense\n\nFriday 11:00-1:00PM (EST), 04/04/2025, LD 004\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Jyotirmoy Sarkar\nDr. Hanxiang Peng\nDr. Fang Li\n\n\nWelcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!"
+  },
+  {
+    "objectID": "seminars/LiangliangZhang/index.html#statistics-seminars-fall-2025",
+    "href": "seminars/LiangliangZhang/index.html#statistics-seminars-fall-2025",
+    "title": "Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis",
+    "section": "Statistics Seminars: Fall 2025",
+    "text": "Statistics Seminars: Fall 2025"
+  },
+  {
+    "objectID": "seminars/LiangliangZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/LiangliangZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis",
+    "section": "Department of Mathematical Sciences, IU Indianapolis",
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 08/26/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis\nAbstract: Given the complex interactions between the microbiome, the host, and external factors, causal mediation analysis is essential for unraveling how dysbiosis or microbial imbalance mediates the effects of interventions or environmental exposures on health outcomes. However, zero inflation in microbiome count data complicates high-dimensional mediation analysis, as frequently employed zero-inflated models often struggle to distinguish true zero inflation from the underlying count distribution. To address this, we employ a zero-inflated negative binomial distribution for each mediator within a Bayesian framework, incorporating spike-and-slab priors to enable sparsity in estimating natural indirect effects (NIE) and an informative prior based on non-zero counts to improve dispersion estimation and account for zero sources. Recognizing the distinct biological mechanisms underlying microbial presence versus abundance, we developed a dual mediation model, ZIMMA, to separate the NIE into pathways for mediator abundance and prevalence. Extensive simulations demonstrate ZIMMA’s superior performance in capturing distinct mediation mechanisms for both rare and abundant species compared to existing methods. Its application to human microbiome studies examining the effects of dietary intake and metabolic syndrome underscores its efficacy in identifying key microbial mediators, offering valuable insights and biological interpretation into the role of the microbiome in disease physiology and health sciences.\nBio: Dr. Liangliang Zhang serves as an Assistant Professor in the Department of Population and Quantitative Health Sciences at Case Western Reserve University School of Medicine. He focuses on studying the influence of microbiome on disease progression. He develops bioinformatic tools and biostatistical methods to conduct both upstream and downstream analysis of microbiome data. Regarding quantitative techniques, his research interests focus on Bayesian analysis, high dimensional models, and AI models.\nWelcome to join us to learn more about Dr. Zhang’s research work via Zoom!"
   }
 ]
