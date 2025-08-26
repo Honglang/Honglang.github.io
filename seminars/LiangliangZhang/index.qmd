@@ -1,6 +1,6 @@
 ---
 title: "Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis"
-description: "Liangliang Zhang: Assistant Professor @  Case Western Reserve University"
+description: "**Liangliang Zhang: Assistant Professor @  Case Western Reserve University**"
 categories: [news, event, seminar]
 image: "defense.jpg"
 css: /custom.css
@@ -23,7 +23,7 @@ css: /custom.css
 
 **Abstract**: Given the complex interactions between the microbiome, the host, and external factors, causal mediation analysis is essential for unraveling how dysbiosis or microbial imbalance mediates the effects of interventions or environmental exposures on health outcomes. However, zero inflation in microbiome count data complicates high-dimensional mediation analysis, as frequently employed zero-inflated models often struggle to distinguish true zero inflation from the underlying count distribution. To address this, we employ a zero-inflated negative binomial distribution for each mediator within a Bayesian framework, incorporating spike-and-slab priors to enable sparsity in estimating natural indirect effects (NIE) and an informative prior based on non-zero counts to improve dispersion estimation and account for zero sources. Recognizing the distinct biological mechanisms underlying microbial presence versus abundance, we developed a dual mediation model, ZIMMA, to separate the NIE into pathways for mediator abundance and prevalence. Extensive simulations demonstrate ZIMMA’s superior performance in capturing distinct mediation mechanisms for both rare and abundant species compared to existing methods. Its application to human microbiome studies examining the effects of dietary intake and metabolic syndrome underscores its efficacy in identifying key microbial mediators, offering valuable insights and biological interpretation into the role of the microbiome in disease physiology and health sciences.
 
-**Bio**: Dr. Liangliang Zhang serves as an Assistant Professor in the Department of Population and Quantitative Health Sciences at Case Western Reserve University School of Medicine. He focuses on studying the influence of microbiome on disease progression. He develops **bioinformatic tools** and **biostatistical methods** to conduct both upstream and downstream analysis of **microbiome** data. Regarding quantitative techniques, his research interests focus on **Bayesian analysis, high dimensional models, and AI models**.
+**Bio**: Dr. [Liangliang Zhang](https://cwru-cinema.com/author/lianglianglyon-zhang/) serves as an Assistant Professor in the Department of Population and Quantitative Health Sciences at Case Western Reserve University School of Medicine. He focuses on studying the influence of microbiome on disease progression. He develops **bioinformatic tools** and **biostatistical methods** to conduct both upstream and downstream analysis of **microbiome** data. Regarding quantitative techniques, his research interests focus on **Bayesian analysis, high dimensional models, and AI models**.
 
 Welcome to join us to learn more about Dr. Zhang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
 
