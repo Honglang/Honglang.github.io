@@ -132,12 +132,10 @@
       title: #"[Functional Fixed and Random Effects Inference with Applications to Accelerometry Data](/files/seminars/Statistics Seminar-3-11-2025.pdf)"
       description: "[Assistant Professor, IU School of Medicine](https://yuvisu.github.io/)"
 
- 
-
     - date: Nov 11, 2025
-      author: Yikun Zhang
-      title: #"[Maximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models](/files/seminars/Statistics Seminar-3-25-2025.pdf)"
-      description: "[PhD Student, University of Washington, Seattle](https://zhangyk8.github.io/)"
+      author: Ruohong Li
+      title: #"[Instrumental variable analysis with multivariate point process treatments](/files/seminars/Statistics Seminar-4-08-2025.pdf)"
+      description: "[Applied Scientist at Amazon](https://www.linkedin.com/in/ruohong-li-268b21132)"
 
     - date: Nov 18, 2025
       author: Qiang Sun
@@ -150,9 +148,9 @@
       description: "[Assistant Professor, Rutgers University](https://sites.google.com/view/yaqingchen)"
 
     - date: Dec 02, 2025
-      author: Ruohong Li
-      title: #"[Instrumental variable analysis with multivariate point process treatments](/files/seminars/Statistics Seminar-4-08-2025.pdf)"
-      description: "[Applied Scientist at Amazon](https://www.linkedin.com/in/ruohong-li-268b21132)"
+      author: Yikun Zhang
+      title: #"[Maximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models](/files/seminars/Statistics Seminar-3-25-2025.pdf)"
+      description: "[PhD Student, University of Washington, Seattle](https://zhangyk8.github.io/)"
 
     - date: Dec 09, 2025
       author: Yuxin Dong
