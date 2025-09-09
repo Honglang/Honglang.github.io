@@ -1,0 +1,38 @@
+---
+title: "Preference Inference for Language Models Debiased by Fisher Random Walk"
+description: "**Junwei Lu: Associate Professor @ Harvard T.H. Chan School of Public Health**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](junwei.png)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Preference Inference for Language Models Debiased by Fisher Random Walk**
+
+**Abstract**: Human preference alignment has been shown to be effective in training the large language models (LLMs). It allows the LLM to understand human feedback and preferences. Despite the extensive literature dealing with algorithms aligning the rank of human preference, uncertainty quantification for the ranking estimation still needs to be explored and is of great practical significance. For example, it is important to overcome the problem of hallucination for LLM in the medical domain, and an inferential method for the ranking of LLM answers becomes necessary. In this talk, we will present a novel framework called ​“Fisher random walk” to conduct semi-parametric efficient preference inference for language models and illustrate its application in the language models for medical knowledge.
+
+**Bio**: Dr. [Junwei Lu](https://junwei-lu.github.io/) is Associate Professor in Department of Biostatistics in Harvard Chan School of Public Heath. His research interest is to develop inference methods for AI models with applications to medical large language models for electronic health records.
+
+Welcome to join us to learn more about Dr. Lu's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
