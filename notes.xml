@@ -14,7 +14,7 @@
 <title>Dr. Honglang Wang</title>
 <link>https://honglang.github.io/notes.html</link>
 </image>
-<generator>quarto-1.7.34</generator>
+<generator>quarto-1.8.24</generator>
 <lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>New York State Climate Policy Goals Clarified</title>
@@ -292,7 +292,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <section id="using-includes-for-reusable-content" class="level3">
 <h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
 <p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">{{include _statement.qmd}}</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">{{include _statement.qmd}}</span></code></pre></div></div>
 <p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
 <p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
 </section>
@@ -301,7 +301,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <p>Here’s an example for embedding them:</p>
-<div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><span class="dt" style="color: #AD0000;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -373,10 +373,10 @@ background-color: null;
 font-weight: bold;
 font-style: inherit;">div</span><span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">&gt;</span></span></code></pre></div>
+font-style: inherit;">&gt;</span></span></code></pre></div></div>
 <p>Replace the doi with your own.</p>
 <p>Make sure to include below scripts in the same page to enable the badges:</p>
-<div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><span class="dt" style="color: #AD0000;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -424,14 +424,14 @@ background-color: null;
 font-weight: bold;
 font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">&gt;</span></span></code></pre></div>
+font-style: inherit;">&gt;</span></span></code></pre></div></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
-<div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div>
+font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div></div>
 <p>Here is an <a href="https://drganghe.github.io/publications.html">example</a>, and the <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd">source code</a>.</p>
 </section>
 <section id="social-sharing" class="level3">
@@ -452,7 +452,7 @@ font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badg
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>If you need to list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><span class="in" style="color: #5E5E5E;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><span class="in" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
 <span id="cb5-2"><span class="in" style="color: #5E5E5E;
@@ -469,7 +469,7 @@ background-color: null;
 font-style: inherit;">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
 <span id="cb5-6"><span class="in" style="color: #5E5E5E;
 background-color: null;
-font-style: inherit;">      date: "2022-10-26"</span></span></code></pre></div>
+font-style: inherit;">      date: "2022-10-26"</span></span></code></pre></div></div>
 <p>If you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
 <!--Include social share buttons-->
