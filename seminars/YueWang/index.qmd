@@ -1,0 +1,38 @@
+---
+title: "Robust unsupervised analysis of genetic pathways"
+description: "**Yue Wang: Assistant Professor @ University of Colorado Anschutz Medical Campus**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](YueWang.jpeg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Robust unsupervised analysis of genetic pathways**
+
+**Abstract**: Gene pathway analysis is a powerful approach for understanding how groups of genes collectively influence complex traits and diseases. In particular, unsupervised analyses can capture high-level co-expression patterns, cluster pathways into functionally related modules, and identify independent modules for deeper biological insights. However, existing methods based on gene overlap, functional similarity, or pathway correlations often lack biological relevance and statistical robustness. We propose a latent factor–based top-down model to estimate pathway correlations, designed to capture population-specific variation while remaining robust to differences in pathway activity scoring algorithms. To ensure positive definiteness and improve accuracy, we introduce a shrinkage estimator for the correlation matrix, enabling effective pathway clustering. We also establish the asymptotic normality of our estimator, allowing efficient computation of P-values for constructing pathway co-expression networks. The utility of our method is demonstrated through comprehensive analyses of TCGA gene expression datasets, and we provide an R package, *highcor*, for implementation.
+
+**Bio**: Dr. [Yue Wang](https://taryue.github.io/) is an Assistant Professor in the Department of Biostatistics and Informatics at the University of Colorado Anschutz Medical Campus. He previously served as an Assistant Professor of Statistics at Arizona State University. Dr. Wang earned his Ph.D. in Biostatistics from the University of North Carolina at Chapel Hill and completed postdoctoral training at the University of Washington and the Fred Hutchinson Cancer Center. His research focuses on developing multivariate, network-based methods for integrating multi-omics data.
+
+Welcome to join us to learn more about Dr. Wang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
