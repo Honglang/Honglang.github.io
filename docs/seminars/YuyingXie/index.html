@@ -9,7 +9,7 @@
 <meta name="author" content="Honglang Wang">
 <meta name="description" content="Dr.&nbsp;Honglang Wang is a statistician, researcher, and teacher. He studies and teaches data science.">
 
-<title>Statistics Seminars: Fall 2025 – Dr.&nbsp;Honglang Wang</title>
+<title>Single Cells Are Biological Tokens: Towards Cell Language Models – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-seminar2025fall .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-author','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-author","listing-title","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-seminar2025fall'] = new List('listing-seminar2025fall', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -127,44 +96,16 @@ https://badge.dimensions.ai/
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Statistics Seminars: Fall 2025 – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="Department of Mathematical Sciences, IU Indianapolis">
-<meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../custom.css">
+<meta property="og:title" content="Single Cells Are Biological Tokens: Towards Cell Language Models – Dr.&nbsp;Honglang Wang">
+<meta property="og:description" content="Yuying Xie: Associate Professor @ Michigan State University">
+<meta property="og:image" content="https://honglang.github.io/seminars/YuyingXie/defense.jpg">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Statistics Seminars: Fall 2025 – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="Department of Mathematical Sciences, IU Indianapolis">
-<meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<meta name="twitter:title" content="Single Cells Are Biological Tokens: Towards Cell Language Models – Dr.&nbsp;Honglang Wang">
+<meta name="twitter:description" content="Yuying Xie: Associate Professor @ Michigan State University">
+<meta name="twitter:image" content="https://honglang.github.io/seminars/YuyingXie/defense.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -175,7 +116,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Honglang Wang</span>
     </a>
   </div>
@@ -186,15 +127,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./seminar2025fall.html" aria-current="page"> 
+    <a class="nav-link" href="../../seminar2025fall.html"> 
 <span class="menu-text">Statistics Seminar</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./langclub.html"> 
+    <a class="nav-link" href="../../langclub.html"> 
 <span class="menu-text">Lang’s Journal Club</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -203,31 +144,31 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./publications.html">
+    <a class="dropdown-item" href="../../publications.html">
  <span class="dropdown-text">List of Publication</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./projects.html" target="_blank">
+    <a class="dropdown-item" href="../../projects.html" target="_blank">
  <span class="dropdown-text">Grants</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../../people.html"> 
 <span class="menu-text">Lang’s Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/CV.pdf" target="_blank"> 
+    <a class="nav-link" href="../../files/CV.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -240,7 +181,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -257,7 +198,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -265,22 +206,32 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#previous-seminars" id="toc-previous-seminars" class="nav-link active" data-scroll-target="#previous-seminars">Previous Seminars</a></li>
+  <li><a href="#statistics-seminars-fall-2025" id="toc-statistics-seminars-fall-2025" class="nav-link active" data-scroll-target="#statistics-seminars-fall-2025">Statistics Seminars: Fall 2025</a></li>
+  <li><a href="#department-of-mathematical-sciences-iu-indianapolis" id="toc-department-of-mathematical-sciences-iu-indianapolis" class="nav-link" data-scroll-target="#department-of-mathematical-sciences-iu-indianapolis">Department of Mathematical Sciences, IU Indianapolis</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Statistics Seminars: Fall 2025</h1>
-<p class="subtitle lead">Department of Mathematical Sciences, IU Indianapolis</p>
+<h1 class="title">Single Cells Are Biological Tokens: Towards Cell Language Models</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">news</div>
+    <div class="quarto-category">event</div>
+    <div class="quarto-category">seminar</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <strong>Yuying Xie: Associate Professor @ Michigan State University</strong>
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -292,289 +243,21 @@ window.Quarto = {
 </header>
 
 
+<p><a href=""><img src="Yuying_Xie.jpeg" class="img-fluid"></a></p>
+<section id="statistics-seminars-fall-2025" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminars-fall-2025">Statistics Seminars: Fall 2025</h2>
+</section>
+<section id="department-of-mathematical-sciences-iu-indianapolis" class="level2">
+<h2 class="anchored" data-anchor-id="department-of-mathematical-sciences-iu-indianapolis">Department of Mathematical Sciences, IU Indianapolis</h2>
 <p><strong>Organizer</strong>: Honglang Wang (hlwang at iu dot edu)</p>
-<p><strong>Talk times</strong>: Tuesdays 12:15-1:15pm (EST)</p>
+<p><strong>Talk time</strong>: 12:15-1:15pm (EST), 09/02/2025, Tuesday</p>
 <p><strong>Zoom Meetings</strong>: We host our seminars via zoom meetings: Join from computer or mobile by clicking: <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a> to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.</p>
-<div id="listing-seminar2025fall" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-seminar2025fall-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-seminar2025fall'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Speaker
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-description" data-direction="asc">
-          Note
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Speaker</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Note</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1756180800000" data-listing-title-sort="[Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis](/seminars/LiangliangZhang/index.qmd)">
-<td>
-<span class="listing-date">Aug 26, 2025</span>
-</td>
-<td>
-<span class="listing-author">Liangliang Zhang</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/LiangliangZhang/index.html">Decoding microbiome dual mediation: introducing zimma for enhanced zero-inflated data analysis</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://cwru-cinema.com/author/lianglianglyon-zhang/">Assistant Professor, Case Western Reserve University</a></span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1756785600000" data-listing-title-sort="[Trustworthy Statistical Inference with Black-Box Predictions](/seminars/JiweiZhao/index.qmd)">
-<td>
-<span class="listing-date">Sep 2, 2025</span>
-</td>
-<td>
-<span class="listing-author">Jiwei Zhao</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/JiweiZhao/index.html">Trustworthy Statistical Inference with Black-Box Predictions</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://pages.stat.wisc.edu/~jiweizhao/">Associate Professor, University of Wisconsin-Madison</a></span>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1757390400000" data-listing-title-sort="[An Upper Tail Field of the KPZ Fixed Point](/seminars/RayZhang/index.qmd)">
-<td>
-<span class="listing-date">Sep 9, 2025</span>
-</td>
-<td>
-<span class="listing-author">Ruixuan Zhang</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/RayZhang/index.html">An Upper Tail Field of the KPZ Fixed Point</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://sites.google.com/view/rayzhang/">Postdoctoral Research Associate, University of Utah</a></span>
-</td>
-</tr>
-<tr data-index="3" data-listing-date-sort="1757995200000" data-listing-title-sort="[Preference Inference for Language Models Debiased by Fisher Random Walk](/seminars/JunweiLu/index.qmd)">
-<td>
-<span class="listing-date">Sep 16, 2025</span>
-</td>
-<td>
-<span class="listing-author">Junwei Lu</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/JunweiLu/index.html">Preference Inference for Language Models Debiased by Fisher Random Walk</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://junwei-lu.github.io/">Associate professor, Harvard T.H. Chan School of Public Health</a></span>
-</td>
-</tr>
-<tr data-index="4" data-listing-date-sort="1758600000000" data-listing-title-sort="[Robust unsupervised analysis of genetic pathways](/seminars/YueWang/index.qmd)">
-<td>
-<span class="listing-date">Sep 23, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yue Wang</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/YueWang/index.html">Robust unsupervised analysis of genetic pathways</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://taryue.github.io/">Assistant professor, University of Colorado Anschutz Medical Campus</a></span>
-</td>
-</tr>
-<tr data-index="5" data-listing-date-sort="1759204800000" data-listing-title-sort="[Single Cells Are Biological Tokens: Towards Cell Language Models](/seminars/YuyingXie/index.qmd)">
-<td>
-<span class="listing-date">Sep 30, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yuying Xie</span>
-</td>
-<td>
-<span class="listing-title"><a href="./seminars/YuyingXie/index.html">Single Cells Are Biological Tokens: Towards Cell Language Models</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/101084">Associate Professor, Michigan State University</a></span>
-</td>
-</tr>
-<tr data-index="6" data-listing-date-sort="1759809600000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Oct 7, 2025</span>
-</td>
-<td>
-<span class="listing-author">Bingkai Wang</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://bingkaiwang.com/">Assistant Professor, University of Michigan</a></span>
-</td>
-</tr>
-<tr data-index="7" data-listing-date-sort="1760414400000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Oct 14, 2025</span>
-</td>
-<td>
-<span class="listing-author">Debolina Chatterjee</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://sites.google.com/view/debolinachatterjee/home">Postdoctoral Fellow, IU School of Medicine</a></span>
-</td>
-</tr>
-<tr data-index="8" data-listing-date-sort="1761019200000">
-<td>
-<span class="listing-date">Oct 21, 2025</span>
-</td>
-<td>
-<span class="listing-author">Fall Break</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="9" data-listing-date-sort="1761624000000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Oct 28, 2025</span>
-</td>
-<td>
-<span class="listing-author">Haohao Su</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://directory.natsci.msu.edu/directory/Profiles/Person/102517">PhD Student, Michigan State University</a></span>
-</td>
-</tr>
-<tr data-index="10" data-listing-date-sort="1762232400000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Nov 4, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yu Huang</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://yuvisu.github.io/">Assistant Professor, IU School of Medicine</a></span>
-</td>
-</tr>
-<tr data-index="11" data-listing-date-sort="1762837200000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Nov 11, 2025</span>
-</td>
-<td>
-<span class="listing-author">Ruohong Li</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://www.linkedin.com/in/ruohong-li-268b21132">Applied Scientist at Amazon</a></span>
-</td>
-</tr>
-<tr data-index="12" data-listing-date-sort="1763442000000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Nov 18, 2025</span>
-</td>
-<td>
-<span class="listing-author">Qiang Sun</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://sites.google.com/view/qsun">Professor, University of Toronto</a></span>
-</td>
-</tr>
-<tr data-index="13" data-listing-date-sort="1764046800000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Nov 25, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yaqing Chen</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://sites.google.com/view/yaqingchen">Assistant Professor, Rutgers University</a></span>
-</td>
-</tr>
-<tr data-index="14" data-listing-date-sort="1764651600000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Dec 2, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yikun Zhang</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://zhangyk8.github.io/">PhD Student, University of Washington, Seattle</a></span>
-</td>
-</tr>
-<tr data-index="15" data-listing-date-sort="1765256400000" data-listing-title-sort="">
-<td>
-<span class="listing-date">Dec 9, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yuxin Dong</span>
-</td>
-<td>
-<span class="listing-title">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description">IU Indianapolis PhD Student</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<section id="previous-seminars" class="level2">
-<h2 class="anchored" data-anchor-id="previous-seminars">Previous Seminars</h2>
-<p><a href="&quot;/seminar2025spring.qmd&quot;">Spring 2025</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2024fall.html">Fall 2024</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2024spring.html">Spring 2024</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2023fall.html">Fall 2023</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2023spring.html">Spring 2023</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2022fall.html">Fall 2022</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2022spring.html">Spring 2022</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2021fall.html">Fall 2021</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2021spring.html">Spring 2021</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2020fall.html">Fall 2020</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2020spring.html">Spring 2020</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2019fall.html">Fall 2019</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2019spring.html">Spring 2019</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2018fall.html">Fall 2018</a> <a href="https://math.indianapolis.iu.edu/~hlwang/statseminar2018spring.html">Spring 2018</a></p>
+<p><strong>Title: Single Cells Are Biological Tokens: Towards Cell Language Models</strong></p>
+<p><strong>Abstract</strong>: The current state-of-the-art single-cell pre-trained models are greatly inspired by the success of large language models. They trained transformers by treating genes as tokens and cells as sentences. However, three fundamental differences between single-cell data and natural language data are overlooked: (1) scRNA-seq data are presented as bag-of-genes instead of sequences of RNAs; (2) Cell-cell relations are more intricate and important than inter-sentence relations; and (3) The quantity of single-cell data is considerably inferior to text data, and they are very noisy. In light of these characteristics, we propose a new pre-trained model, CellPLM, which takes cells as tokens and tissues as sentences. In addition, we leverage spatially resolved transcriptomic data in pre-training to facilitate learning cell-cell relationships and introduce a Gaussian mixture prior distribution as an additional inductive bias to overcome data limitations.&nbsp; This is the first single-cell pre-trained transformer that encodes cell-cell relations, and it consistently outperforms existing pre-trained and non-pre-trained models in diverse downstream tasks.</p>
+<p><strong>Bio</strong>: Dr.&nbsp;<a href="https://directory.natsci.msu.edu/directory/Profiles/Person/101084">Yuying Xie</a> is an Associate Professor in the Departments of Computational Mathematics, Science &amp; Engineering and Statistics &amp; Probability at Michigan State University. He holds dual Ph.D.&nbsp;degrees in Statistics and Genetics. Dr.&nbsp;Xie’s research develops statistical machine learning and deep learning methods for single-cell and spatial transcriptomics&nbsp;data, with applications to cancer, colitis, and infectious diseases. His group won the first place in NeurIPS 2021 Single-cell Competition and silver medal (rank 24/1266) in NeurIPS 2022 Single-Cell competition.</p>
+<p>Welcome to join us to learn more about Dr.&nbsp;Xie’s research work via <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>!</p>
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -585,7 +268,6 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
 
 
 </section>
@@ -1040,7 +722,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>

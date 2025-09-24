@@ -1,0 +1,38 @@
+---
+title: "Single Cells Are Biological Tokens: Towards Cell Language Models"
+description: "**Yuying Xie: Associate Professor @ Michigan State University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](Yuying_Xie.jpeg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Single Cells Are Biological Tokens: Towards Cell Language Models**
+
+**Abstract**: The current state-of-the-art single-cell pre-trained models are greatly inspired by the success of large language models. They trained transformers by treating genes as tokens and cells as sentences. However, three fundamental differences between single-cell data and natural language data are overlooked: (1) scRNA-seq data are presented as bag-of-genes instead of sequences of RNAs; (2) Cell-cell relations are more intricate and important than inter-sentence relations; and (3) The quantity of single-cell data is considerably inferior to text data, and they are very noisy. In light of these characteristics, we propose a new pre-trained model, CellPLM, which takes cells as tokens and tissues as sentences. In addition, we leverage spatially resolved transcriptomic data in pre-training to facilitate learning cell-cell relationships and introduce a Gaussian mixture prior distribution as an additional inductive bias to overcome data limitations.  This is the first single-cell pre-trained transformer that encodes cell-cell relations, and it consistently outperforms existing pre-trained and non-pre-trained models in diverse downstream tasks.
+
+**Bio**: Dr. [Yuying Xie](https://directory.natsci.msu.edu/directory/Profiles/Person/101084) is an Associate Professor in the Departments of Computational Mathematics, Science & Engineering and Statistics & Probability at Michigan State University. He holds dual Ph.D. degrees in Statistics and Genetics. Dr. Xie’s research develops statistical machine learning and deep learning methods for single-cell and spatial transcriptomics data, with applications to cancer, colitis, and infectious diseases. His group won the first place in NeurIPS 2021 Single-cell Competition and silver medal (rank 24/1266) in NeurIPS 2022 Single-Cell competition.
+
+Welcome to join us to learn more about Dr. Xie's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
