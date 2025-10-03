@@ -1,0 +1,38 @@
+---
+title: "Covariate Adjustment in Randomized Trials: Theory for Covariate-Adaptive Randomization and Evidence from 50 Studies"
+description: "**Bingkai Wang: Assistant Professor @ University of Michigan**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](bingkaiwang.jpg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Covariate Adjustment in Randomized Trials: Theory for Covariate-Adaptive Randomization and Evidence from 50 Studies**
+
+**Abstract**: This talk has two parts. First, I will present asymptotic theories for combining covariate-adaptive randomization (such as stratified designs and rerandomization) with covariate adjustment in outcome modeling. I will show how randomization can reduce estimator variance, examine the behavior of parametric models and debiased machine-learning approaches, and explain why the semiparametric efficiency bound remains invariant across randomization schemes. In the second part, I will present an analysis of 50 randomized trials that provides empirical evidence on how covariate-adjustment methods, sample sizes, and outcome types interact in practice.
+
+**Bio**: Dr. [Bingkai Wang](https://bingkaiwang.com/) is an assistant professor of Biostatistics in the School of Public Health at the University of Michigan. His work focuses on developing robust and efficient statistical methods that enhance clinical research and improve patient health. His recent research interests include designing complex randomized trials and AI for health science.
+
+Welcome to join us to learn more about Dr. Wang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

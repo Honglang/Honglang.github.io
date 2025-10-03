@@ -2013,7 +2013,7 @@
     "href": "spatial_transcriptomics.html#data-base",
     "title": "Spatial Transcriptomics",
     "section": "Data Base",
-    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics"
+    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics\nChan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover): Discover the mechanisms of human health"
   },
   {
     "objectID": "seminars/LiangliangZhang/index.html#defense",
@@ -2105,5 +2105,19 @@
     "title": "Single Cells Are Biological Tokens: Towards Cell Language Models",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 09/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Single Cells Are Biological Tokens: Towards Cell Language Models\nAbstract: The current state-of-the-art single-cell pre-trained models are greatly inspired by the success of large language models. They trained transformers by treating genes as tokens and cells as sentences. However, three fundamental differences between single-cell data and natural language data are overlooked: (1) scRNA-seq data are presented as bag-of-genes instead of sequences of RNAs; (2) Cell-cell relations are more intricate and important than inter-sentence relations; and (3) The quantity of single-cell data is considerably inferior to text data, and they are very noisy. In light of these characteristics, we propose a new pre-trained model, CellPLM, which takes cells as tokens and tissues as sentences. In addition, we leverage spatially resolved transcriptomic data in pre-training to facilitate learning cell-cell relationships and introduce a Gaussian mixture prior distribution as an additional inductive bias to overcome data limitations.  This is the first single-cell pre-trained transformer that encodes cell-cell relations, and it consistently outperforms existing pre-trained and non-pre-trained models in diverse downstream tasks.\nBio: Dr. Yuying Xie is an Associate Professor in the Departments of Computational Mathematics, Science & Engineering and Statistics & Probability at Michigan State University. He holds dual Ph.D. degrees in Statistics and Genetics. Dr. Xie’s research develops statistical machine learning and deep learning methods for single-cell and spatial transcriptomics data, with applications to cancer, colitis, and infectious diseases. His group won the first place in NeurIPS 2021 Single-cell Competition and silver medal (rank 24/1266) in NeurIPS 2022 Single-Cell competition.\nWelcome to join us to learn more about Dr. Xie’s research work via Zoom!"
+  },
+  {
+    "objectID": "seminars/BingkaiWang/index.html#statistics-seminars-fall-2025",
+    "href": "seminars/BingkaiWang/index.html#statistics-seminars-fall-2025",
+    "title": "Covariate Adjustment in Randomized Trials: Theory for Covariate-Adaptive Randomization and Evidence from 50 Studies",
+    "section": "Statistics Seminars: Fall 2025",
+    "text": "Statistics Seminars: Fall 2025"
+  },
+  {
+    "objectID": "seminars/BingkaiWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/BingkaiWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Covariate Adjustment in Randomized Trials: Theory for Covariate-Adaptive Randomization and Evidence from 50 Studies",
+    "section": "Department of Mathematical Sciences, IU Indianapolis",
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 09/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Covariate Adjustment in Randomized Trials: Theory for Covariate-Adaptive Randomization and Evidence from 50 Studies\nAbstract: This talk has two parts. First, I will present asymptotic theories for combining covariate-adaptive randomization (such as stratified designs and rerandomization) with covariate adjustment in outcome modeling. I will show how randomization can reduce estimator variance, examine the behavior of parametric models and debiased machine-learning approaches, and explain why the semiparametric efficiency bound remains invariant across randomization schemes. In the second part, I will present an analysis of 50 randomized trials that provides empirical evidence on how covariate-adjustment methods, sample sizes, and outcome types interact in practice.\nBio: Dr. Bingkai Wang is an assistant professor of Biostatistics in the School of Public Health at the University of Michigan. His work focuses on developing robust and efficient statistical methods that enhance clinical research and improve patient health. His recent research interests include designing complex randomized trials and AI for health science.\nWelcome to join us to learn more about Dr. Wang’s research work via Zoom!"
   }
 ]
