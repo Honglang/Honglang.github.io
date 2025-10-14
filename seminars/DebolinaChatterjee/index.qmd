@@ -7,7 +7,7 @@ css: /custom.css
 #draft: true
 ---
 
-[![](debolina.jpeg)]()
+[![](debolina.jpg)]()
 
 
 ## Statistics Seminars: Fall 2025
