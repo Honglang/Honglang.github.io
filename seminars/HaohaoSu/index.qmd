@@ -1,0 +1,38 @@
+---
+title: "A unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics"
+description: "**Haohao Su: PhD student @ Michigan State University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](haohao.jpg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: A unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics**
+
+**Abstract**: One major challenge in spatial transcriptomics is identifying spatially variable genes (SVGs), whose expression patterns are non-random across tissue locations. Many SVGs are correlated with cell-type composition, introducing the concept of cell-type-specific SVGs (ctSVGs). However, existing methods for SVG and ctSVG detection often involve methodological misuses, leading to inconsistent and unreliable results. In this talk, I will discuss common methodological issues that lead to inconsistent results in SVG detection and introduce a unified statistical model for both SVGs and ctSVGs detection under a linear mixed-effect model framework that integrates gene expression, spatial location, and cell type composition information. 
+
+**Bio**: [Haohao Su](https://scholar.google.com/citations?user=bLb8ya8AAAAJ&hl=en) is a fourth-year Ph.D. student in the Department of Statistics and Probability at Michigan State University. Before joining MSU, he completed his undergraduate studies in Statistics at Beijing Normal University and then earned his master's degree in Statistics from the University of Wisconsin-Madison. Currently, he is working under the supervision of Dr. Yuehua Cui, focusing on developing statistical methodologies for genomics and genetics, with particular emphasis on modeling spatial variability of gene expression and cell-cell communications in spatial transcriptomics data analysis.
+
+Welcome to join us to learn more about Mr. Su's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
