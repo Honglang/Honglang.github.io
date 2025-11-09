@@ -1,0 +1,42 @@
+---
+title: "From Biostatistics PhD to Tech Industry: A Recent Graduate's Journey"
+description: "**Ruohong Li: Applied Scientist @ Amazon**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](Ruohong.jpg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: From Biostatistics PhD to Tech Industry: A Recent Graduate's Journey**
+
+**Abstract**: This presentation features the personal journey of Ruohong Li, a 2021 Biostatistics graduate, as she transitioned from PhD student to industry professional. The talk covers her experiences learning new business domains like customer lifetime value prediction for tech companies, managing research stress and discovering sustainable work practices during her PhD, navigating immigration pathways and the importance of early preparation, leveraging internship opportunities at Amazon and Microsoft that shaped her career trajectory, and adapting to shifting industry trends from causal inference to AI. 
+
+**Bio**: Dr. [Ruohong Li](https://www.linkedin.com/in/ruohong-li-268b21132) is an Applied Scientist at Amazon Pricing and Promotion, where she leverages causal inference and data-driven insights to optimize retail pricing strategies and improve customer lifetime value prediction. She develops customer digital twin models for A/B simulation to accelerate strategic business decision making.
+
+Prior to Amazon, she spent four years at Microsoft as a Senior Machine Learning Scientist, where she built company-wide AI solutions including a Security Vulnerability Handling Solution and pioneered Microsoft's causal inference engine for M365 services. She has extensive experience in customer lifetime value prediction, having led LTV model development for Microsoft's consumer services.
+
+Dr. Li holds a PhD in Biostatistics and specializes in causal inference, machine learning, MLOps and AI applications.
+
+Welcome to join us to learn more about Dr. Li's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
