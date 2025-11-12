@@ -1,0 +1,40 @@
+---
+title: "Making Algorithms Robust to Structured Noise and Beyond"
+description: "**Qiang Sun: Professor @ University of Toronto**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](qiang.png)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 09/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Making Algorithms Robust to Structured Noise and Beyond**
+
+**Abstract**: Real-world data often conceal meaningful signals beneath both random and structured noise. Structured noise arises in many settings, from batch effects in biomedical studies to background variation in image classification. Interestingly, algorithms that encourage diversity or uniformity in their learned representations tend to generalize better across contexts. To investigate this phenomenon, we study linear representation learning with two views, comparing classical and contrastive methods, both with and without a uniformity constraint. We find that classical non-contrastive algorithms fail in the presence of structured noise. Contrastive learning with only an alignment loss performs well when background variation is mild but breaks down under strong structured noise. In contrast, contrastive learning that enforces a uniformity constraint remains robust regardless of the magnitude of the background noise. Building on these insights, we further explore strategies for designing algorithms that maintain robustness under broader conditions, including random noise and nonstationary environments, by appropriately augmenting the data and problem conditions.
+
+**Bio**: Dr. [Qiang Sun](https://sites.google.com/view/qsun) is a professor of Statistical Sciences, Computer Science, and Computer and Mathematical Sciences at the University of Toronto (UofT) and a visiting professor at MBZUAI, where he leads the NeXAIS (AGI × Statistics) group. His long-term goal is to develop Artificial Intelligence (AI) that is efficient, trustworthy, personalized, and accessible to all. Dr. Sun's current research focuses on efficient GenAI,  trustworthy AI, and foundations of AGI such as next generation statistics, driven by real-world challenges in technology, finance, and science. 
+
+Prior to his tenure at UofT, he was an associate research scholar at Princeton University. He earned his PhD from the University of North Carolina at Chapel Hill and his BS in SCGY from the University of Science and Technology of China. Dr. Sun serves as an associate editor for Electronic Journal of Statistics (EJS), ASA Journal Data Science in Science (DSiS), Journal of the American Statistical Association (JASA), and as an area chair for several ML conferences such as ICLR, COLT, AISTATS, and UAI. 
+
+Welcome to join us to learn more about Dr. Sun's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
