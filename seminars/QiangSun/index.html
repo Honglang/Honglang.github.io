@@ -9,7 +9,7 @@
 <meta name="author" content="Honglang Wang">
 <meta name="description" content="Dr.&nbsp;Honglang Wang is a statistician, researcher, and teacher. He studies and teaches data science.">
 
-<title>Lang’s Journal Club – Dr. Honglang Wang</title>
+<title>Making Algorithms Robust to Structured Noise and Beyond – Dr.&nbsp;Honglang Wang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,27 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-575fc91de65260b003f24fef061fe66a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-575fc91de65260b003f24fef061fe66a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +70,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-langclub .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-author','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-author","listing-title","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-langclub'] = new List('listing-langclub', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -129,44 +98,16 @@ https://badge.dimensions.ai/
 
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Lang’s Journal Club – Dr.&nbsp;Honglang Wang">
-<meta property="og:description" content="Department of Mathematical Sciences, IU Indianapolis">
-<meta property="og:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../custom.css">
+<meta property="og:title" content="Making Algorithms Robust to Structured Noise and Beyond – Dr.&nbsp;Honglang Wang">
+<meta property="og:description" content="Qiang Sun: Professor @ University of Toronto">
+<meta property="og:image" content="https://honglang.github.io/seminars/QiangSun/defense.jpg">
 <meta property="og:site_name" content="Dr. Honglang Wang">
-<meta name="twitter:title" content="Lang’s Journal Club – Dr.&nbsp;Honglang Wang">
-<meta name="twitter:description" content="Department of Mathematical Sciences, IU Indianapolis">
-<meta name="twitter:image" content="https://honglang.github.io/files/profile/honglangwang.JPG">
+<meta name="twitter:title" content="Making Algorithms Robust to Structured Noise and Beyond – Dr.&nbsp;Honglang Wang">
+<meta name="twitter:description" content="Qiang Sun: Professor @ University of Toronto">
+<meta name="twitter:image" content="https://honglang.github.io/seminars/QiangSun/defense.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -177,7 +118,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Honglang Wang</span>
     </a>
   </div>
@@ -188,15 +129,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./seminar2025fall.html"> 
+    <a class="nav-link" href="../../seminar2025fall.html"> 
 <span class="menu-text">Statistics Seminar</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./langclub.html" aria-current="page"> 
+    <a class="nav-link" href="../../langclub.html"> 
 <span class="menu-text">Lang’s Journal Club</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -205,31 +146,31 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./publications.html">
+    <a class="dropdown-item" href="../../publications.html">
  <span class="dropdown-text">List of Publication</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./projects.html" target="_blank">
+    <a class="dropdown-item" href="../../projects.html" target="_blank">
  <span class="dropdown-text">Grants</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../../people.html"> 
 <span class="menu-text">Lang’s Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/CV.pdf" target="_blank"> 
+    <a class="nav-link" href="../../files/CV.pdf" target="_blank"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -242,7 +183,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -259,24 +200,40 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#statistics-seminars-fall-2025" id="toc-statistics-seminars-fall-2025" class="nav-link active" data-scroll-target="#statistics-seminars-fall-2025">Statistics Seminars: Fall 2025</a></li>
+  <li><a href="#department-of-mathematical-sciences-iu-indianapolis" id="toc-department-of-mathematical-sciences-iu-indianapolis" class="nav-link" data-scroll-target="#department-of-mathematical-sciences-iu-indianapolis">Department of Mathematical Sciences, IU Indianapolis</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lang’s Journal Club</h1>
-<p class="subtitle lead">Department of Mathematical Sciences, IU Indianapolis</p>
+<h1 class="title">Making Algorithms Robust to Structured Noise and Beyond</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">news</div>
+    <div class="quarto-category">event</div>
+    <div class="quarto-category">seminar</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <strong>Qiang Sun: Professor @ University of Toronto</strong>
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -288,294 +245,22 @@ window.Quarto = {
 </header>
 
 
+<p><a href=""><img src="qiang.png" class="img-fluid"></a></p>
+<section id="statistics-seminars-fall-2025" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminars-fall-2025">Statistics Seminars: Fall 2025</h2>
+</section>
+<section id="department-of-mathematical-sciences-iu-indianapolis" class="level2">
+<h2 class="anchored" data-anchor-id="department-of-mathematical-sciences-iu-indianapolis">Department of Mathematical Sciences, IU Indianapolis</h2>
 <p><strong>Organizer</strong>: Honglang Wang (hlwang at iu dot edu)</p>
-<p><strong>Talk times</strong>: Tuesdays 9:30-11:00am (EST)</p>
-<p><strong>Zoom Meetings</strong>: We host our journal club via zoom meetings: Join from computer or mobile by clicking: <a href="https://iu.zoom.us/j/83130869503?pwd=YXlndWYwNHhwdUp3TzRTNTdkbFhkZz09">Zoom</a> to Join or use Meeting ID: 83130869503 with Password: 990915 to join.</p>
-<div id="listing-langclub" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-langclub-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-langclub'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Speaker
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-description" data-direction="asc">
-        Note
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Speaker</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Note</a>
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-date-sort="1736812800000" data-listing-title-sort="Introduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)">
-<td>
-<span class="listing-date">Jan 14, 2025</span>
-</td>
-<td>
-<span class="listing-author">Honglang Wang</span>
-</td>
-<td>
-<span class="listing-title">Introduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)</span>
-</td>
-<td>
-<span class="listing-description"><a href="./files/papers/cs229-notes-deep_learning.pdf">FNN and BP</a>, <a href="./files/papers/CNN.pdf">CNN</a>, <a href="https://youtu.be/VMj-3S1tku0?si=U6AG9oaaBOcFB2id">Coding</a></span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1737417600000" data-listing-title-sort="Introduction to Recurrent Neural Network (RNN), Attension and Transformer">
-<td>
-<span class="listing-date">Jan 21, 2025</span>
-</td>
-<td>
-<span class="listing-author">Honglang Wang</span>
-</td>
-<td>
-<span class="listing-title">Introduction to Recurrent Neural Network (RNN), Attension and Transformer</span>
-</td>
-<td>
-<span class="listing-description"><a href="./files/papers/Lec4-RNN.pdf">RNN</a>, <a href="./files/papers/Lec5-SelfAttention.pdf">Attension</a>, <a href="./files/papers/Lec6-Transformer.pdf">Transformer</a></span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-date-sort="1738022400000" data-listing-title-sort="Cancelled">
-<td>
-<span class="listing-date">Jan 28, 2025</span>
-</td>
-<td>
-<span class="listing-author">Happy Chinese New Year</span>
-</td>
-<td>
-<span class="listing-title">Cancelled</span>
-</td>
-<td>
-<span class="listing-description">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-date-sort="1738627200000" data-listing-title-sort="Philosophy of Language">
-<td>
-<span class="listing-date">Feb 4, 2025</span>
-</td>
-<td>
-<span class="listing-author">Xiang Wang</span>
-</td>
-<td>
-<span class="listing-title">Philosophy of Language</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://b23.tv/Wx2yG7C">bilibili talk</a></span>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-date-sort="1739232000000" data-listing-title-sort="Estimating textual treatment effect via causal disentangled representation learning">
-<td>
-<span class="listing-date">Feb 11, 2025</span>
-</td>
-<td>
-<span class="listing-author">Ran Mo</span>
-</td>
-<td>
-<span class="listing-title">Estimating textual treatment effect via causal disentangled representation learning</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://arxiv.org/abs/1906.02120">Paper1</a>, <a href="https://arxiv.org/abs/2001.10652">Paper2</a>, <a href="./files/papers/Yang_Shen_2025_Textual_Treatment_Effect_Supercomputing.pdf">Paper3</a></span>
-</td>
-
-</tr>
-
-<tr data-index="5" data-listing-date-sort="1739836800000" data-listing-title-sort="Speech and Language Processing">
-<td>
-<span class="listing-date">Feb 18, 2025</span>
-</td>
-<td>
-<span class="listing-author">Yishan Cui</span>
-</td>
-<td>
-<span class="listing-title">Speech and Language Processing</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://web.stanford.edu/~jurafsky/slp3/">book</a></span>
-</td>
-
-</tr>
-
-<tr data-index="6" data-listing-date-sort="1741046400000" data-listing-title-sort="Investigating Gender Bias in Language Models Using Causal Mediation Analysis">
-<td>
-<span class="listing-date">Mar 4, 2025</span>
-</td>
-<td>
-<span class="listing-author">Xuchen Fang</span>
-</td>
-<td>
-<span class="listing-title">Investigating Gender Bias in Language Models Using Causal Mediation Analysis</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf">paper</a></span>
-</td>
-
-</tr>
-
-<tr data-index="7" data-listing-date-sort="1741651200000" data-listing-title-sort="Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation">
-<td>
-<span class="listing-date">Mar 11, 2025</span>
-</td>
-<td>
-<span class="listing-author">Ran Mo</span>
-</td>
-<td>
-<span class="listing-title">Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://arxiv.org/abs/2311.11321">Paper</a></span>
-</td>
-
-</tr>
-
-<tr data-index="8" data-listing-date-sort="1744070400000" data-listing-title-sort="Disentangled Representation for Causal Mediation Analysis">
-<td>
-<span class="listing-date">Apr 8, 2025</span>
-</td>
-<td>
-<span class="listing-author">Xuchen Fang</span>
-</td>
-<td>
-<span class="listing-title">Disentangled Representation for Causal Mediation Analysis</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://arxiv.org/abs/2302.09694">paper</a></span>
-</td>
-
-</tr>
-
-<tr data-index="9" data-listing-date-sort="1744675200000" data-listing-title-sort="[Mixture of Experts Explained](https://huggingface.co/blog/moe)">
-<td>
-<span class="listing-date">Apr 15, 2025</span>
-</td>
-<td>
-<span class="listing-author">Xiang Wang</span>
-</td>
-<td>
-<span class="listing-title"><a href="https://huggingface.co/blog/moe">Mixture of Experts Explained</a></span>
-</td>
-<td>
-<span class="listing-description"><a href="https://zhuanlan.zhihu.com/p/674698482?utm_medium=social&amp;utm_psn=1865923450385870848&amp;utm_source=ZHShareTargetIDMore">混合专家模型 (MoE) 详解</a></span>
-</td>
-
-</tr>
-
-<tr data-index="10" data-listing-date-sort="1745280000000" data-listing-title-sort="Latent Semantic and Disentangled Attention">
-<td>
-<span class="listing-date">Apr 22, 2025</span>
-</td>
-<td>
-<span class="listing-author">Ran Mo</span>
-</td>
-<td>
-<span class="listing-title">Latent Semantic and Disentangled Attention</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://ieeexplore.ieee.org/abstract/document/10607968">Paper</a></span>
-</td>
-
-</tr>
-
-<tr data-index="11" data-listing-date-sort="1745884800000" data-listing-title-sort="Towards Reasoning in Large Language Models: A Survey">
-<td>
-<span class="listing-date">Apr 29, 2025</span>
-</td>
-<td>
-<span class="listing-author">Xuchen Fang</span>
-</td>
-<td>
-<span class="listing-title">Towards Reasoning in Large Language Models: A Survey</span>
-</td>
-<td>
-<span class="listing-description"><a href="https://arxiv.org/abs/2212.10403">paper</a></span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<p><strong>Resources</strong>: places to select papers to study</p>
-<ul>
-<li><a href="https://github.com/Hannibal046/Awesome-LLM">Awesome LLM</a></li>
-<li><a href="https://facevoid.github.io/luberlab-jc-fall24/papers">Luberlab Journal Club - AI in Healthcare Research</a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/16C5IivYfqZz0-pwFX3R0jK_9OQkq2e6IuM1lP4oMKGo/edit?gid=0#gid=0">A.I. LLM Journal Club</a></li>
-<li><a href="https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html">LLM Research Papers: The 2024 List from Sebastian Raschka</a></li>
-<li><a href="https://sebastianraschka.com/blog/2025/llm-research-2024.html">Noteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024</a></li>
-<li><a href="https://arxiv.org/abs/1410.3916">Memory Networks</a></li>
-<li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li>
-<li><a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a></li>
-<li><a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning for Image Recognition</a></li>
-<li><a href="https://arxiv.org/abs/1701.06538">Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer</a></li>
-<li><a href="https://arxiv.org/abs/1502.03167">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a></li>
-<li><a href="https://arxiv.org/abs/1912.13200">AdderNet: Do We Really Need Multiplications in Deep Learning?</a></li>
-<li><a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/675216281?utm_medium=social&amp;utm_psn=1865922622358941696&amp;utm_source=ZHShareTargetIDMore">Mixture of Experts（MoE）学习笔记</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/674698482?utm_medium=social&amp;utm_psn=1865923450385870848&amp;utm_source=ZHShareTargetIDMore">混合专家模型 (MoE) 详解</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/16730036197">deepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention)</a>; <a href="https://zhuanlan.zhihu.com/p/18056041194">deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生</a>; <a href="https://zhuanlan.zhihu.com/p/18565423596">deepseek技术解读(3)-MoE的演进之路</a></li>
-<li><a href="https://arxiv.org/abs/2402.00743v2">Theoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data</a></li>
-<li><a href="https://arxiv.org/abs/2305.16380">Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer</a></li>
-<li><a href="https://arxiv.org/abs/2310.00535">JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention</a></li>
-<li><a href="https://arxiv.org/abs/2006.16236">Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention</a></li>
-<li><a href="https://arxiv.org/abs/2402.18510">RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval</a></li>
-<li><a href="https://arxiv.org/abs/2410.05459">From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency</a></li>
-<li><a href="https://arxiv.org/abs/2502.17814">An Overview of Large Language Models for Statisticians</a></li>
-</ul>
-<p><strong>Nice YouTube Videos</strong>:</p>
-<ul>
-<li><a href="https://youtu.be/zjkBMFhNj_g?si=ceYFgBOqG6JT5AOv">Intro to Large Language Models-Andrej Karpathy</a></li>
-<li><a href="https://youtu.be/nzqlFIcCSWQ?si=BCuY9McOPPB_1iwD">Transformer论文逐段精读</a></li>
-<li><a href="https://youtu.be/GGLr-TtKguA?si=q55sLBpzA_9ZiP1m">从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)</a></li>
-<li><a href="https://youtu.be/XfpMkf4rD6E?si=BwtKeYPkMdeZTTIv">Introduction to Transformers w/ Andrej Karpathy</a></li>
-<li><a href="https://youtu.be/kCc8FmEb1nY?si=aIIClnkaQFFIEfqF">Let’s build GPT: from scratch, in code, spelled out</a></li>
-<li><a href="https://youtu.be/l8pRSuU81PU?si=tqSrbt7PRQ9PzUU1">Let’s reproduce GPT-2 (124M)</a></li>
-<li><a href="https://youtu.be/quh7z1q7-uc?si=YoOwXEoRKHKaq9g6">Building LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka</a></li>
-</ul>
+<p><strong>Talk time</strong>: 12:15-1:15pm (EST), 09/02/2025, Tuesday</p>
+<p><strong>Zoom Meetings</strong>: We host our seminars via zoom meetings: Join from computer or mobile by clicking: <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a> to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.</p>
+<p><strong>Title: Making Algorithms Robust to Structured Noise and Beyond</strong></p>
+<p><strong>Abstract</strong>: Real-world data often conceal meaningful signals beneath both random and structured noise. Structured noise arises in many settings, from batch effects in biomedical studies to background variation in image classification. Interestingly, algorithms that encourage diversity or uniformity in their learned representations tend to generalize better across contexts. To investigate this phenomenon, we study linear representation learning with two views, comparing classical and contrastive methods, both with and without a uniformity constraint. We find that classical non-contrastive algorithms fail in the presence of structured noise. Contrastive learning with only an alignment loss performs well when background variation is mild but breaks down under strong structured noise. In contrast, contrastive learning that enforces a uniformity constraint remains robust regardless of the magnitude of the background noise. Building on these insights, we further explore strategies for designing algorithms that maintain robustness under broader conditions, including random noise and nonstationary environments, by appropriately augmenting the data and problem conditions.</p>
+<p><strong>Bio</strong>: Dr.&nbsp;<a href="https://sites.google.com/view/qsun">Qiang Sun</a> is a professor of Statistical Sciences, Computer Science, and Computer and Mathematical Sciences at the University of Toronto (UofT) and a visiting professor at MBZUAI, where he leads the NeXAIS (AGI × Statistics) group. His long-term goal is to develop Artificial Intelligence (AI) that is efficient, trustworthy, personalized, and accessible to all. Dr.&nbsp;Sun’s current research focuses on efficient GenAI, trustworthy AI, and foundations of AGI such as next generation statistics, driven by real-world challenges in technology, finance, and science.</p>
+<p>Prior to his tenure at UofT, he was an associate research scholar at Princeton University. He earned his PhD from the University of North Carolina at Chapel Hill and his BS in SCGY from the University of Science and Technology of China. Dr.&nbsp;Sun serves as an associate editor for Electronic Journal of Statistics (EJS), ASA Journal Data Science in Science (DSiS), Journal of the American Statistical Association (JASA), and as an area chair for several ML conferences such as ICLR, COLT, AISTATS, and UAI.</p>
+<p>Welcome to join us to learn more about Dr.&nbsp;Sun’s research work via <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>!</p>
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -588,7 +273,7 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1020,7 +705,7 @@ https://quarto.org/docs/authoring/includes.html
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
       <i class="bi bi-rss" role="img">
 </i> 
     </a>
