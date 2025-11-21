@@ -1,0 +1,42 @@
+---
+title: "How are random objects distributed in a metric space?"
+description: "**Yaqing Chen: Assistant Professor @ Rutgers University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](Yaqing_Chen.jpg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 11/25/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: How are random objects distributed in a metric space?**
+
+**Abstract**: We propose new tools for the geometric exploration of data objects taking values in a general separable metric space. For a random object, we first introduce the concept of distance profiles. Specifically, the distance profile of a point in a metric space is the distribution of distances between the very point and the random object. Distance profiles can be harnessed to define transport ranks based on optimal transport, which capture the centrality and outlyingness of each element in the metric space with respect to the probability measure induced by the random object. We study the properties of transport ranks and show that they provide an effective device for detecting and visualizing patterns in samples of random objects. In particular, we establish the theoretical guarantees for the estimation of the distance profiles and the transport ranks for a wide class of metric spaces, followed by practical illustrations. In addition, we propose homogeneity tests and mutual independence tests for metric-space-valued data based on distance profiles.
+
+This talk is based on joint works with Paromita Dubey and Hans-Georg M\”uller.
+
+**Bio**: Dr. [Yaqing Chen](https://sites.google.com/view/yaqingchen) is an Assistant Professor in the Department of Statistics at Rutgers University. Before joining Rutgers, she completed her Ph.D. in Statistics in 2020 and was a postdoctoral scholar, both under the supervision of Professor Hans-Georg Müller, in the Department of Statistics at the University of California, Davis (UC Davis). Prior to that, she received a Bachelor of Science in Mathematics and Applied Mathematics from Peking University in 2015. 
+
+Her current research is centered on the development of statistical theory and methods for the analysis of functional/longitudinal data and data residing in metric spaces or non-Euclidean spaces, including but not limited to distributions and distributional time series, networks, compositional data and also time-varying metric space valued data. In addition to theoretical and methodological challenges, her scholarly pursuits extend to various interdisciplinary applications and collaborations, particularly in the areas of longitudinal studies, biological and medical sciences, and social sciences.
+
+Welcome to join us to learn more about Dr. Chen's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
