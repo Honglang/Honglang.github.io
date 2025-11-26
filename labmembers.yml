@@ -41,14 +41,14 @@
 #      categories: []
 
 
-#     - path: https://openreview.net/profile?id=~Zhiyuan_Zhu4
-#       image: /files/images/zhiyuanzhu.jpg
-#       title: "Zhiyuan ZHU"
-#       lastname: "EZhu"
-#       started: "May 2024"
-#       ended: "" 
-# #      author: 
-#       subtitle: "Undergraduate, Zhejiang University"
-# #      date: "2024-03-12"
-# #      categories: []
+    - path: 
+      image: /files/images/makagynGrimm.jpg
+      title: "Makagyn GRIMM"
+      lastname: "EGrimm"
+      started: "August 2025"
+      ended: "" 
+#      author: 
+      subtitle: "Undergraduate, IU Indianapolis. Spatial Transcriptomics."
+#      date: "2024-03-12"
+#      categories: []
 
