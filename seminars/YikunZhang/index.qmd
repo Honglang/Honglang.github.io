@@ -1,0 +1,43 @@
+---
+title: "When Geometry Meets Causality: The Statistics Behind Cosmic Web Analysis"
+description: "**Yikun Zhang: PhD candidate @ University of Washington**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](YikunZhang.jpg)]()
+
+
+## Statistics Seminars: Fall 2025
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 12/02/2025, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: When Geometry Meets Causality: The Statistics Behind Cosmic Web Analysis**
+
+**Abstract**: On megaparsec scales, matter in our Universe is not uniformly distributed but rather forms a complex large-scale network structure known as the cosmic web. Detecting this structure from observational data is challenging due to its geometric intricacy and the spherical domain of the sky. In this talk, we introduce a novel statistical framework for detecting the cosmic web from galaxy samples in the Sloan Digital Sky Survey and for analyzing its causal effects on nearby galaxies.
+
+To accommodate spherical geometry, we model the cosmic web through directional density ridge and establish statistical consistency guarantee for its estimation via kernel smoothing. Computationally, we develop a geometry-aware algorithm with provable efficiency. Practically, we release an open cosmic web catalog constructed by our method.
+
+While most existing studies examine the influence of the cosmic web through correlation-based analyses, we advance both theory and methodology for causal inference with continuous treatments, enabling causal investigation. Under positivity and other regularity conditions, we propose a doubly robust (DR) estimator for the derivative of the dose-response curve, interpreted as the average treatment effect for continuous treatments. When the positivity condition is violated, we demonstrate the inconsistency of conventional inverse probability weighting (IPW) and DR estimators, and introduce new bias-corrected IPW and DR estimators. To quantify heterogeneous treatment effect without assuming positivity, we further propose a new intervention curve that naturally adapts to the treatment population. Interestingly, both the bias-corrected estimators and the new causal estimand reveal connections to geometric problems in Statistics, including nonparametric support and level-set estimation.
+
+
+**Bio**: [Yikun Zhang](https://zhangyk8.github.io/) is a PhD candidate in the Department of Statistics at the University of Washington (UW) advised by Prof. Yen-Chi Chen. His current theoretical research interests lie in nonparametric statistics, optimization on manifolds, and causal inference for continuous treatments. On the applied side, he is broadly interested in tackling challenging problems in astronomy, particularly those related to detecting and analyzing the large-scale structure of the Universe (i.e., the cosmic web) through statistically principled approaches.
+
+Welcome to join us to learn more about Yikun's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
