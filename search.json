@@ -217,88 +217,32 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts/2024-12-course-projects-samples/index.html",
-    "href": "posts/2024-12-course-projects-samples/index.html",
-    "title": "STAT 512/521 Course Projects Samples",
-    "section": "",
-    "text": "IU Indianapolis\nI had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses."
-  },
-  {
-    "objectID": "posts/2024-12-course-projects-samples/index.html#presentations",
-    "href": "posts/2024-12-course-projects-samples/index.html#presentations",
-    "title": "STAT 512/521 Course Projects Samples",
-    "section": "Presentations",
-    "text": "Presentations\n\nSTAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data\nSTAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods"
-  },
-  {
-    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
-    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
-    "title": "Lang’s Journal Club: Large Language Models",
-    "section": "Journal Club on LLM, Spring 2025",
-    "text": "Journal Club on LLM, Spring 2025\nTuesdays 9:30-11:00am (EST): 1/13/2025 — 5/4/2025 Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\nWelcome to join us to learn more about LLM at IU Indianapolis!"
-  },
-  {
-    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
-    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
-    "title": "Lang’s Journal Club: Large Language Models",
-    "section": "Journal Club Website",
-    "text": "Journal Club Website"
-  },
-  {
-    "objectID": "seminar2025fall.html",
-    "href": "seminar2025fall.html",
-    "title": "Statistics Seminars: Fall 2025",
+    "objectID": "seminar2026spring.html",
+    "href": "seminar2026spring.html",
+    "title": "Statistics Seminars: Spring 2026",
     "section": "",
     "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
   },
   {
-    "objectID": "seminar2025fall.html#previous-seminars",
-    "href": "seminar2025fall.html#previous-seminars",
-    "title": "Statistics Seminars: Fall 2025",
+    "objectID": "seminar2026spring.html#previous-seminars",
+    "href": "seminar2026spring.html#previous-seminars",
+    "title": "Statistics Seminars: Spring 2026",
     "section": "Previous Seminars",
-    "text": "Previous Seminars\nSpring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Honglang Wang\nOffice: LD 270B, 402 N.Blackford St.\nDepartment of Mathematical Sciences\nIndiana University Indianapolis\nIndianapolis, IN 46202\nE-mail: hlwang at iu dot edu"
+    "objectID": "posts/2024-11-ran-mo-defense/index.html#defense",
+    "href": "posts/2024-11-ran-mo-defense/index.html#defense",
+    "title": "Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data",
+    "section": "Defense",
+    "text": "Defense\n\nFriday 12:00-2:00PM (EST), 11/01/2024, SL 137\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Fang Li\nDr. Fei Tan\nDr. Hanxiang Peng\n\n\nWelcome to join us to learn more about Ran’s thesis work at IU Indianapolis!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Honglang Wang, PhD",
-    "section": "",
-    "text": "IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n      arXiv\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Wordpress\n  \n  \n      Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis.\nEducation\n\nPhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.\nDual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.\nMS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.\nBS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.\n\nSee my Curriculum Vitae for more information.\nResearch Interests\n\nStatistical Analysis for Longitudinal and Functional Data\nHigh Dimensional Statistical Inference and its Applications\nCausal Inference\nMachine Learning/Deep Learning\nNonparametric Statistics\nEmpirical Likelihood Methods and its Applications\nStatistical Genetics and Statistical Genomics"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Honglang Wang, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\nWe will have journal club in spring 2025 focusing on large language…\n\n\n\nHonglang Wang\n\n\nJan 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\nNice course projects for statistical computing and applied linear…\n\n\n\nHonglang Wang\n\n\nDec 18, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "seminar2025spring.html",
-    "href": "seminar2025spring.html",
-    "title": "Statistics Seminars: Spring 2025",
-    "section": "",
-    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nYuxing Dong\n\n\nOptimally splitting cases for training and testing high dimensional classifiers\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nJan 21, 2025\n\n\nTing Fung Ma\n\n\nHierarchical dependence modeling for the analysis of large insurance claims data\n\n\nAssistant professor of Statistics at the University of South Carolina\n\n\n\n\n\n\nJan 28, 2025\n\n\nTae-Hwi Schwantes-An\n\n\nCancelled\n\n\nAssistant Professor of Medical & Molecular Genetics, IU School of Medicine\n\n\n\n\n\n\nFeb 4, 2025\n\n\nEnoch Su\n\n\nThe A-optimal subsampling approach to the analysis of count data of massive size\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 11, 2025\n\n\nShanghong Xie\n\n\nIdentifying temporal pathways using biomarkers in the presence of latent non-Gaussian components\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nFeb 18, 2025\n\n\nXuchen Fang\n\n\nLasso and some of its varieties\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 25, 2025\n\n\nYishan Cui\n\n\nPenalized variable selection with U-estimates\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nMar 4, 2025\n\n\nJing Liu\n\n\nDeciphering gene expression in single cells with single molecule imaging and math-modeling\n\n\nAssociate Professor of Physics and Astronomy, Purdue University\n\n\n\n\n\n\nMar 11, 2025\n\n\nErjia Cui\n\n\nFunctional Fixed and Random Effects Inference with Applications to Accelerometry Data\n\n\nAssistant Professor in the Division of Biostatistics and Health Data Science at the University of Minnesota\n\n\n\n\n\n\nMar 18, 2025\n\n\nSpring Break\n\n\n \n\n\n \n\n\n\n\n\n\nMar 25, 2025\n\n\nYizhou (Jake) Cai\n\n\nMaximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models\n\n\nPhD Candidate, University of South Carolina\n\n\n\n\n\n\nApr 1, 2025\n\n\nJingwen Yan\n\n\nCancelled\n\n\nAssociate Professor, Bioinformatics, IU Indianapolis\n\n\n\n\n\n\nApr 8, 2025\n\n\nShizhe Chen\n\n\nInstrumental variable analysis with multivariate point process treatments\n\n\nAssistant professor in the Department of Statistics at UC Davis\n\n\n\n\n\n\nApr 15, 2025\n\n\nYuexuan Wu\n\n\nSpatiotemporal Shape Analysis of Longitudinal Brain Imaging Data\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nApr 22, 2025\n\n\nZhaoxia Yu\n\n\nAdvancing Statistical Rigor in Research: The Power of Awareness, Action, and Advocacy\n\n\nProfessor in the Department of Statistics at the University of California, Irvine\n\n\n\n\n\n\nApr 29, 2025\n\n\nArcher Y. Yang\n\n\nMultivariate Conformal Selection\n\n\nAssociate Professor of Statistics, Department of Mathematics and Statistics, McGill University\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "langclub.html",
-    "href": "langclub.html",
-    "title": "Lang’s Journal Club",
-    "section": "",
-    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
+    "objectID": "posts/2025-04-yishan-cui-defense/index.html#defense",
+    "href": "posts/2025-04-yishan-cui-defense/index.html#defense",
+    "title": "Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models",
+    "section": "Defense",
+    "text": "Defense\n\nFriday 11:00-1:00PM (EST), 04/04/2025, LD 004\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Jyotirmoy Sarkar\nDr. Hanxiang Peng\nDr. Fang Li\n\n\nWelcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!"
   },
   {
     "objectID": "teaching.html",
@@ -350,18 +294,88 @@
     "text": "Statistical Inference\n\n\n\n\n\nSpring 2022\nThis is a course on statistical inference i.e., the method of drawing conclusions from noisy data. Statistical concepts and methods developed in a mathematical framework, including decision theory, point estimation, confidence intervals and hypothesis testing. We will cover exponential families, UMVUE, MLE, Neyman-Pearson theory, UMP tests, likelihood ratio tests, Bayesian analysis as well as asymptotic theory."
   },
   {
-    "objectID": "posts/2025-04-yishan-cui-defense/index.html#defense",
-    "href": "posts/2025-04-yishan-cui-defense/index.html#defense",
-    "title": "Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models",
-    "section": "Defense",
-    "text": "Defense\n\nFriday 11:00-1:00PM (EST), 04/04/2025, LD 004\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Jyotirmoy Sarkar\nDr. Hanxiang Peng\nDr. Fang Li\n\n\nWelcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!"
+    "objectID": "langclub.html",
+    "href": "langclub.html",
+    "title": "Lang’s Journal Club",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
   },
   {
-    "objectID": "posts/2024-11-ran-mo-defense/index.html#defense",
-    "href": "posts/2024-11-ran-mo-defense/index.html#defense",
-    "title": "Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data",
-    "section": "Defense",
-    "text": "Defense\n\nFriday 12:00-2:00PM (EST), 11/01/2024, SL 137\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Fang Li\nDr. Fei Tan\nDr. Hanxiang Peng\n\n\nWelcome to join us to learn more about Ran’s thesis work at IU Indianapolis!"
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminar2025spring.html",
+    "href": "seminar2025spring.html",
+    "title": "Statistics Seminars: Spring 2025",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nYuxing Dong\n\n\nOptimally splitting cases for training and testing high dimensional classifiers\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nJan 21, 2025\n\n\nTing Fung Ma\n\n\nHierarchical dependence modeling for the analysis of large insurance claims data\n\n\nAssistant professor of Statistics at the University of South Carolina\n\n\n\n\n\n\nJan 28, 2025\n\n\nTae-Hwi Schwantes-An\n\n\nCancelled\n\n\nAssistant Professor of Medical & Molecular Genetics, IU School of Medicine\n\n\n\n\n\n\nFeb 4, 2025\n\n\nEnoch Su\n\n\nThe A-optimal subsampling approach to the analysis of count data of massive size\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 11, 2025\n\n\nShanghong Xie\n\n\nIdentifying temporal pathways using biomarkers in the presence of latent non-Gaussian components\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nFeb 18, 2025\n\n\nXuchen Fang\n\n\nLasso and some of its varieties\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nFeb 25, 2025\n\n\nYishan Cui\n\n\nPenalized variable selection with U-estimates\n\n\nPhD student at IU Indianapolis\n\n\n\n\n\n\nMar 4, 2025\n\n\nJing Liu\n\n\nDeciphering gene expression in single cells with single molecule imaging and math-modeling\n\n\nAssociate Professor of Physics and Astronomy, Purdue University\n\n\n\n\n\n\nMar 11, 2025\n\n\nErjia Cui\n\n\nFunctional Fixed and Random Effects Inference with Applications to Accelerometry Data\n\n\nAssistant Professor in the Division of Biostatistics and Health Data Science at the University of Minnesota\n\n\n\n\n\n\nMar 18, 2025\n\n\nSpring Break\n\n\n \n\n\n \n\n\n\n\n\n\nMar 25, 2025\n\n\nYizhou (Jake) Cai\n\n\nMaximum Ideal Likelihood Estimator: A Unified Estimation and Inference Framework for Latent Variable Models\n\n\nPhD Candidate, University of South Carolina\n\n\n\n\n\n\nApr 1, 2025\n\n\nJingwen Yan\n\n\nCancelled\n\n\nAssociate Professor, Bioinformatics, IU Indianapolis\n\n\n\n\n\n\nApr 8, 2025\n\n\nShizhe Chen\n\n\nInstrumental variable analysis with multivariate point process treatments\n\n\nAssistant professor in the Department of Statistics at UC Davis\n\n\n\n\n\n\nApr 15, 2025\n\n\nYuexuan Wu\n\n\nSpatiotemporal Shape Analysis of Longitudinal Brain Imaging Data\n\n\nAssistant Professor in the Department of Statistics at the University of South Carolina\n\n\n\n\n\n\nApr 22, 2025\n\n\nZhaoxia Yu\n\n\nAdvancing Statistical Rigor in Research: The Power of Awareness, Action, and Advocacy\n\n\nProfessor in the Department of Statistics at the University of California, Irvine\n\n\n\n\n\n\nApr 29, 2025\n\n\nArcher Y. Yang\n\n\nMultivariate Conformal Selection\n\n\nAssociate Professor of Statistics, Department of Mathematics and Statistics, McGill University\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Honglang Wang, PhD",
+    "section": "",
+    "text": "IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n      arXiv\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Wordpress\n  \n  \n      Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis.\nEducation\n\nPhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.\nDual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.\nMS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.\nBS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.\n\nSee my Curriculum Vitae for more information.\nResearch Interests\n\nStatistical Analysis for Longitudinal and Functional Data\nHigh Dimensional Statistical Inference and its Applications\nCausal Inference\nMachine Learning/Deep Learning\nNonparametric Statistics\nEmpirical Likelihood Methods and its Applications\nStatistical Genetics and Statistical Genomics"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Honglang Wang, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\nWe will have journal club in spring 2025 focusing on large language…\n\n\n\nHonglang Wang\n\n\nJan 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\nNice course projects for statistical computing and applied linear…\n\n\n\nHonglang Wang\n\n\nDec 18, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Honglang Wang\nOffice: LD 270B, 402 N.Blackford St.\nDepartment of Mathematical Sciences\nIndiana University Indianapolis\nIndianapolis, IN 46202\nE-mail: hlwang at iu dot edu"
+  },
+  {
+    "objectID": "seminar2025fall.html",
+    "href": "seminar2025fall.html",
+    "title": "Statistics Seminars: Fall 2025",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
+  },
+  {
+    "objectID": "seminar2025fall.html#previous-seminars",
+    "href": "seminar2025fall.html#previous-seminars",
+    "title": "Statistics Seminars: Fall 2025",
+    "section": "Previous Seminars",
+    "text": "Previous Seminars\nSpring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+  },
+  {
+    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
+    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
+    "title": "Lang’s Journal Club: Large Language Models",
+    "section": "Journal Club on LLM, Spring 2025",
+    "text": "Journal Club on LLM, Spring 2025\nTuesdays 9:30-11:00am (EST): 1/13/2025 — 5/4/2025 Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\nWelcome to join us to learn more about LLM at IU Indianapolis!"
+  },
+  {
+    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
+    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
+    "title": "Lang’s Journal Club: Large Language Models",
+    "section": "Journal Club Website",
+    "text": "Journal Club Website"
+  },
+  {
+    "objectID": "posts/2024-12-course-projects-samples/index.html",
+    "href": "posts/2024-12-course-projects-samples/index.html",
+    "title": "STAT 512/521 Course Projects Samples",
+    "section": "",
+    "text": "IU Indianapolis\nI had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses."
+  },
+  {
+    "objectID": "posts/2024-12-course-projects-samples/index.html#presentations",
+    "href": "posts/2024-12-course-projects-samples/index.html#presentations",
+    "title": "STAT 512/521 Course Projects Samples",
+    "section": "Presentations",
+    "text": "Presentations\n\nSTAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data\nSTAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods"
   },
   {
     "objectID": "publications.html",
@@ -550,14 +564,14 @@
     "href": "people.html",
     "title": "Lang’s Lab",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\nNo matching items"
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#team",
     "href": "people.html#team",
     "title": "Lang’s Lab",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\nNo matching items"
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
