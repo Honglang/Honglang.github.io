@@ -25,6 +25,7 @@ title-block-banner: false
 - Caleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).
 - Spencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).
 - Xavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).
+- Makagyn Grimm: [Data Science and Cell-Type Resolved Analysis of Axolotl Brain Regeneration using Spatial Transcriptomics](https://iu.mediaspace.kaltura.com/media/t/1_7dkqf1lt)​ (Fall 2025)
 
 ### Graudate:
 
