@@ -52,3 +52,46 @@
 #      date: "2024-03-12"
 #      categories: []
 
+    - path: https://www.linkedin.com/in/anish-nair-255087220/
+      image: /files/images/anish_nair.jpg
+      title: "Anish NAIR"
+      lastname: "ENair"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/faizan-waheed-/
+      image: /files/images/faizan_waheed.jpg
+      title: "Faizan WAHEED"
+      lastname: "EWaheed"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/hanzlajavaid/
+      image: /files/images/hanzla_javaid.jpg
+      title: "Hanzla JAVAID"
+      lastname: "EJavaid"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/yashtakte/
+      image: /files/images/yash_takte.jpg
+      title: "Yash TAKTE"
+      lastname: "ETakte"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []

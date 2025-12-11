@@ -1922,14 +1922,14 @@
     "href": "people.html",
     "title": "Lang’s Lab",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#team",
     "href": "people.html#team",
     "title": "Lang’s Lab",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
@@ -2217,5 +2217,19 @@
     "title": "When Geometry Meets Causality: The Statistics Behind Cosmic Web Analysis",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 12/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: When Geometry Meets Causality: The Statistics Behind Cosmic Web Analysis\nAbstract: On megaparsec scales, matter in our Universe is not uniformly distributed but rather forms a complex large-scale network structure known as the cosmic web. Detecting this structure from observational data is challenging due to its geometric intricacy and the spherical domain of the sky. In this talk, we introduce a novel statistical framework for detecting the cosmic web from galaxy samples in the Sloan Digital Sky Survey and for analyzing its causal effects on nearby galaxies.\nTo accommodate spherical geometry, we model the cosmic web through directional density ridge and establish statistical consistency guarantee for its estimation via kernel smoothing. Computationally, we develop a geometry-aware algorithm with provable efficiency. Practically, we release an open cosmic web catalog constructed by our method.\nWhile most existing studies examine the influence of the cosmic web through correlation-based analyses, we advance both theory and methodology for causal inference with continuous treatments, enabling causal investigation. Under positivity and other regularity conditions, we propose a doubly robust (DR) estimator for the derivative of the dose-response curve, interpreted as the average treatment effect for continuous treatments. When the positivity condition is violated, we demonstrate the inconsistency of conventional inverse probability weighting (IPW) and DR estimators, and introduce new bias-corrected IPW and DR estimators. To quantify heterogeneous treatment effect without assuming positivity, we further propose a new intervention curve that naturally adapts to the treatment population. Interestingly, both the bias-corrected estimators and the new causal estimand reveal connections to geometric problems in Statistics, including nonparametric support and level-set estimation.\nBio: Yikun Zhang is a PhD candidate in the Department of Statistics at the University of Washington (UW) advised by Prof. Yen-Chi Chen. His current theoretical research interests lie in nonparametric statistics, optimization on manifolds, and causal inference for continuous treatments. On the applied side, he is broadly interested in tackling challenging problems in astronomy, particularly those related to detecting and analyzing the large-scale structure of the Universe (i.e., the cosmic web) through statistically principled approaches.\nWelcome to join us to learn more about Yikun’s research work via Zoom!"
+  },
+  {
+    "objectID": "seminar2026spring.html",
+    "href": "seminar2026spring.html",
+    "title": "Statistics Seminars: Spring 2026",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
+  },
+  {
+    "objectID": "seminar2026spring.html#previous-seminars",
+    "href": "seminar2026spring.html#previous-seminars",
+    "title": "Statistics Seminars: Spring 2026",
+    "section": "Previous Seminars",
+    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
   }
 ]

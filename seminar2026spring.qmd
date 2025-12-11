@@ -1,5 +1,5 @@
 ---
-title: "Statistics Seminars: Fall 2025"
+title: "Statistics Seminars: Spring 2026"
 subtitle: "Department of Mathematical Sciences, IU Indianapolis"
 page-layout: full
 #author: Organizer - Honglang Wang
@@ -8,7 +8,7 @@ page-layout: full
 #image: "featured.jpeg"
 #css: /custom.css
 listing: 
-- id: seminar2025fall
+- id: seminar2026spring
   sort: "started desc"
   type: table
   fields: [date, author, title, description]
@@ -26,7 +26,7 @@ listing:
   contents: 
 #    - projects/ 
 #    - seminar2025spring.yml 
-    - seminar2025fall.yml
+    - seminar2026spring.yml
     
 ---
 
@@ -37,11 +37,12 @@ listing:
 **Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
 
 
-:::{#seminar2025fall}
+:::{#seminar2026spring}
 :::
 
 ## Previous Seminars
 
+[Fall 2025](/seminar2025fall.qmd)
 [Spring 2025](/seminar2025spring.qmd)
 [Fall 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024fall.html)
 [Spring 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024spring.html)
