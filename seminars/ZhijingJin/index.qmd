@@ -1,0 +1,39 @@
+---
+title: "Can LLMs Achieve Causal Reasoning and Cooperation?"
+description: "**Zhijing Jin: Assistant Professor @ University of Toronto**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](Zhijing_Talk.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 1/13/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Can LLMs Achieve Causal Reasoning and Cooperation?**
+
+**Abstract**: Causal reasoning is a cornerstone of human intelligence and a critical capability for artificial systems aiming to achieve advanced understanding and decision-making. While large language models (LLMs) excel on many tasks, a key question remains: How can these models reason better about causality? Causal questions that humans can pose span a wide range of fields, from Newton’s fundamental question, “Why do apples fall?” which LLMs can now retrieve from standard textbook knowledge, to complex inquiries such as, “What are the causal effects of minimum wage introduction?”—a topic recognized with the 2021 Nobel Prize in Economics. My research focuses on automating causal reasoning across all types of questions. To achieve this, I explore the causal reasoning capabilities that have emerged in state-of-the-art LLMs, and enhance their ability to perform causal inference by guiding them through structured, formal steps. Further, I also introduce how causality of individual behavior can link to group outcomes, and cover findings in our multi-agent simulacra work about whether LLMs learn to cooperate. Finally, I will outline a future research agenda for building the next generation of LLMs capable of scientific-level causal reasoning.
+
+
+**Bio**: [Zhijing Jin](https://zhijing-jin.com/home/) (she/her) is an Assistant Professor at the University of Toronto and Research Scientist at the Max Planck Institute. She serves as a CIFAR AI Chair, an ELLIS advisor, and a faculty member at the Vector Institute, and the Schwartz Reisman Institute. She co-chairs the ACL Ethics Committee, and the ACL Year-Round Mentorship. Her research focuses on Causal Reasoning with LLMs, and AI Safety in Multi-Agent LLMs. She has published over 80 papers and has received the ELLIS PhD Award, three Rising Star awards, and two Best Paper awards at NeurIPS 2024 Workshops.
+
+Welcome to join us to learn more about Dr. Jin's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
