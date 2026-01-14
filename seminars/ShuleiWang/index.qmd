@@ -1,0 +1,39 @@
+---
+title: "Data Augmentation in Self-Supervised Learning: Principles and Theory"
+description: "**Shulei Wang: Assistant Professor @ University of Illinois at Urbana-Champaign**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](shuleiwang.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 1/20/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Data Augmentation in Self-Supervised Learning: Principles and Theory**
+
+**Abstract**: Data augmentation plays a central role in recent advances in self-supervised representation learning, producing representations that substantially improve downstream performance and achieve state-of-the-art results in computer vision. Despite its empirical success, the role of data augmentation and the principles behind its effectiveness remain poorly understood. This talk presents new theoretical results that explain why and how data augmentation works. A statistical framework is developed on a low-dimensional product manifold to model augmentation transformations, leading to a new method, augmentation-invariant manifold learning, together with a computationally efficient stochastic optimization algorithm. The theory shows that data augmentation provides information beyond the observed samples and fundamentally reshapes representation geometry. Building on this insight, we characterize how representations learned from augmented data improve the performance of popular downstream classifiers, including k-nearest neighbors and linear classifiers, explaining why self-supervised learning can succeed with minimal supervision.
+
+
+**Bio**: Dr. [Shulei Wang](https://sites.google.com/view/shulei-wang/) is an Assistant Professor in the Department of Statistics at the University of Illinois at Urbana-Champaign. He is also a part of the NSF Science and Technology Center for Quantitative Cell Biology, the Personalized Nutrition Initiative, and the Microbial Systems Initiative at UIUC. Previously, he was a postdoc researcher at the University of Pennsylvania. Dr. Wang received his Ph.D. in Statistics from the University of Wisconsin-Madison and my B.S. in Mathematics from Zhejiang University. Dr. Wang's lab aims to bridge the theoretical and empirical boundary of modern statistics and machine learning methods (with a recent focus on self-supervised learning) and advance the practice of statistics in biomedical applications (multi-omics and imaging data). 
+
+Welcome to join us to learn more about Dr. Wang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
