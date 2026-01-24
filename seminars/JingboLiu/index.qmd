@@ -1,0 +1,40 @@
+---
+title: "Sampling from the Random Linear Model via Stochastic Localization Up to the AMP Threshold"
+description: "**Jingbo Liu: Assistant Professor @ University of Illinois at Urbana-Champaign**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](jingbo.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 1/27/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Sampling from the Random Linear Model via Stochastic Localization Up to the AMP Threshold**
+
+**Abstract**: ecently, Approximate Message Passing (AMP) has been integrated with stochastic localization (diffusion model) by providing a computationally efficient estimator of the posterior mean. Existing (rigorous) analysis typically proves the success of sampling for sufficiently small noise, but determining the exact threshold involves several challenges. In this work, we focus on sampling from the posterior in the linear inverse problem, with an i.i.d. random design matrix, and show that the threshold for sampling coincides with that of posterior mean estimation. We give a proof for the convergence in smoothed KL divergence whenever the noise variance is below the computation threshold for mean estimation introduced by (Barbier et al., 2020). We also show convergence in the Wasserstein distance under the same threshold assuming a dimension-free bound on the operator norm of the posterior covariance matrix, a condition strongly suggested by recent breakthroughs on operator norm bounds in similar replica symmetric systems. A key step in our analysis is to show that phase transition does not occur along the sampling and interpolation paths when the noise variance is below the computation threshold for mean estimation. We also discuss a new method for rigorously proving the consistency of an emerging Thouless-Anderson-Palmer (TAP) approach for mean estimation, which is believed to offer a more robust estimation than the AMP approach. (with Han Cui and Zhiyuan Yu; arXiv:2407.10763 and arXiv:2506.20768)
+
+
+
+**Bio**: Dr. [Jingbo Liu](https://jingbol.web.illinois.edu/) received the B.S. degree in Electrical Engineering from Tsinghua University, Beijing, China in 2012, and the M.A. and Ph.D. degrees in Electrical Engineering from Princeton University, Princeton, NJ, USA, in 2014 and 2017. He was a Norbert Wiener Postdoctoral Research Fellow at the MIT Institute for Data, Systems, and Society (IDSS) during 2018-2020. Since 2020, he has been an assistant professor in the Department of Statistics and an affiliate in the Department of Electrical and Computer Engineering at the University of Illinois, Urbana-Champaign, IL, USA. His research interests include information theory, high dimensional statistics and probability, and machine learning.  
+
+Welcome to join us to learn more about Dr. Liu's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
