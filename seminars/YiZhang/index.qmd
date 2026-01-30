@@ -1,0 +1,40 @@
+---
+title: "Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension"
+description: "**Yi Zhang: Assistant Professor @ Duke University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](yizhang.png)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 2/3/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension**
+
+**Abstract**: Cellular heterogeneity in tissue and tumor microenvironment plays an important role in determining disease progression and therapeutic response. First, we will address the challenge of identifying cell states with high-granularity to understand tumor microenvironment, by learning data-driven cell states integrated from million single cells rather than analyzing individual datasets. We developed a data driven framework, MetaTiME, to overcome the limitations in resolution and consistency that result from manual labelling using known gene markers. Using millions of TME single cells, MetaTiME learns meta-components that encode independent components of gene expression observed across cancer types. The meta-components are biologically interpretable as cell types, cell states, and signaling activities. By projecting onto the MetaTiME space, we provide a tool to annotate cell states and signature continuums for TME scRNA-seq data. Second, we will address the challenge of high-dimensional and sparse data in advanced spatial transcriptomics technologies. We present STHD for probabilistic cell typing of sub-cellular spots for spatial transcriptomics data that profiles whole transcriptome with high definition. With a machine learning model combining count statistics with neighbor regularization, STHD accurately predicts cell type identities of subcellular spots, revealing both global tissue architecture and local multicellular neighborhoods. We demonstrate STHD in ultra-resolution spatial analyses of cell type-specific gene expression and immune interaction hubs in tumor microenvironment, and its generalizability across samples, tissues, and diseases, with million-datapoints scalability. 
+
+
+
+**Bio**: Dr. [Yi Zhang](https://yi-zhang-compbio-lab.github.io/) is an Assistant Professor at Duke University and computational biologist. She obtained PhD in Bioengineering in 2019 at University of Illinois at Urbana-Champaign. She then received postdoctoral training at Dana-Farber Cancer Institute and Harvard University with Dr. Shirley Liu and worked with Drs. Xihong Lin and Myles Brown. She joined Duke in 2024 as faculty in Departments of Neurosurgery and Biostatistics and Bioinformatics, with affiliation in Biomedical Engineering and Cell Biology, Duke Cancer Institute, and Preston Robert Tisch Brain Tumor Center of Duke University School of Medicine. She has led multiple computational methodology development work published at Nature Communications, Genome Biology, Bioinformatics, Cancer Research, etc. Her lab at Duke focuses on developing machine learning and AI methods for data spanning multi-omics, single-cell omics, high-resolution spatial genomics, digital pathology, functional genomics, and applying the methods to understand disease-related cellular mechanisms in tissue and tumor microenvironment. 
+
+Welcome to join us to learn more about Dr. Liu's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
