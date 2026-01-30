@@ -8,7 +8,22 @@
     "items": []
   },
   {
-    "listing": "/seminar2025fall.html",
+    "listing": "/seminar2026spring.html",
+    "items": []
+  },
+  {
+    "listing": "/langclub.html",
+    "items": []
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/new-york-state-climate-policy.html",
+      "/quarto-academic-site-examples.html"
+    ]
+  },
+  {
+    "listing": "/seminar2025spring.html",
     "items": []
   },
   {
@@ -21,22 +36,7 @@
     ]
   },
   {
-    "listing": "/seminar2025spring.html",
-    "items": []
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/new-york-state-climate-policy.html",
-      "/quarto-academic-site-examples.html"
-    ]
-  },
-  {
-    "listing": "/langclub.html",
-    "items": []
-  },
-  {
-    "listing": "/seminar2026spring.html",
+    "listing": "/seminar2025fall.html",
     "items": []
   },
   {
