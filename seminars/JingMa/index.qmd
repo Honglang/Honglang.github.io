@@ -1,0 +1,38 @@
+---
+title: "Causality and Large Foundation Models"
+description: "**Jing Ma: Assistant Professor @ Case Western Reserve University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](jm.jpeg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 2/17/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Causality and Large Foundation Models**
+
+**Abstract**: Causality is fundamental to human-like intelligence, enabling reliable reasoning, generalization under distribution shift, and principled decision-making beyond mere correlation. While traditional causal inference methods have achieved strong theoretical foundations, they often rely on limited data modalities, structured assumptions, and relatively small-scale settings. The emergence of large foundation models, spanning language and multimodal domains, introduces unprecedented opportunities for causal inference. These models encode rich world knowledge and capture complex dependencies across large heterogeneous data. However, these advances also come with significant challenges, especially those posed by large, high-dimensional, and multimodal data. In this talk, we connect causality and foundation models, examining both the opportunities and challenges in this emerging paradigm. We discuss how causal principles can be integrated into foundation models to improve reliable reasoning, and conversely, how foundation models can serve as powerful tools for causal reasoning. Finally, we outline key research directions toward unifying causal inference and large-scale AI systems.
+
+**Bio**: [Jing Ma](https://jma712.github.io/) is an Assistant Professor in the Department of Data and Computer Sciences at Case Western Reserve University. She received her PhD degree from University of Virginia with an Outstanding Ph.D. Student Award in 2023. Before that, she got her B.Eng. degree and M.Eng. degree at Shanghai Jiao Tong University. Her research interests broadly cover machine learning and data mining, especially include causal and trustworthy AI, and AI for important applications such as health and science. Her research papers have been published in top conferences and journals such as ICML, NeurIPS, KDD, ACL, NAACL, IJCAI, WWW, AAAI, TKDE, WSDM, SIGIR, etc. She has won awards including AAAI New Faculty Highlights (2024), SIGKDD Best Paper Award (2022), and CAPWIC Best Poster Award (2022).
+ 
+Welcome to join us to learn more about Dr. Ma's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
