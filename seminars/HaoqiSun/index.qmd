@@ -1,0 +1,38 @@
+---
+title: "Sleep as a Window into Health using Artificial Intelligence"
+description: "**Haoqi Sun: Assistant Professor @ Beth Israel Deaconess Medical Center, Harvard Medical School**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](haoqisun.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 2/24/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Sleep as a Window into Health using Artificial Intelligence**
+
+**Abstract**: We will introduce AI applications in healthcare, with sleep medicine as an example with big data readily available. We will discuss the opportunities and difficulties of AI in sleep medicine. I hope that this presentation can bring potential collaborations using novel AI methods to address important questions in sleep disorders, brain health such as neurodegenerative diseases, and health in general.
+
+**Bio**: Dr. [Haoqi Sun](https://hockey86.github.io/) is an Assistant Professor of Neurology at the Department of Neurology at Beth Israel Deaconess Medical Center (BIDMC) in Boston. He is trained in bioinformatics, AI, and sleep medicine. He was awarded the Sleep Research Society Outstanding Early Investigator Award in 2020. His research interests include understanding the role of sleep in brain health using AI methods.
+ 
+Welcome to join us to learn more about Dr. Sun's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
