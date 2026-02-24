@@ -1,0 +1,39 @@
+---
+title: "Distributional Balancing for Causal Inference: A Unified Framework via Characteristic Function Distance"
+description: "**Chan Park: Assistant Professor @ University of Illinois Urbana-Champaign**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](chanpark.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 3/3/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Distributional Balancing for Causal Inference: A Unified Framework via Characteristic Function Distance**
+
+**Abstract**: Weighting methods are essential tools for estimating causal effects in observational studies, with the goal of balancing pre-treatment covariates across treatment groups. Traditional approaches pursue this objective indirectly, for example, via inverse propensity score weighting or by matching a finite number of covariate moments, and therefore do not guarantee balance of the full joint covariate distributions. Recently, distributional balancing methods have emerged as robust, nonparametric alternatives that directly target alignment of entire covariate distributions, but they lack a unified framework, formal theoretical guarantees, and valid inferential procedures. We introduce a unified framework for nonparametric distributional balancing based on the characteristic function distance (CFD) and show that widely used discrepancy measures, including the maximum mean discrepancy and energy distance, arise as special cases. Our theoretical analysis establishes conditions under which the resulting CFD-based weighting estimator achieves root-N consistency. Since the standard bootstrap may fail for this estimator, we propose subsampling as a valid alternative for inference. We further extend our approach to an instrumental variable setting to address potential unmeasured confounding. Finally, we evaluate the performance of our method through simulation studies and a real-world application, where the proposed estimator performs well and exhibits results consistent with our theoretical predictions.
+The paper is available at https://arxiv.org/abs/2601.15449
+
+**Bio**: Dr. [Chan Park](https://www.chanpark.net/) is an assistant professor at the University of Illinois Urbana-Champaign. His research focuses on causal inference in complex settings, including dependence among units and omitted variables. He specializes in applying nonparametric methods and semiparametric theory to address these challenges.
+ 
+Welcome to join us to learn more about Dr. Park's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
