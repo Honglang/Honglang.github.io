@@ -1,0 +1,38 @@
+---
+title: "Measurement Error Correction for Spatially Defined Environmental Exposures in Survival Analysis"
+description: "**Lin Ge: Assistant Professor @ Indiana University Bloomington**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](linge.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 3/24/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Measurement Error Correction for Spatially Defined Environmental Exposures in Survival Analysis**
+
+**Abstract**: Environmental exposures are often defined using buffer zones around geocoded home addresses, but these static boundaries can miss dynamic daily activity patterns, leading to biased results. This paper presents a novel measurement error correction method for spatially defined environmental exposures within a survival analysis framework using the Cox proportional hazards model. The method corrects surrogate exposures from geocoded residential data at multiple buffer radii by applying principal component analysis for dimension reduction and leveraging external GPS-tracked validation datasets containing true exposure measurements. The asymptotic properties and variances of the proposed estimators are derived. Extensive simulations are conducted to evaluate the performance of the proposed method, demonstrating its ability to improve accuracy in estimated exposure effects. An illustrative application assesses the impact of greenness exposure on depression incidence in the Nurses' Health Study (NHS). The results demonstrate that correcting for measurement error significantly enhances the accuracy of exposure estimates. This method offers a critical advancement for accurately assessing the health impacts of environmental exposures, outperforming traditional static buffer approaches.
+
+**Bio**: Dr. [Lin Ge](https://lge-biostat.github.io/) is an Assistant Professor in the Department of Epidemiology and Biostatistics at the School of Public Health, Indiana University Bloomington. Dr. Ge received a Ph.D. from Emory University in 2023 and completed two years of postdoctoral training at the Harvard T.H. Chan School of Public Health. Dr. Ge’s research focuses on addressing misclassification and measurement error in disease surveillance, cancer epidemiology, and environmental health. He aims to leverage electronic health records (EHR) and innovative study and sampling designs to advance epidemiologic methods and improve the accuracy of population health research.
+ 
+Welcome to join us to learn more about Dr. Ge's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
