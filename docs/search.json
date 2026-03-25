@@ -2560,5 +2560,19 @@
     "title": "Unit 2: Next",
     "section": "Callout",
     "text": "Callout\n\n\n\n\n\n\nTip with Title\n\n\n\nThis is an example of a callout with a title."
+  },
+  {
+    "objectID": "seminars/JadeWang/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/JadeWang/index.html#statistics-seminars-spring-2026",
+    "title": "ELLA: Modelling Subcellular Spatial Variation of Gene Expression",
+    "section": "Statistics Seminars: Spring 2026",
+    "text": "Statistics Seminars: Spring 2026"
+  },
+  {
+    "objectID": "seminars/JadeWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/JadeWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "ELLA: Modelling Subcellular Spatial Variation of Gene Expression",
+    "section": "Department of Mathematical Sciences, IU Indianapolis",
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 3/31/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: ELLA: Modelling Subcellular Spatial Variation of Gene Expression\nAbstract: Spatial transcriptomic technologies are becoming increasingly high-resolution, enabling precise mapping of mRNA localization within cells. We introduce a computational framework that models subcellular gene expression using a unified cellular coordinate system and a nonhomogeneous Poisson process, capturing spatial variation while maintaining strong statistical control. Through simulations and analyses of four diverse spatial transcriptomic datasets, the method identifies genes with distinct localization patterns and links them to molecular features. Nuclear-enriched genes are often long noncoding RNAs or long protein-coding mRNAs, whereas transcripts encoding ribosomal or membrane-associated proteins localize to the cytoplasm or cell periphery. Dynamic localization is also observed across cell-cycle phases.\nBio: Dr. Jade (Xiaoqing) Wang is an assistant professor in statistics at Texas A&M University, her research interests include developing statistical and computational methods in high-dimensional imaging and spatial transcriptomics data, agentic AI, and 3D modeling.\nWelcome to join us to learn more about Dr. Wang’s research work via Zoom!"
   }
 ]
