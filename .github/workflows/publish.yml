@@ -27,6 +27,9 @@ jobs:
         with:
           cache-version: 1
 
+      - name: Install TinyTeX
+        run: quarto install tinytex --update-path
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
