@@ -15,11 +15,7 @@
     "items": []
   },
   {
-    "listing": "/seminar2025spring.html",
-    "items": []
-  },
-  {
-    "listing": "/media.html",
+    "listing": "/seminar2025fall.html",
     "items": []
   },
   {
@@ -32,7 +28,11 @@
     ]
   },
   {
-    "listing": "/seminar2025fall.html",
+    "listing": "/media.html",
+    "items": []
+  },
+  {
+    "listing": "/seminar2025spring.html",
     "items": []
   },
   {
