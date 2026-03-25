@@ -28,102 +28,165 @@
     "text": "Footnotes\n\n\nhttps://www.nysenate.gov/legislation/bills/2019/S6599↩︎\nhttps://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles↩︎\nhttps://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone↩︎\nhttps://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program↩︎"
   },
   {
-    "objectID": "quarto-academic-site-examples.html",
-    "href": "quarto-academic-site-examples.html",
-    "title": "Quarto Academic Site Examples and Tips",
+    "objectID": "statcomputing/units/unit2.html",
+    "href": "statcomputing/units/unit2.html",
+    "title": "Unit 2: Next",
     "section": "",
-    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+    "text": "[UNDER CONSTRUCTION]\nThis is an example of using an ipynb file as source rather than qmd. It follows instructions from https://github.com/DS-100/course-notes/README.md.\nLink to the data."
   },
   {
-    "objectID": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
-    "href": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
-    "title": "Quarto Academic Site Examples and Tips",
+    "objectID": "statcomputing/units/unit2.html#latex",
+    "href": "statcomputing/units/unit2.html#latex",
+    "title": "Unit 2: Next",
+    "section": "\\(\\LaTeX\\)",
+    "text": "\\(\\LaTeX\\)\nHere is some \\(\\LaTeX\\). \\[\n\\theta = 7\n\\]"
+  },
+  {
+    "objectID": "statcomputing/units/unit2.html#evaluated-python-code",
+    "href": "statcomputing/units/unit2.html#evaluated-python-code",
+    "title": "Unit 2: Next",
+    "section": "Evaluated Python code",
+    "text": "Evaluated Python code\nNote that to get code output shown, the underlying notebook must have executed the code.\n\n\nCode\na=7\nprint(a)\n\n\n7"
+  },
+  {
+    "objectID": "statcomputing/units/unit2.html#callout",
+    "href": "statcomputing/units/unit2.html#callout",
+    "title": "Unit 2: Next",
+    "section": "Callout",
+    "text": "Callout\n\n\n\n\n\n\nTipTip with Title\n\n\n\nThis is an example of a callout with a title."
+  },
+  {
+    "objectID": "statcomputing/units/macros.html",
+    "href": "statcomputing/units/macros.html",
+    "title": "Dr. Honglang Wang",
     "section": "",
-    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+    "text": "\\[\n\\newcommand{\\trans}{^\\mathsf{T}}\n\\newcommand{\\eps}{\\epsilon}\n\\]"
   },
   {
-    "objectID": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
-    "href": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
-    "title": "Quarto Academic Site Examples and Tips",
-    "section": "Templates I adapt you may find useful",
-    "text": "Templates I adapt you may find useful\n\n\n\nType\nWeb\nGitHub\n\n\n\n\nPersonal\nhttps://drganghe.github.io/\nhttps://github.com/drganghe/drganghe.github.io\n\n\nLab/Group\nhttps://deeppolicylab.github.io/\nhttps://github.com/deeppolicylab/deeppolicylab.github.io\n\n\nClass\nhttps://drganghe.github.io/energy-climate-policy/\nhttps://github.com/drganghe/energy-climate-policy\n\n\nEvents\nhttps://drganghe.github.io/climate-guest-speakers/\nhttps://github.com/drganghe/climate-guest-speakers\n\n\nSlides\nhttps://drganghe.github.io/files/slides/solar-supply-chains-slides.html\nhttps://quarto.org/docs/presentations/revealjs/\n\n\nPoster\nhttps://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png\nhttps://github.com/brentthorne/posterdown"
-  },
-  {
-    "objectID": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
-    "href": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
-    "title": "Quarto Academic Site Examples and Tips",
-    "section": "Useful tips for building an academic Quarto site",
-    "text": "Useful tips for building an academic Quarto site\n\nUsing “Includes” for reusable content\nTo streamline updates across your site, use Quarto’s includes feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.\n{{include _statement.qmd}}\nPrefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.\nHere is an example course description, and reuse it in mainpage and syllabus.\n\n\nAcademic badges\nDisplay academic badges like the Dimension Citation badge and Altmetric badge.\n\nHere’s an example for embedding them:\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace the doi with your own.\nMake sure to include below scripts in the same page to enable the badges:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can also showcase your highly cited and hot papers using custom badges.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\nHere is an example, and the source code.\n\n\nSocial sharing\nFor easy setup of social sharing buttons, AddToAny is a simple solution.\nUsing includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.\nHere is an example.\n\n\nThe art of listing\nListings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.\nType: default, grid, table\nOptions: grid-columns, image-height, grid-item-align\nDisplay: fields and field-display-names\nBy mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.\nHere is an example, and source code; another example, and source code.\n\n\nListing external items\nIf you need to list external resources with key metadata, you can use this format to create clear, linked listings.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nIf you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.\nHere is an example, and source code."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "statcomputing/calendar.html",
+    "href": "statcomputing/calendar.html",
+    "title": "Calendar",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nYishan Cui successfully defended his thesis.\n\n\n\n\n\nApr 4, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nWe will have journal club in spring 2025 focusing on large language models.\n\n\n\n\n\nJan 7, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\n\nnews\n\n\n\nNice course projects for statistical computing and applied linear regression.\n\n\n\n\n\nDec 18, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nRan Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nRan Mo successfully defended his thesis.\n\n\n\n\n\nNov 1, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation at The Conference on Statistical Learning and Data Science 2024\n\n\n\nnews\n\n\n\nHonglang Wang will present the work on Dominant-Set Based Clustering For Functional Data\n\n\n\n\n\nOct 25, 2024\n\n\nASA\n\n\n\n\n\nNo matching items"
+    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Lang’s Lab",
+    "objectID": "statcomputing/calendar.html#course-calendar",
+    "href": "statcomputing/calendar.html#course-calendar",
+    "title": "Calendar",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
+    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "Lang’s Lab",
+    "objectID": "statcomputing/calendar.html#instructions",
+    "href": "statcomputing/calendar.html#instructions",
+    "title": "Calendar",
+    "section": "Instructions",
+    "text": "Instructions\nWe suggest that you delete these instructions before publishing your website.\n\nCreate the Calendars:\n\nGo to Google Calendar.\nOn the left sidebar, click the + sign next to “Other calendars” and select “Create new calendar”.\nCreate your calendars and name them appropriately.\n\nObtain the Embed Code for Each Calendar:\n\nFor each calendar, go to its settings by clicking on the three dots next to the calendar name and selecting “Settings and sharing”.\nIn the calendar settings, scroll down to “Integrate calendar” and copy the embed code provided under “Embed code”.\n\nCombine the Embed Codes:\n\nInstead of copying the entire embed code, you need the calendar’s ID, which is part of the embed URL. It will look something like calendarID@group.calendar.google.com.\nFor example, in the embed URL https://calendar.google.com/calendar/embed?src=calendarID@group.calendar.google.com, calendarID@group.calendar.google.com is the part you need.\n\nCreate a Single Embed Link:\n\nUse the base URL for embedding multiple calendars: https://calendar.google.com/calendar/embed?\nAppend each calendar ID to the base URL using the format &src=calendarID@group.calendar.google.com for each calendar you want to include.\nOptionally, you can customize the appearance by adding parameters (e.g., &color=%23F6BF26 for the color, &ctz=America%2FLos_Angeles for the time zone).\n\nFor example, if you have two calendars with IDs calendar1ID@group.calendar.google.com and calendar2ID@group.calendar.google.com, your combined embed link would look like this:\n\nhttps://calendar.google.com/calendar/embed?src=calendar1ID@group.calendar.google.com&src=calendar2ID@group.calendar.google.com\n\nSubstitute this URL into the src attribute of the calendar’s iframe at the top of this page."
+  },
+  {
+    "objectID": "statcomputing/syllabus.html",
+    "href": "statcomputing/syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
+    "text": "[UNDER CONSTRUCTION]\nJump to:"
   },
   {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "Lang’s Lab",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Started\n      \n      \n        Ended\n      \n      \n        Now\n      \n      \n        Was\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nNow\n\n\n\nWas\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nRuohong LI\n\n\nSenior Machine Learning Scientist at Microsoft.\n\n\nPhD Student in Biostatistics, IU School of Medicine. Thesis: ‘Treatment Effect Estimation and Theraputic Optimization Using Observational Data’.\n\n\nSep 2017\n\n\nMay 2021\n\n\n\n\n\n\n\n\n\nRan MO\n\n\nWorking at IU Indianapolis.\n\n\nPhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: ‘Robust Inference for Heterogeneous Treatment Effects with Applications to NHANES Data’. Research supported in part by NSF awards DMS-2212928.\n\n\nJan 2021\n\n\nDec 2024\n\n\n\n\n\n\n\n\n\nXiang WANG\n\n\nResearch Assistant at Shanxi University, China.\n\n\nPhD Student in Mathematics (Statistics), IUPUI. Thesis: ‘EFFICIENT INFERENCE AND DOMINANT-SET BASED CLUSTERING FOR FUNCTIONAL DATA’. Research supported in part by NSF awards DMS-2212928.\n\n\nFeb 2021\n\n\nMay 2024\n\n\n\n\n\n\n\n\n\nYishan CUI\n\n\nWorking at AI Startup Company in China.\n\n\nPhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: ‘Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models’. Research supported in part by NSF awards DMS-2212928.\n\n\nFeb 2021\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nXuchen FANG\n\n\nWorking back in China.\n\n\nMaster Student in Applied Statistics, IU Indianapolis. Research supported in part by NSF awards DMS-2212928.\n\n\nJan 2024\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nZhiyuan ZHU\n\n\nNow PhD student at TAMU.\n\n\nUndergraduate in Mathematics, Zhejiang University\n\n\nMay 2024\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nWenzhe JIAO\n\n\nAssistant Professor at TAMU.\n\n\nPhD student in Earth Science with minor in Applied Statistics, IUPUI.\n\n\nAug 2018\n\n\nMay 2022\n\n\n\n\n\n\n\n\n\nIsaac MANRING\n\n\nData Scientist at Allstate.\n\n\nMaster Student in Computational Data Science, IUPUI.\n\n\nAug 2022\n\n\nDec 2023\n\n\n\n\n\n\nNo matching items"
+    "objectID": "statcomputing/syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
+    "href": "statcomputing/syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
+    "title": "Syllabus",
+    "section": "About ?var:department ?var:number",
+    "text": "About ?var:department ?var:number\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum."
   },
   {
-    "objectID": "people.html#lab-group-pictures",
-    "href": "people.html#lab-group-pictures",
-    "title": "Lang’s Lab",
-    "section": "Lab Group Pictures",
-    "text": "Lab Group Pictures\n\n\n\n\n\n\nJune 5th, 2021\n\n\n\n\n\n\n\nMay 10th, 2023"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "spatial_transcriptomics.html",
+    "href": "spatial_transcriptomics.html",
+    "title": "Spatial Transcriptomics",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of December 2024:"
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
-  },
-  {
-    "objectID": "langclub.html",
-    "href": "langclub.html",
-    "title": "Lang’s Journal Club",
+    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "title": "Spatial Transcriptomics",
     "section": "",
-    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
   },
   {
-    "objectID": "seminars/YiZhang/index.html#statistics-seminars-spring-2026",
-    "href": "seminars/YiZhang/index.html#statistics-seminars-spring-2026",
-    "title": "Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension",
+    "objectID": "spatial_transcriptomics.html#packages",
+    "href": "spatial_transcriptomics.html#packages",
+    "title": "Spatial Transcriptomics",
+    "section": "Packages",
+    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
+    "href": "spatial_transcriptomics.html#youtube-tutorial",
+    "title": "Spatial Transcriptomics",
+    "section": "Youtube Tutorial",
+    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#data-base",
+    "href": "spatial_transcriptomics.html#data-base",
+    "title": "Spatial Transcriptomics",
+    "section": "Data Base",
+    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics\nChan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover): Discover the mechanisms of human health"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "letters.html",
+    "href": "letters.html",
+    "title": "Letters",
+    "section": "",
+    "text": "I’m happpy to provide recommendation letters if you were in my class or collaborated with me directly. If not, I may not know you well enough to write a stong letter.\nWhen requesting a letter, please send bullet points addressing the following:\n\nWhat (class) project did you work on?\nWhat contributions did you make to the project?\nWhat challenges did you face during the project?\nHow did you handle those challenges?\nWhy are you interested in the opportunity or position?\n\nPlease also include links to the position or opportunity and note the deadlines. Please reach out at least one month before the deadline. If you need letters for multiple applications, please send all submission links together if possible."
+  },
+  {
+    "objectID": "seminar2026spring.html",
+    "href": "seminar2026spring.html",
+    "title": "Statistics Seminars: Spring 2026",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
+  },
+  {
+    "objectID": "seminar2026spring.html#previous-seminars",
+    "href": "seminar2026spring.html#previous-seminars",
+    "title": "Statistics Seminars: Spring 2026",
+    "section": "Previous Seminars",
+    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nLEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging\n\n\nHonglang Wang\n\n\nNational Science Foundation\n\n\nThis project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics.\n\n\n$243,215\n\n\nJuly 2022\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\nSubcontract to NSF project: ‘Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato’\n\n\nHonglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell\n\n\nNational Science Foundation\n\n\nThis project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato.\n\n\n$14,812\n\n\n2016\n\n\n2017\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminars/LinGe/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/LinGe/index.html#statistics-seminars-spring-2026",
+    "title": "Measurement Error Correction for Spatially Defined Environmental Exposures in Survival Analysis",
     "section": "Statistics Seminars: Spring 2026",
     "text": "Statistics Seminars: Spring 2026"
   },
   {
-    "objectID": "seminars/YiZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "href": "seminars/YiZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "title": "Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension",
+    "objectID": "seminars/LinGe/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/LinGe/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Measurement Error Correction for Spatially Defined Environmental Exposures in Survival Analysis",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
-    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 2/3/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension\nAbstract: Cellular heterogeneity in tissue and tumor microenvironment plays an important role in determining disease progression and therapeutic response. First, we will address the challenge of identifying cell states with high-granularity to understand tumor microenvironment, by learning data-driven cell states integrated from million single cells rather than analyzing individual datasets. We developed a data driven framework, MetaTiME, to overcome the limitations in resolution and consistency that result from manual labelling using known gene markers. Using millions of TME single cells, MetaTiME learns meta-components that encode independent components of gene expression observed across cancer types. The meta-components are biologically interpretable as cell types, cell states, and signaling activities. By projecting onto the MetaTiME space, we provide a tool to annotate cell states and signature continuums for TME scRNA-seq data. Second, we will address the challenge of high-dimensional and sparse data in advanced spatial transcriptomics technologies. We present STHD for probabilistic cell typing of sub-cellular spots for spatial transcriptomics data that profiles whole transcriptome with high definition. With a machine learning model combining count statistics with neighbor regularization, STHD accurately predicts cell type identities of subcellular spots, revealing both global tissue architecture and local multicellular neighborhoods. We demonstrate STHD in ultra-resolution spatial analyses of cell type-specific gene expression and immune interaction hubs in tumor microenvironment, and its generalizability across samples, tissues, and diseases, with million-datapoints scalability.\nBio: Dr. Yi Zhang is an Assistant Professor at Duke University and computational biologist. She obtained PhD in Bioengineering in 2019 at University of Illinois at Urbana-Champaign. She then received postdoctoral training at Dana-Farber Cancer Institute and Harvard University with Dr. Shirley Liu and worked with Drs. Xihong Lin and Myles Brown. She joined Duke in 2024 as faculty in Departments of Neurosurgery and Biostatistics and Bioinformatics, with affiliation in Biomedical Engineering and Cell Biology, Duke Cancer Institute, and Preston Robert Tisch Brain Tumor Center of Duke University School of Medicine. She has led multiple computational methodology development work published at Nature Communications, Genome Biology, Bioinformatics, Cancer Research, etc. Her lab at Duke focuses on developing machine learning and AI methods for data spanning multi-omics, single-cell omics, high-resolution spatial genomics, digital pathology, functional genomics, and applying the methods to understand disease-related cellular mechanisms in tissue and tumor microenvironment. \nWelcome to join us to learn more about Dr. Liu’s research work via Zoom!"
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 3/24/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Measurement Error Correction for Spatially Defined Environmental Exposures in Survival Analysis\nAbstract: Environmental exposures are often defined using buffer zones around geocoded home addresses, but these static boundaries can miss dynamic daily activity patterns, leading to biased results. This paper presents a novel measurement error correction method for spatially defined environmental exposures within a survival analysis framework using the Cox proportional hazards model. The method corrects surrogate exposures from geocoded residential data at multiple buffer radii by applying principal component analysis for dimension reduction and leveraging external GPS-tracked validation datasets containing true exposure measurements. The asymptotic properties and variances of the proposed estimators are derived. Extensive simulations are conducted to evaluate the performance of the proposed method, demonstrating its ability to improve accuracy in estimated exposure effects. An illustrative application assesses the impact of greenness exposure on depression incidence in the Nurses’ Health Study (NHS). The results demonstrate that correcting for measurement error significantly enhances the accuracy of exposure estimates. This method offers a critical advancement for accurately assessing the health impacts of environmental exposures, outperforming traditional static buffer approaches.\nBio: Dr. Lin Ge is an Assistant Professor in the Department of Epidemiology and Biostatistics at the School of Public Health, Indiana University Bloomington. Dr. Ge received a Ph.D. from Emory University in 2023 and completed two years of postdoctoral training at the Harvard T.H. Chan School of Public Health. Dr. Ge’s research focuses on addressing misclassification and measurement error in disease surveillance, cancer epidemiology, and environmental health. He aims to leverage electronic health records (EHR) and innovative study and sampling designs to advance epidemiologic methods and improve the accuracy of population health research.\nWelcome to join us to learn more about Dr. Ge’s research work via Zoom!"
   },
   {
     "objectID": "seminars/YaqingChen/index.html#statistics-seminars-fall-2025",
@@ -644,80 +707,220 @@
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 09/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: A unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nAbstract: One major challenge in spatial transcriptomics is identifying spatially variable genes (SVGs), whose expression patterns are non-random across tissue locations. Many SVGs are correlated with cell-type composition, introducing the concept of cell-type-specific SVGs (ctSVGs). However, existing methods for SVG and ctSVG detection often involve methodological misuses, leading to inconsistent and unreliable results. In this talk, I will discuss common methodological issues that lead to inconsistent results in SVG detection and introduce a unified statistical model for both SVGs and ctSVGs detection under a linear mixed-effect model framework that integrates gene expression, spatial location, and cell type composition information. \nBio: Haohao Su is a fourth-year Ph.D. student in the Department of Statistics and Probability at Michigan State University. Before joining MSU, he completed his undergraduate studies in Statistics at Beijing Normal University and then earned his master’s degree in Statistics from the University of Wisconsin-Madison. Currently, he is working under the supervision of Dr. Yuehua Cui, focusing on developing statistical methodologies for genomics and genetics, with particular emphasis on modeling spatial variability of gene expression and cell-cell communications in spatial transcriptomics data analysis.\nWelcome to join us to learn more about Mr. Su’s research work via Zoom!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "seminars/YiZhang/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/YiZhang/index.html#statistics-seminars-spring-2026",
+    "title": "Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension",
+    "section": "Statistics Seminars: Spring 2026",
+    "text": "Statistics Seminars: Spring 2026"
+  },
+  {
+    "objectID": "seminars/YiZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/YiZhang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension",
+    "section": "Department of Mathematical Sciences, IU Indianapolis",
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 2/3/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Interpretable machine learning methods to understand tissue heterogeneity using single-cell and spatial genomics in high-definition and -dimension\nAbstract: Cellular heterogeneity in tissue and tumor microenvironment plays an important role in determining disease progression and therapeutic response. First, we will address the challenge of identifying cell states with high-granularity to understand tumor microenvironment, by learning data-driven cell states integrated from million single cells rather than analyzing individual datasets. We developed a data driven framework, MetaTiME, to overcome the limitations in resolution and consistency that result from manual labelling using known gene markers. Using millions of TME single cells, MetaTiME learns meta-components that encode independent components of gene expression observed across cancer types. The meta-components are biologically interpretable as cell types, cell states, and signaling activities. By projecting onto the MetaTiME space, we provide a tool to annotate cell states and signature continuums for TME scRNA-seq data. Second, we will address the challenge of high-dimensional and sparse data in advanced spatial transcriptomics technologies. We present STHD for probabilistic cell typing of sub-cellular spots for spatial transcriptomics data that profiles whole transcriptome with high definition. With a machine learning model combining count statistics with neighbor regularization, STHD accurately predicts cell type identities of subcellular spots, revealing both global tissue architecture and local multicellular neighborhoods. We demonstrate STHD in ultra-resolution spatial analyses of cell type-specific gene expression and immune interaction hubs in tumor microenvironment, and its generalizability across samples, tissues, and diseases, with million-datapoints scalability.\nBio: Dr. Yi Zhang is an Assistant Professor at Duke University and computational biologist. She obtained PhD in Bioengineering in 2019 at University of Illinois at Urbana-Champaign. She then received postdoctoral training at Dana-Farber Cancer Institute and Harvard University with Dr. Shirley Liu and worked with Drs. Xihong Lin and Myles Brown. She joined Duke in 2024 as faculty in Departments of Neurosurgery and Biostatistics and Bioinformatics, with affiliation in Biomedical Engineering and Cell Biology, Duke Cancer Institute, and Preston Robert Tisch Brain Tumor Center of Duke University School of Medicine. She has led multiple computational methodology development work published at Nature Communications, Genome Biology, Bioinformatics, Cancer Research, etc. Her lab at Duke focuses on developing machine learning and AI methods for data spanning multi-omics, single-cell omics, high-resolution spatial genomics, digital pathology, functional genomics, and applying the methods to understand disease-related cellular mechanisms in tissue and tumor microenvironment. \nWelcome to join us to learn more about Dr. Liu’s research work via Zoom!"
+  },
+  {
+    "objectID": "langclub.html",
+    "href": "langclub.html",
+    "title": "Lang’s Journal Club",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nLEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging\n\n\nHonglang Wang\n\n\nNational Science Foundation\n\n\nThis project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics.\n\n\n$243,215\n\n\nJuly 2022\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\nSubcontract to NSF project: ‘Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato’\n\n\nHonglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell\n\n\nNational Science Foundation\n\n\nThis project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato.\n\n\n$14,812\n\n\n2016\n\n\n2017\n\n\n\n\n\n\nNo matching items"
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
   },
   {
-    "objectID": "seminar2026spring.html",
-    "href": "seminar2026spring.html",
-    "title": "Statistics Seminars: Spring 2026",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of December 2024:"
   },
   {
-    "objectID": "seminar2026spring.html#previous-seminars",
-    "href": "seminar2026spring.html#previous-seminars",
-    "title": "Statistics Seminars: Spring 2026",
-    "section": "Previous Seminars",
-    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
   },
   {
-    "objectID": "letters.html",
-    "href": "letters.html",
-    "title": "Letters",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Lang’s Lab",
     "section": "",
-    "text": "I’m happpy to provide recommendation letters if you were in my class or collaborated with me directly. If not, I may not know you well enough to write a stong letter.\nWhen requesting a letter, please send bullet points addressing the following:\n\nWhat (class) project did you work on?\nWhat contributions did you make to the project?\nWhat challenges did you face during the project?\nHow did you handle those challenges?\nWhy are you interested in the opportunity or position?\n\nPlease also include links to the position or opportunity and note the deadlines. Please reach out at least one month before the deadline. If you need letters for multiple applications, please send all submission links together if possible."
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "Lang’s Lab",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Associate Professor, IU Indianapolis\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate, IU Indianapolis. Spatial Transcriptomics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "Lang’s Lab",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Started\n      \n      \n        Ended\n      \n      \n        Now\n      \n      \n        Was\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nNow\n\n\n\nWas\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nRuohong LI\n\n\nSenior Machine Learning Scientist at Microsoft.\n\n\nPhD Student in Biostatistics, IU School of Medicine. Thesis: ‘Treatment Effect Estimation and Theraputic Optimization Using Observational Data’.\n\n\nSep 2017\n\n\nMay 2021\n\n\n\n\n\n\n\n\n\nRan MO\n\n\nWorking at IU Indianapolis.\n\n\nPhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: ‘Robust Inference for Heterogeneous Treatment Effects with Applications to NHANES Data’. Research supported in part by NSF awards DMS-2212928.\n\n\nJan 2021\n\n\nDec 2024\n\n\n\n\n\n\n\n\n\nXiang WANG\n\n\nResearch Assistant at Shanxi University, China.\n\n\nPhD Student in Mathematics (Statistics), IUPUI. Thesis: ‘EFFICIENT INFERENCE AND DOMINANT-SET BASED CLUSTERING FOR FUNCTIONAL DATA’. Research supported in part by NSF awards DMS-2212928.\n\n\nFeb 2021\n\n\nMay 2024\n\n\n\n\n\n\n\n\n\nYishan CUI\n\n\nWorking at AI Startup Company in China.\n\n\nPhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: ‘Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models’. Research supported in part by NSF awards DMS-2212928.\n\n\nFeb 2021\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nXuchen FANG\n\n\nWorking back in China.\n\n\nMaster Student in Applied Statistics, IU Indianapolis. Research supported in part by NSF awards DMS-2212928.\n\n\nJan 2024\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nZhiyuan ZHU\n\n\nNow PhD student at TAMU.\n\n\nUndergraduate in Mathematics, Zhejiang University\n\n\nMay 2024\n\n\nMay 2025\n\n\n\n\n\n\n\n\n\nWenzhe JIAO\n\n\nAssistant Professor at TAMU.\n\n\nPhD student in Earth Science with minor in Applied Statistics, IUPUI.\n\n\nAug 2018\n\n\nMay 2022\n\n\n\n\n\n\n\n\n\nIsaac MANRING\n\n\nData Scientist at Allstate.\n\n\nMaster Student in Computational Data Science, IUPUI.\n\n\nAug 2022\n\n\nDec 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#lab-group-pictures",
+    "href": "people.html#lab-group-pictures",
+    "title": "Lang’s Lab",
+    "section": "Lab Group Pictures",
+    "text": "Lab Group Pictures\n\n\n\n\n\n\nJune 5th, 2021\n\n\n\n\n\n\n\nMay 10th, 2023"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nNew York State Climate Policy Goals Clarified\n\n\nNov 1, 2024\n\n\n\n\n\n\nQuarto Academic Site Examples and Tips\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nYishan Cui successfully defended his thesis.\n\n\n\n\n\nApr 4, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nWe will have journal club in spring 2025 focusing on large language models.\n\n\n\n\n\nJan 7, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\n\nnews\n\n\n\nNice course projects for statistical computing and applied linear regression.\n\n\n\n\n\nDec 18, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nRan Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nRan Mo successfully defended his thesis.\n\n\n\n\n\nNov 1, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation at The Conference on Statistical Learning and Data Science 2024\n\n\n\nnews\n\n\n\nHonglang Wang will present the work on Dominant-Set Based Clustering For Functional Data\n\n\n\n\n\nOct 25, 2024\n\n\nASA\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "spatial_transcriptomics.html",
-    "href": "spatial_transcriptomics.html",
-    "title": "Spatial Transcriptomics",
+    "objectID": "quarto-academic-site-examples.html",
+    "href": "quarto-academic-site-examples.html",
+    "title": "Quarto Academic Site Examples and Tips",
     "section": "",
-    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
   },
   {
-    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
-    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
-    "title": "Spatial Transcriptomics",
+    "objectID": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "href": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "title": "Quarto Academic Site Examples and Tips",
     "section": "",
-    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
   },
   {
-    "objectID": "spatial_transcriptomics.html#packages",
-    "href": "spatial_transcriptomics.html#packages",
-    "title": "Spatial Transcriptomics",
-    "section": "Packages",
-    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
+    "objectID": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "href": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Templates I adapt you may find useful",
+    "text": "Templates I adapt you may find useful\n\n\n\nType\nWeb\nGitHub\n\n\n\n\nPersonal\nhttps://drganghe.github.io/\nhttps://github.com/drganghe/drganghe.github.io\n\n\nLab/Group\nhttps://deeppolicylab.github.io/\nhttps://github.com/deeppolicylab/deeppolicylab.github.io\n\n\nClass\nhttps://drganghe.github.io/energy-climate-policy/\nhttps://github.com/drganghe/energy-climate-policy\n\n\nEvents\nhttps://drganghe.github.io/climate-guest-speakers/\nhttps://github.com/drganghe/climate-guest-speakers\n\n\nSlides\nhttps://drganghe.github.io/files/slides/solar-supply-chains-slides.html\nhttps://quarto.org/docs/presentations/revealjs/\n\n\nPoster\nhttps://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png\nhttps://github.com/brentthorne/posterdown"
   },
   {
-    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
-    "href": "spatial_transcriptomics.html#youtube-tutorial",
-    "title": "Spatial Transcriptomics",
-    "section": "Youtube Tutorial",
-    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
+    "objectID": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "href": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Useful tips for building an academic Quarto site",
+    "text": "Useful tips for building an academic Quarto site\n\nUsing “Includes” for reusable content\nTo streamline updates across your site, use Quarto’s includes feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.\n{{include _statement.qmd}}\nPrefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.\nHere is an example course description, and reuse it in mainpage and syllabus.\n\n\nAcademic badges\nDisplay academic badges like the Dimension Citation badge and Altmetric badge.\n\nHere’s an example for embedding them:\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace the doi with your own.\nMake sure to include below scripts in the same page to enable the badges:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can also showcase your highly cited and hot papers using custom badges.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\nHere is an example, and the source code.\n\n\nSocial sharing\nFor easy setup of social sharing buttons, AddToAny is a simple solution.\nUsing includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.\nHere is an example.\n\n\nThe art of listing\nListings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.\nType: default, grid, table\nOptions: grid-columns, image-height, grid-item-align\nDisplay: fields and field-display-names\nBy mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.\nHere is an example, and source code; another example, and source code.\n\n\nListing external items\nIf you need to list external resources with key metadata, you can use this format to create clear, linked listings.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nIf you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.\nHere is an example, and source code."
   },
   {
-    "objectID": "spatial_transcriptomics.html#data-base",
-    "href": "spatial_transcriptomics.html#data-base",
-    "title": "Spatial Transcriptomics",
-    "section": "Data Base",
-    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics\nChan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover): Discover the mechanisms of human health"
+    "objectID": "statcomputing/index.html",
+    "href": "statcomputing/index.html",
+    "title": "?var:department ?var:number: ?var:name",
+    "section": "",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n  bCourses\n\nNo matching items\n[UNDER CONSTRUCTION]"
+  },
+  {
+    "objectID": "statcomputing/index.html#schedule",
+    "href": "statcomputing/index.html#schedule",
+    "title": "?var:department ?var:number: ?var:name",
+    "section": "Schedule",
+    "text": "Schedule\nHere we use Quarto’s EJS templating.\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "statcomputing/staff.html",
+    "href": "statcomputing/staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nOffice hours are subject to change.\n\n\n\nInstructor: Person X x@berkeley.edu Office hours:  - Thursday 3pm-5pm, Evans 309  - Friday 2:00pm-4:30pm, Evans 309\n\n\nGSI: Person Y y@berkeley.edu Office hours: - Monday 11am-12pm, Evans 432 - Tuesday 4pm-5pm, Evans 432 - Wednesday 2pm-3pm, Evans 432 - Friday 12pm-1pm, Evans 432\n\n\nTutor: Person Z z@berkeley.edu Office hours:  - Wednesday 2:30pm - 4:30pm, Evans 434 - Sunday 2pm - 6pm, Zoom\n\n\nTutor: Person W w@berkeley.edu Office hours:  - Wednesday 10am-2pm, Evans 432 - Thursday 3-5pm, Evans 434"
+  },
+  {
+    "objectID": "statcomputing/data.html",
+    "href": "statcomputing/data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "statcomputing/data.html#data-1",
+    "href": "statcomputing/data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "statcomputing/data.html#data-2",
+    "href": "statcomputing/data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html",
+    "href": "statcomputing/units/unit1.html",
+    "title": "Unit 1: Intro",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document."
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
+    "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
+    "title": "Unit 1: Intro",
+    "section": "Evaluated Python code chunk, with a plot",
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.07902391364331089)"
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#latex",
+    "href": "statcomputing/units/unit1.html#latex",
+    "title": "Unit 1: Intro",
+    "section": "\\(\\LaTeX\\)",
+    "text": "\\(\\LaTeX\\)\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#styled-div-via-direct-html",
+    "href": "statcomputing/units/unit1.html#styled-div-via-direct-html",
+    "title": "Unit 1: Intro",
+    "section": "Styled div via direct html",
+    "text": "Styled div via direct html\n\nThis content can be styled via the border class."
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#a-callout",
+    "href": "statcomputing/units/unit1.html#a-callout",
+    "title": "Unit 1: Intro",
+    "section": "A callout",
+    "text": "A callout\n\n\n\n\n\n\nTipTip with Title\n\n\n\nThis is an example of a callout with a title."
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#tabset",
+    "href": "statcomputing/units/unit1.html#tabset",
+    "title": "Unit 1: Intro",
+    "section": "Tabset",
+    "text": "Tabset\n\nRPython\n\n\nThis code is not executed.\nfizz_buzz &lt;- function(fbnums = 1:50) {\n  output &lt;- dplyr::case_when(\n    fbnums %% 15 == 0 ~ \"FizzBuzz\",\n    fbnums %% 3 == 0 ~ \"Fizz\",\n    fbnums %% 5 == 0 ~ \"Buzz\",\n    TRUE ~ as.character(fbnums)\n  )\n  print(output)\n}\n\nfizz_buzz(3)\n\n\nThis code is executed.\n\n\nCode\ndef fizz_buzz(num):\n  if num % 15 == 0:\n    print(\"FizzBuzz\")\n  elif num % 5 == 0:\n    print(\"Buzz\")\n  elif num % 3 == 0:\n    print(\"Fizz\")\n  else:\n    print(num)\n    \nfizz_buzz(3)\n\n\nFizz"
+  },
+  {
+    "objectID": "statcomputing/units/unit1.html#a-basic-markdown-table",
+    "href": "statcomputing/units/unit1.html#a-basic-markdown-table",
+    "title": "Unit 1: Intro",
+    "section": "A basic Markdown table",
+    "text": "A basic Markdown table\n\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  },
+  {
+    "objectID": "statcomputing/units/unit3.html",
+    "href": "statcomputing/units/unit3.html",
+    "title": "Unit 3: More",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document with pdf as one target. I’ve taken out the qmd stuff that doesn’t seem to render to pdf."
+  },
+  {
+    "objectID": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
+    "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
+    "title": "Unit 3: More",
+    "section": "Evaluated Python code chunk, with a plot",
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.10926587021550184)"
+  },
+  {
+    "objectID": "statcomputing/units/unit3.html#latex",
+    "href": "statcomputing/units/unit3.html#latex",
+    "title": "Unit 3: More",
+    "section": "LaTeX",
+    "text": "LaTeX\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
+  },
+  {
+    "objectID": "statcomputing/units/unit3.html#latex-macro",
+    "href": "statcomputing/units/unit3.html#latex-macro",
+    "title": "Unit 3: More",
+    "section": "LaTeX macro",
+    "text": "LaTeX macro\n\nWarning: having include-before-body in the yaml header of this file, as seemingly needed to enable macros, causes extra space at top of page.\n\n\\[\nA = X \\trans Y\n\\]"
   }
 ]
