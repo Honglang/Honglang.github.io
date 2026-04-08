@@ -1,0 +1,55 @@
+---
+title: "Causal inference with unstructured data"
+description: "**Yixin Wang: Assistant Professor @ University of Michigan**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](yixinwang.png)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 4/14/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Causal inference with unstructured data**
+
+**Abstract**: Causal inference traditionally relies on tabular data, where treatments, outcomes, and covariates are manually collected and labeled. However, many real-world problems involve unstructured data (e.g., images, text, and videos) where treatments or outcomes are high-dimensional and unstructured, or all causal variables are hidden within the unstructured observations. This talk explores causal inference in such settings.
+
+We begin with cases where all causal variables (including treatments, outcomes, covariates) are hidden in unstructured observations. These causal problems require a crucial first step, extracting high-level latent causal factors from raw unstructured inputs. We develop algorithms to identify these factors. While traditional methods often assume statistical independence, causal factors are often correlated or causally connected. Our key observation is that, despite correlations, the causal connections (or the lack of) among factors leave geometric signatures in the latent factors' support, the ranges of values each can take. These signatures allow us to provably identify latent causal factors from passive observations, interventions, or multi-domain datasets (up to different transformations).
+
+Next, we tackle cases where unstructured data itself serves as either the treatment or the outcome. In these cases, standard causal queries like average treatment effect (ATE) are not suitable: subtracting one text, image, or video outcome from another is meaningless. High-dimensional unstructured treatments also challenge the overlap assumption required for causal identification. To address these challenges, we propose new causal queries: for unstructured outcomes, we pinpoint outcome features most affected by the treatment; for unstructured treatments, we identify influential treatment features driving outcome differences. Finally, we extend these ideas to decision-making algorithms, such as optimizing natural language actions for desired outcomes.
+ 
+
+**Bio**: Dr.[Yixin Wang](https://yixinwang.github.io/) is an assistant professor of statistics at the University
+of Michigan. She works in the fields of Bayesian statistics, machine
+learning, and causal inference. Previously, she was a postdoctoral
+researcher with Professor Michael Jordan at the University of
+California, Berkeley. She completed her PhD in statistics at Columbia,
+advised by Professor David Blei, and her undergraduate studies in
+mathematics and computer science at the Hong Kong University of
+Science and Technology. Her research has been recognized by the NSF
+CAREER award, the j-ISBA Blackwell-Rosenbluth Award, ICSA Conference
+Young Researcher Award, ISBA Savage Award Honorable Mention, ACIC Tom
+Ten Have Award Honorable Mention, and INFORMS data mining and COPA
+best paper awards.
+
+ 
+Welcome to join us to learn more about Dr. Wang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
