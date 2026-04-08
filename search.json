@@ -406,25 +406,32 @@
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 12/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: When Geometry Meets Causality: The Statistics Behind Cosmic Web Analysis\nAbstract: On megaparsec scales, matter in our Universe is not uniformly distributed but rather forms a complex large-scale network structure known as the cosmic web. Detecting this structure from observational data is challenging due to its geometric intricacy and the spherical domain of the sky. In this talk, we introduce a novel statistical framework for detecting the cosmic web from galaxy samples in the Sloan Digital Sky Survey and for analyzing its causal effects on nearby galaxies.\nTo accommodate spherical geometry, we model the cosmic web through directional density ridge and establish statistical consistency guarantee for its estimation via kernel smoothing. Computationally, we develop a geometry-aware algorithm with provable efficiency. Practically, we release an open cosmic web catalog constructed by our method.\nWhile most existing studies examine the influence of the cosmic web through correlation-based analyses, we advance both theory and methodology for causal inference with continuous treatments, enabling causal investigation. Under positivity and other regularity conditions, we propose a doubly robust (DR) estimator for the derivative of the dose-response curve, interpreted as the average treatment effect for continuous treatments. When the positivity condition is violated, we demonstrate the inconsistency of conventional inverse probability weighting (IPW) and DR estimators, and introduce new bias-corrected IPW and DR estimators. To quantify heterogeneous treatment effect without assuming positivity, we further propose a new intervention curve that naturally adapts to the treatment population. Interestingly, both the bias-corrected estimators and the new causal estimand reveal connections to geometric problems in Statistics, including nonparametric support and level-set estimation.\nBio: Yikun Zhang is a PhD candidate in the Department of Statistics at the University of Washington (UW) advised by Prof. Yen-Chi Chen. His current theoretical research interests lie in nonparametric statistics, optimization on manifolds, and causal inference for continuous treatments. On the applied side, he is broadly interested in tackling challenging problems in astronomy, particularly those related to detecting and analyzing the large-scale structure of the Universe (i.e., the cosmic web) through statistically principled approaches.\nWelcome to join us to learn more about Yikun’s research work via Zoom!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "seminars/HuiminCheng/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/HuiminCheng/index.html#statistics-seminars-spring-2026",
+    "title": "Graphon Cross-Validation with Application to Drug Repurposing",
+    "section": "Statistics Seminars: Spring 2026",
+    "text": "Statistics Seminars: Spring 2026"
   },
   {
-    "objectID": "seminar2025fall.html",
-    "href": "seminar2025fall.html",
-    "title": "Statistics Seminars: Fall 2025",
+    "objectID": "seminars/HuiminCheng/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/HuiminCheng/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Graphon Cross-Validation with Application to Drug Repurposing",
+    "section": "Department of Mathematical Sciences, IU Indianapolis",
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/7/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Graphon Cross-Validation with Application to Drug Repurposing\nAbstract: Graphon, short for graph function, provides a generative model for networks. In recent decades, various methods for graphon estimation have been proposed. The success of most graphon estimation methods depends on the proper specification of hyperparameters. While some network cross-validation methods have been proposed, they suffer from restrictive model assumptions, expensive computational costs, and a lack of theoretical guarantees. To address these issues, we propose a graphon cross-validation (GraphonCV) method. The asymptotic properties of GraphonCV are established. The effectiveness of the proposed method in terms of both computation and accuracy is demonstrated through extensive simulation studies and real drug repurposing examples.\nBio: Dr. Huimin Cheng is an Assistant Professor in the Department of Biostatistics at Boston University. She was awarded the Rafik B. Hariri Junior Faculty Fellow in 2024. She received her Ph.D. in statistics from the University of Georgia in 2023. Her methodological research focuses on statistical network analysis, graph deep learning, causal inference, machine learning, and Riemannian geometry.\nWelcome to join us to learn more about Dr. Cheng’s research work via Zoom!"
+  },
+  {
+    "objectID": "seminar2026spring.html",
+    "href": "seminar2026spring.html",
+    "title": "Statistics Seminars: Spring 2026",
     "section": "",
     "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
   },
   {
-    "objectID": "seminar2025fall.html#previous-seminars",
-    "href": "seminar2025fall.html#previous-seminars",
-    "title": "Statistics Seminars: Fall 2025",
+    "objectID": "seminar2026spring.html#previous-seminars",
+    "href": "seminar2026spring.html#previous-seminars",
+    "title": "Statistics Seminars: Spring 2026",
     "section": "Previous Seminars",
-    "text": "Previous Seminars\nSpring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
   },
   {
     "objectID": "teaching.html",
@@ -476,32 +483,39 @@
     "text": "Statistical Inference\n\n\n\n\n\nSpring 2022\nThis is a course on statistical inference i.e., the method of drawing conclusions from noisy data. Statistical concepts and methods developed in a mathematical framework, including decision theory, point estimation, confidence intervals and hypothesis testing. We will cover exponential families, UMVUE, MLE, Neyman-Pearson theory, UMP tests, likelihood ratio tests, Bayesian analysis as well as asymptotic theory."
   },
   {
-    "objectID": "seminar2026spring.html",
-    "href": "seminar2026spring.html",
-    "title": "Statistics Seminars: Spring 2026",
+    "objectID": "seminar2025fall.html",
+    "href": "seminar2025fall.html",
+    "title": "Statistics Seminars: Fall 2025",
     "section": "",
     "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
   },
   {
-    "objectID": "seminar2026spring.html#previous-seminars",
-    "href": "seminar2026spring.html#previous-seminars",
-    "title": "Statistics Seminars: Spring 2026",
+    "objectID": "seminar2025fall.html#previous-seminars",
+    "href": "seminar2025fall.html#previous-seminars",
+    "title": "Statistics Seminars: Fall 2025",
     "section": "Previous Seminars",
-    "text": "Previous Seminars\nFall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+    "text": "Previous Seminars\nSpring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
   },
   {
-    "objectID": "seminars/HuiminCheng/index.html#statistics-seminars-spring-2026",
-    "href": "seminars/HuiminCheng/index.html#statistics-seminars-spring-2026",
-    "title": "Graphon Cross-Validation with Application to Drug Repurposing",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "seminars/YixinWang/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/YixinWang/index.html#statistics-seminars-spring-2026",
+    "title": "Causal inference with unstructured data",
     "section": "Statistics Seminars: Spring 2026",
     "text": "Statistics Seminars: Spring 2026"
   },
   {
-    "objectID": "seminars/HuiminCheng/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "href": "seminars/HuiminCheng/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "title": "Graphon Cross-Validation with Application to Drug Repurposing",
+    "objectID": "seminars/YixinWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/YixinWang/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Causal inference with unstructured data",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
-    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/7/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Graphon Cross-Validation with Application to Drug Repurposing\nAbstract: Graphon, short for graph function, provides a generative model for networks. In recent decades, various methods for graphon estimation have been proposed. The success of most graphon estimation methods depends on the proper specification of hyperparameters. While some network cross-validation methods have been proposed, they suffer from restrictive model assumptions, expensive computational costs, and a lack of theoretical guarantees. To address these issues, we propose a graphon cross-validation (GraphonCV) method. The asymptotic properties of GraphonCV are established. The effectiveness of the proposed method in terms of both computation and accuracy is demonstrated through extensive simulation studies and real drug repurposing examples.\nBio: Dr. Huimin Cheng is an Assistant Professor in the Department of Biostatistics at Boston University. She was awarded the Rafik B. Hariri Junior Faculty Fellow in 2024. She received her Ph.D. in statistics from the University of Georgia in 2023. Her methodological research focuses on statistical network analysis, graph deep learning, causal inference, machine learning, and Riemannian geometry.\nWelcome to join us to learn more about Dr. Cheng’s research work via Zoom!"
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/14/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Causal inference with unstructured data\nAbstract: Causal inference traditionally relies on tabular data, where treatments, outcomes, and covariates are manually collected and labeled. However, many real-world problems involve unstructured data (e.g., images, text, and videos) where treatments or outcomes are high-dimensional and unstructured, or all causal variables are hidden within the unstructured observations. This talk explores causal inference in such settings.\nWe begin with cases where all causal variables (including treatments, outcomes, covariates) are hidden in unstructured observations. These causal problems require a crucial first step, extracting high-level latent causal factors from raw unstructured inputs. We develop algorithms to identify these factors. While traditional methods often assume statistical independence, causal factors are often correlated or causally connected. Our key observation is that, despite correlations, the causal connections (or the lack of) among factors leave geometric signatures in the latent factors’ support, the ranges of values each can take. These signatures allow us to provably identify latent causal factors from passive observations, interventions, or multi-domain datasets (up to different transformations).\nNext, we tackle cases where unstructured data itself serves as either the treatment or the outcome. In these cases, standard causal queries like average treatment effect (ATE) are not suitable: subtracting one text, image, or video outcome from another is meaningless. High-dimensional unstructured treatments also challenge the overlap assumption required for causal identification. To address these challenges, we propose new causal queries: for unstructured outcomes, we pinpoint outcome features most affected by the treatment; for unstructured treatments, we identify influential treatment features driving outcome differences. Finally, we extend these ideas to decision-making algorithms, such as optimizing natural language actions for desired outcomes.\nBio: Dr.Yixin Wang is an assistant professor of statistics at the University of Michigan. She works in the fields of Bayesian statistics, machine learning, and causal inference. Previously, she was a postdoctoral researcher with Professor Michael Jordan at the University of California, Berkeley. She completed her PhD in statistics at Columbia, advised by Professor David Blei, and her undergraduate studies in mathematics and computer science at the Hong Kong University of Science and Technology. Her research has been recognized by the NSF CAREER award, the j-ISBA Blackwell-Rosenbluth Award, ICSA Conference Young Researcher Award, ISBA Savage Award Honorable Mention, ACIC Tom Ten Have Award Honorable Mention, and INFORMS data mining and COPA best paper awards.\nWelcome to join us to learn more about Dr. Wang’s research work via Zoom!"
   },
   {
     "objectID": "seminars/JingMa/index.html#statistics-seminars-spring-2026",
@@ -886,7 +900,7 @@
     "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.11827754605799991)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.09440115887181898)"
   },
   {
     "objectID": "statcomputing/units/unit3.html#latex",
@@ -914,7 +928,7 @@
     "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.1540881047307029)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.11564933258465776)"
   },
   {
     "objectID": "statcomputing/units/unit1.html#latex",
