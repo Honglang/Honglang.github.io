@@ -1,0 +1,40 @@
+---
+title: "Confounding Robust Reinforcement Learning: A Causal Approach"
+description: "**Junzhe Zhang: Assistant Professor @ Syracuse University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](junzhezhang.png)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 4/21/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: Confounding Robust Reinforcement Learning: A Causal Approach**
+
+**Abstract**: Standard off-policy reinforcement learning algorithms assume that observed data are free from unmeasured confounding. This assumption is routinely violated in practice—for example, when the demonstrator's behavior policy has access to information not recorded in the data, or when there is a mismatch between the demonstrator's and the learner's sensory capabilities. In this talk, I present a line of work that addresses confounding bias in offline RL through causal inference and partial identification. I introduce the Confounded MDP framework, extend Bellman's equation to derive informative bounds on value functions from confounded observations, and develop model-free temporal difference algorithms using causal eligibility traces that work even when there is no common support between behavior and target policies. I then show how these ideas scale to high-dimensional domains: first through Causal DQN, which learns robust policies from confounded visual observations across twelve Atari games, and then through Causal Flow Q-Learning, which combines the partial identification framework with flow-matching generative models to handle continuous actions in twenty-five pixel-based robotic tasks. Together, these results demonstrate that principled causal reasoning leads to practical, scalable algorithms for robust decision-making from biased offline data.
+ 
+
+**Bio**: Dr. [Junzhe Zhang](https://junzhez.com/) is an Assistant Professor in the Department of Electrical Engineering and Computer Science at Syracuse University, where he leads the Syracuse Causal Science Laboratory. His research focuses on causal inference theory and its applications in reinforcement learning, generative modeling, and AI safety. He earned his PhD at Columbia University under Prof. Elias Bareinboim. He currently serves as Associate Editor for the Journal of Causal Inference. His research is supported by the Amazon Research Award.
+
+ 
+Welcome to join us to learn more about Dr. Zhang's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
