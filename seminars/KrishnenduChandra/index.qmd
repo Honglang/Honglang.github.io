@@ -1,0 +1,41 @@
+---
+title: "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation"
+description: "**Krishnendu Chandra: Postdoc @ Indiana University**"
+categories: [news, event, seminar]
+image: "defense.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](krish.jpg)]()
+
+
+## Statistics Seminars: Spring 2026
+## Department of Mathematical Sciences, IU Indianapolis
+
+**Organizer**: Honglang Wang (hlwang at iu dot edu)
+
+**Talk time**: 12:15-1:15pm (EST), 4/28/2026, Tuesday 
+
+**Zoom Meetings**: We host our seminars via zoom meetings: Join from computer or mobile by clicking: [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09) to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join. 
+
+**Title: A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation**
+
+**Abstract**: Functional connectivity from neuroimaging can be viewed as high-dimensional network-valued data with complex dependence structure and subject-level variability driven by covariates. We propose a structured variational autoencoder that incorporates graph-based constraints and sparsity, while introducing covariates directly into the generative model through a modulation mechanism. This formulation allows covariates to influence the conditional distribution of connectivity given latent representations. The model is trained by balancing reconstruction and latent regularization, along with a penalty to reduce dependence between latent variables and covariates. Empirically, we find that while reconstruction performance is comparable to flexible MLP-based baselines, the structured model yields more stable patterns across datasets. We further introduce a model-based perturbation framework to quantify covariate effects by varying covariates while holding latent representations fixed.
+
+
+
+**Bio**: Dr. Krishnendu Chandra received his M.Phil. and Ph.D. in Biostatistics from Columbia University and is currently a Postdoctoral Fellow in the Department of Biostatistics and Health Data Science at Indiana University School of Medicine. His research focuses on developing statistical and deep learning methods for high-dimensional and network-structured data, with applications in neuroimaging and neurodegenerative diseases. Broadly, Dr. Chandra is interested in bridging statistical theory with modern machine learning to enable interpretable and scalable analysis of complex biomedical data.
+
+ 
+Welcome to join us to learn more about Dr. Chandra's research work via [Zoom](https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09)!
+
+
+<!-- ## [Journal Club Website](/langclub.qmd) -->
+
+<!-- <https://www.baruch.cuny.edu/climateconference/> -->
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
