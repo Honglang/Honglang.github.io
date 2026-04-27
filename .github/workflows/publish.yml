@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+      discussions: read   # <-- this is the one that matters for giscus metadata
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
