@@ -7,23 +7,11 @@
     ]
   },
   {
-    "listing": "/langclub.html",
+    "listing": "/projects.html",
     "items": []
   },
   {
-    "listing": "/statcomputing/index.html",
-    "items": []
-  },
-  {
-    "listing": "/seminar2026spring.html",
-    "items": []
-  },
-  {
-    "listing": "/seminar2025spring.html",
-    "items": []
-  },
-  {
-    "listing": "/people.html",
+    "listing": "/seminar2025fall.html",
     "items": []
   },
   {
@@ -36,11 +24,23 @@
     ]
   },
   {
-    "listing": "/seminar2025fall.html",
+    "listing": "/people.html",
     "items": []
   },
   {
-    "listing": "/projects.html",
+    "listing": "/seminar2025spring.html",
+    "items": []
+  },
+  {
+    "listing": "/seminar2026spring.html",
+    "items": []
+  },
+  {
+    "listing": "/statcomputing/index.html",
+    "items": []
+  },
+  {
+    "listing": "/langclub.html",
     "items": []
   },
   {
