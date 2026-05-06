@@ -445,7 +445,7 @@
     "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.009074389603433574)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.03767441086448621)"
   },
   {
     "objectID": "statcomputing/units/unit1.html#latex",
@@ -494,7 +494,7 @@
     "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.12593249798284645)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.21996136019422963)"
   },
   {
     "objectID": "statcomputing/units/unit3.html#latex",
@@ -627,21 +627,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\nMakagyn Grimm: Data Science and Cell-Type Resolved Analysis of Axolotl Brain Regeneration using Spatial Transcriptomics​ (Fall 2025)\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\nMakagyn Grimm: Data Science and Cell-Type Resolved Analysis of Axolotl Brain Regeneration using Spatial Transcriptomics​ (Fall 2025)\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\nBenjamin Clark Cassel: Applied Causal Inference Powered by ML and AI (Spring 2026).\nKyle McCrocklin: Statistical Analysis of Antibody Surface Physicochemistry for Developability Prediction (Spring 2026).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "teaching.html#capstone-projects",
     "href": "teaching.html#capstone-projects",
     "title": "Teaching",
     "section": "",
-    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\nMakagyn Grimm: Data Science and Cell-Type Resolved Analysis of Axolotl Brain Regeneration using Spatial Transcriptomics​ (Fall 2025)\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\n\n\n\n\n\nSpatial Transcriptomics"
+    "text": "Xianglong Zhang: Logistic Regression in the Application of Diabetes Prediction (Fall 2017).\nShruthi Garugu: Role of Gender and Age in the Severity of Schizophrenia (Fall 2017).\nJimin Li: Logistic regression with applications to the analysis of Alzheimer’s disease (Fall 2019).\nGrant Weaver: Longitudinal studies of positive psychology interventions (Spring 2020).\nCaleb Nye: Estimating Heterogeneous Treatment Effects on Academic Performance (Spring 2021).\nSpencer Miceli: Interpreting Pediatric Sleep Studies using Functional Data Analysis (Spring 2022).\nXavier Miller: Spatial Transcriptomic Analysis of Cell-Type-Specific Gene Variation in Human Brain Tissue (Spring 2025).\nMakagyn Grimm: Data Science and Cell-Type Resolved Analysis of Axolotl Brain Regeneration using Spatial Transcriptomics​ (Fall 2025)\n\n\n\n\n\nIsaac Manring: BSTPP: Bayesian Spatiotemporal Point Process (Fall 2023).\nBenjamin Clark Cassel: Applied Causal Inference Powered by ML and AI (Spring 2026).\nKyle McCrocklin: Statistical Analysis of Antibody Surface Physicochemistry for Developability Prediction (Spring 2026).\n\n\n\n\n\nSpatial Transcriptomics"
   },
   {
     "objectID": "teaching.html#elementary-statistical-methods",
     "href": "teaching.html#elementary-statistical-methods",
     "title": "Teaching",
     "section": "Elementary Statistical Methods",
-    "text": "Elementary Statistical Methods\n\n\n\n\n\nSpring 2025\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
+    "text": "Elementary Statistical Methods\n\n\n\n\n\nSpring 2025 Spring 2026 Spring 2026\nIntroduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout."
   },
   {
     "objectID": "teaching.html#introduction-to-statistics",
