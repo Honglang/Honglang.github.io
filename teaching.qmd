@@ -30,6 +30,8 @@ title-block-banner: false
 ### Graudate:
 
 - Isaac Manring: [BSTPP](https://github.com/imanring/BSTPP): Bayesian Spatiotemporal Point Process (Fall 2023).
+- Benjamin Clark Cassel: Applied Causal Inference Powered by ML and AI (Spring 2026).
+- Kyle McCrocklin: Statistical Analysis of Antibody Surface Physicochemistry for Developability Prediction (Spring 2026).
 
 ### Potential Projects:
 
@@ -52,6 +54,8 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-10}
 
 [Spring 2025](https://iu.instructure.com/courses/2301744)
+[Spring 2026](https://iu.instructure.com/courses/2382254)
+[Spring 2026](https://iu.instructure.com/courses/2382258)
 
 Introduction to statistical methods with applications to diverse fields. Emphasis on understanding and interpreting statistical techniques. Data analysis for one and several variables, sampling and experimental design, basic probability, confidence intervals, significance tests of means and proportions, correlation and regression. Software is used throughout.
 
