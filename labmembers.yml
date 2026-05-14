@@ -95,3 +95,14 @@
       subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
 #      date: "2024-03-12"
 #      categories: []
+
+    - path: https://www.linkedin.com/in/kylemccrocklin/
+      image: /files/images/kyle_mccrocklin.jpg
+      title: "Kyle MCCROCKLIN"
+      lastname: "EMcCrocklin"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Computational Data Science, IU Indianapolis. Antibody Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
