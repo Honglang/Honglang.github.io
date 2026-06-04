@@ -2630,5 +2630,19 @@
     "title": "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/28/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation\nAbstract: Functional connectivity from neuroimaging can be viewed as high-dimensional network-valued data with complex dependence structure and subject-level variability driven by covariates. We propose a structured variational autoencoder that incorporates graph-based constraints and sparsity, while introducing covariates directly into the generative model through a modulation mechanism. This formulation allows covariates to influence the conditional distribution of connectivity given latent representations. The model is trained by balancing reconstruction and latent regularization, along with a penalty to reduce dependence between latent variables and covariates. Empirically, we find that while reconstruction performance is comparable to flexible MLP-based baselines, the structured model yields more stable patterns across datasets. We further introduce a model-based perturbation framework to quantify covariate effects by varying covariates while holding latent representations fixed.\nBio: Dr. Krishnendu Chandra received his M.Phil. and Ph.D. in Biostatistics from Columbia University and is currently a Postdoctoral Fellow in the Department of Biostatistics and Health Data Science at Indiana University School of Medicine. His research focuses on developing statistical and deep learning methods for high-dimensional and network-structured data, with applications in neuroimaging and neurodegenerative diseases. Broadly, Dr. Chandra is interested in bridging statistical theory with modern machine learning to enable interpretable and scalable analysis of complex biomedical data.\nWelcome to join us to learn more about Dr. Chandra’s research work via Zoom!"
+  },
+  {
+    "objectID": "seminar2026fall.html",
+    "href": "seminar2026fall.html",
+    "title": "Statistics Seminars: Fall 2026",
+    "section": "",
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 12:15-1:15pm (EST)\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join."
+  },
+  {
+    "objectID": "seminar2026fall.html#previous-seminars",
+    "href": "seminar2026fall.html#previous-seminars",
+    "title": "Statistics Seminars: Fall 2026",
+    "section": "Previous Seminars",
+    "text": "Previous Seminars\nSpring 2026 Fall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
   }
 ]
