@@ -17,6 +17,8 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
+**[July 2026]** Congratulations to my PhD student Yishan Cui on the acceptance of Yishan Cui and **Honglang Wang**, "Empirical likelihood-based efficient semiparametric inference for longitudinal data," *The Canadian Journal of Statistics*. Accepted July 10, 2026.
+
 
 **[Feb 2025]** Isaac Manring, **Honglang Wang**, George Mohler, Xenia Miscouridou. [BSTPP](https://github.com/imanring/BSTPP): [A Python Package for Bayesian Spatiotemporal Point Processes](https://doi.org/10.1080/02664763.2025.2462969). *Journal of Applied Statistics*
 
@@ -145,5 +147,4 @@ title-block-banner: false
 :::
 
 :::
-
 
