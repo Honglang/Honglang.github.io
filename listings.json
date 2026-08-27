@@ -4,17 +4,33 @@
     "items": []
   },
   {
-    "listing": "/seminar2026fall.html",
+    "listing": "/seminar2026spring.html",
     "items": []
   },
   {
-    "listing": "/posts.html",
+    "listing": "/langclub.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
     "items": [
       "/posts/2025-04-yishan-cui-defense/index.html",
       "/posts/2025-01-llm-journal-club/index.html",
       "/posts/2024-12-course-projects-samples/index.html",
       "/posts/2024-11-ran-mo-defense/index.html"
     ]
+  },
+  {
+    "listing": "/media.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/seminar2026fall.html",
+    "items": []
   },
   {
     "listing": "/notes.html",
@@ -28,16 +44,13 @@
     "items": []
   },
   {
-    "listing": "/langclub.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/seminar2026spring.html",
-    "items": []
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-04-yishan-cui-defense/index.html",
+      "/posts/2025-01-llm-journal-club/index.html",
+      "/posts/2024-12-course-projects-samples/index.html",
+      "/posts/2024-11-ran-mo-defense/index.html"
+    ]
   },
   {
     "listing": "/statcomputing/index.html",
@@ -46,18 +59,5 @@
   {
     "listing": "/seminar2025spring.html",
     "items": []
-  },
-  {
-    "listing": "/media.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/2025-04-yishan-cui-defense/index.html",
-      "/posts/2025-01-llm-journal-club/index.html",
-      "/posts/2024-12-course-projects-samples/index.html",
-      "/posts/2024-11-ran-mo-defense/index.html"
-    ]
   }
 ]
