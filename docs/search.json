@@ -1698,7 +1698,7 @@
     "href": "index.html#recent-posts",
     "title": "Honglang Wang, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\nWe will have journal club in spring 2025 focusing on large language…\n\n\n\nHonglang Wang\n\n\nJan 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\nNice course projects for statistical computing and applied linear…\n\n\n\nHonglang Wang\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\nWe will have journal club in spring 2025 focusing on large language…\n\n\n\nHonglang Wang\n\n\nJan 7, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
@@ -2644,5 +2644,33 @@
     "title": "Statistics Seminars: Fall 2026",
     "section": "Previous Seminars",
     "text": "Previous Seminars\nSpring 2026 Fall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 Spring 2023 Fall 2022 Spring 2022 Fall 2021 Spring 2021 Fall 2020 Spring 2020 Fall 2019 Spring 2019 Fall 2018 Spring 2018"
+  },
+  {
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "section": "",
+    "text": "Seminar flyer for Caihong Qin’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Caihong Qin, Postdoctoral Research Fellow, Department of Epidemiology and Biostatistics, Indiana University Bloomington\nTalk time: Tuesday, September 1, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+  },
+  {
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "section": "Abstract",
+    "text": "Abstract\nDense repeated measurements from wearable devices and sensing technologies provide rich information about individual behavioral and physiological patterns, but common summaries or smoothed trajectories may miss distributional features relevant to health outcomes. For example, individuals with similar mean glucose may differ substantially in variability or exposure to extreme levels. Subject-specific densities capture such differences, but commonly used methods estimate each subject’s density separately and therefore do not learn or exploit structure shared across subjects. Additionally, measurement error in wearable recordings can further obscure latent distributions. We develop a density function neural network for estimating subject-specific densities while learning shared structure across subjects. Applications to continuous glucose monitoring and wearable physical activity data illustrate how subject-specific densities can provide information beyond conventional summaries for health prediction and association analyses."
+  },
+  {
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nCaihong Qin is a postdoctoral research fellow in the Department of Epidemiology and Biostatistics at Indiana University Bloomington. She received her PhD in Statistics from Shanghai University of Finance and Economics. Her research interests include functional data analysis, statistical machine learning, and applications of wearable device data.\nView the seminar flyer and full event page."
   }
 ]
