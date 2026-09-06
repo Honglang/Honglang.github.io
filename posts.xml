@@ -15,7 +15,62 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-honglang-wang-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/HonglangWang/index.html"><img src="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Honglang Wang’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Honglang Wang, Associate Professor, Department of Mathematical Sciences, Indiana University Indianapolis</p>
+<p><strong>Talk time</strong>: Tuesday, September 8, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Location</strong>: Seminar room LD 265, IU Indianapolis</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>AI collapses the cost of <em>execution</em>. It does not collapse the cost of <em>judgment</em> — and a PhD was always mostly judgment: what to work on, what counts as evidence, when to stop. Execution was the visible part, and it is the part that just got cheap. So the ratio has shifted, and judgment is now the whole job, earlier in a career than it used to be.</p>
+<p>This workshop is about working that way deliberately. <strong>Part I</strong> covers what does not change: research as a search problem, where AI raises your sampling rate but does not improve your gradient; the two phases of a research career, and why compressing the first one costs you the repetitions that used to build taste as a side effect; and the evidence on cognitive debt, read the way statisticians should read it — limitations included.</p>
+<p><strong>Part II</strong> rewires the research loop stage by stage — reading, ideating, experimenting, verifying, writing — each with the AI layer that genuinely helps and the failure mode specific to it. It also supplies vocabulary most students are missing: prompt, context, harness, loop, and graph, and what each one actually governs.</p>
+<p><strong>Part III</strong> is the lab workflow end to end, laptop to IU Quartz, with a live demo that begins from a vague question and shows the four expert redirections that turn it into a defensible simulation study.</p>
+<p>One rule organizes all of it: <strong>AI may do the work you can check.</strong></p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Honglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.</p>
+<p><a href="../../seminars/HonglangWang/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-honglang-wang-seminar/</guid>
+  <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation</title>
   <dc:creator>Honglang Wang</dc:creator>
