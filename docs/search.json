@@ -1698,7 +1698,7 @@
     "href": "index.html#recent-posts",
     "title": "Honglang Wang, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\nWe will have journal club in spring 2025 focusing on large language…\n\n\n\nHonglang Wang\n\n\nJan 7, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
@@ -2672,5 +2672,33 @@
     "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
     "section": "About the Speaker",
     "text": "About the Speaker\nCaihong Qin is a postdoctoral research fellow in the Department of Epidemiology and Biostatistics at Indiana University Bloomington. She received her PhD in Statistics from Shanghai University of Finance and Economics. Her research interests include functional data analysis, statistical machine learning, and applications of wearable device data.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "",
+    "text": "Seminar flyer for Honglang Wang’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Honglang Wang, Associate Professor, Department of Mathematical Sciences, Indiana University Indianapolis\nTalk time: Tuesday, September 8, 2026, 12:15–1:15 PM Eastern Time\nLocation: Seminar room LD 265, IU Indianapolis"
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "Abstract",
+    "text": "Abstract\nAI collapses the cost of execution. It does not collapse the cost of judgment — and a PhD was always mostly judgment: what to work on, what counts as evidence, when to stop. Execution was the visible part, and it is the part that just got cheap. So the ratio has shifted, and judgment is now the whole job, earlier in a career than it used to be.\nThis workshop is about working that way deliberately. Part I covers what does not change: research as a search problem, where AI raises your sampling rate but does not improve your gradient; the two phases of a research career, and why compressing the first one costs you the repetitions that used to build taste as a side effect; and the evidence on cognitive debt, read the way statisticians should read it — limitations included.\nPart II rewires the research loop stage by stage — reading, ideating, experimenting, verifying, writing — each with the AI layer that genuinely helps and the failure mode specific to it. It also supplies vocabulary most students are missing: prompt, context, harness, loop, and graph, and what each one actually governs.\nPart III is the lab workflow end to end, laptop to IU Quartz, with a live demo that begins from a vague question and shows the four expert redirections that turn it into a defensible simulation study.\nOne rule organizes all of it: AI may do the work you can check."
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nHonglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.\nView the seminar flyer and full event page."
   }
 ]
