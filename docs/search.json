@@ -1698,7 +1698,7 @@
     "href": "index.html#recent-posts",
     "title": "Honglang Wang, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\nYishan Cui successfully defended his thesis.\n\n\n\nHonglang Wang\n\n\nApr 4, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember…\n\n\n\nHonglang Wang\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
@@ -2700,5 +2700,33 @@
     "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
     "section": "About the Speaker",
     "text": "About the Speaker\nHonglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "",
+    "text": "Seminar flyer for Jordan Bryan’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Jordan Bryan, Assistant Professor of Data Science, School of Data Science, University of Virginia\nTalk time: Tuesday, September 15, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "Abstract",
+    "text": "Abstract\nSpectral data from the biological and environmental sciences often consist of a mixed signal vector, which is composed of a weighted sum of random, unobserved endmember vectors. Such a mixed signal has a mean and a variance that both depend on the unknown weights, which represent the contribution of each endmember to the total signal. Linear estimates of the weights based on the mean model are often used, but these are likely to be inefficient, and could be improved upon by estimates that also make use of the variance model. In the context of a latent factor model for source variability, we calculate theoretically how much information is available in the variance model, and demonstrate how this information may stabilize inference in the case of an ill-conditioned mean model. We further propose nonlinear estimators that make use of the variance model information. We show using data collected in water quality monitoring, bacterial imaging, and remote sensing contexts that utilization of the variance model improves estimation of the mixing weights."
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nJordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.\nPrior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D. in Statistics from Duke University in 2023.\nView the seminar flyer and full event page."
   }
 ]
