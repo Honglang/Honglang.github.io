@@ -15,7 +15,59 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/JordanBryan/index.html"><img src="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Jordan Bryan’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Jordan Bryan, Assistant Professor of Data Science, School of Data Science, University of Virginia</p>
+<p><strong>Talk time</strong>: Tuesday, September 15, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Spectral data from the biological and environmental sciences often consist of a mixed signal vector, which is composed of a weighted sum of random, unobserved endmember vectors. Such a mixed signal has a mean and a variance that both depend on the unknown weights, which represent the contribution of each endmember to the total signal. Linear estimates of the weights based on the mean model are often used, but these are likely to be inefficient, and could be improved upon by estimates that also make use of the variance model. In the context of a latent factor model for source variability, we calculate theoretically how much information is available in the variance model, and demonstrate how this information may stabilize inference in the case of an ill-conditioned mean model. We further propose nonlinear estimators that make use of the variance model information. We show using data collected in water quality monitoring, bacterial imaging, and remote sensing contexts that utilization of the variance model improves estimation of the mixing weights.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Jordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.</p>
+<p>Prior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D.&nbsp;in Statistics from Duke University in 2023.</p>
+<p><a href="../../seminars/JordanBryan/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/</guid>
+  <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students</title>
   <dc:creator>Honglang Wang</dc:creator>
