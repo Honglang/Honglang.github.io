@@ -214,7 +214,7 @@
     "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.14508524317614138)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.06535726477401849)"
   },
   {
     "objectID": "statcomputing/units/unit1.html#latex",
@@ -879,7 +879,7 @@
     "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.010208935399885287)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.050121174743094896)"
   },
   {
     "objectID": "statcomputing/units/unit3.html#latex",

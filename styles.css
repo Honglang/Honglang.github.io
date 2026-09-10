@@ -1,1 +1,6 @@
 /* css styles */
+
+/* Keep Jordan Bryan's face in view when the portrait is cropped for listing cards. */
+img.thumbnail-image[src$="2026-09-jordan-bryan-seminar/profile.jpg"] {
+  object-position: center 22%;
+}
