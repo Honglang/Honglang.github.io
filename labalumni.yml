@@ -100,3 +100,66 @@
       was: "PhD student in Earth Science with minor in Applied Statistics, IUPUI."
 #      date: "2024-03-12"
 #      categories: [] 
+
+    - path:
+      image: /files/images/zhiyuan.jpg
+      title: "Zhiyuan SHU"
+      lastname: "Shu"
+      started: "Sep 2024"
+      ended: "May 2026"
+      subtitle: ""
+      was: "Master Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis."
+
+    - path:
+      image: /files/images/makagynGrimm.jpg
+      title: "Makagyn GRIMM"
+      lastname: "Grimm"
+      started: "August 2025"
+      ended: "Dec 2025"
+      subtitle: ""
+      was: "Undergraduate, IU Indianapolis. Spatial Transcriptomics."
+
+    - path: https://www.linkedin.com/in/anish-nair-255087220/
+      image: /files/images/anish_nair.jpg
+      title: "Anish NAIR"
+      lastname: "Nair"
+      started: "Jan 2026"
+      ended: "May 2026"
+      subtitle: ""
+      was: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+
+    - path: https://www.linkedin.com/in/faizan-waheed-/
+      image: /files/images/faizan_waheed.jpg
+      title: "Faizan WAHEED"
+      lastname: "Waheed"
+      started: "Jan 2026"
+      ended: "May 2026"
+      subtitle: ""
+      was: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+
+    - path: https://www.linkedin.com/in/hanzlajavaid/
+      image: /files/images/hanzla_javaid.jpg
+      title: "Hanzla JAVAID"
+      lastname: "Javaid"
+      started: "Jan 2026"
+      ended: "May 2026"
+      subtitle: ""
+      was: "Master Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis."
+
+    - path: https://www.linkedin.com/in/yashtakte/
+      image: /files/images/yash_takte.jpg
+      title: "Yash TAKTE"
+      lastname: "Takte"
+      started: "Jan 2026"
+      ended: "May 2026"
+      subtitle: ""
+      was: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+
+    - path: https://www.linkedin.com/in/kylemccrocklin/
+      image: /files/images/kyle_mccrocklin.jpg
+      title: "Kyle MCCROCKLIN"
+      lastname: "McCrocklin"
+      started: "Jan 2026"
+      ended: "May 2026"
+      subtitle: "Eli Lilly and Company"
+      was: "Master Student in Computational Data Science, IU Indianapolis. Antibody Data Analysis."
