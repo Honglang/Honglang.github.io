@@ -15,7 +15,58 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 10 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-chao-cheng-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/ChaoCheng/index.html"><img src="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Chao Cheng’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Chao Cheng, Assistant Professor, Department of Statistics and Data Science, Washington University in St.&nbsp;Louis</p>
+<p><strong>Talk time</strong>: Tuesday, September 22, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>We consider assessing causal mediation in the presence of a posttreatment event (examples include noncompliance, a clinical event, or death). We identify natural mediation effects for the entire study population and for each principal stratum characterized by the joint potential values of the posttreatment event. We derive the efficient influence function for each mediation estimand, which motivates a set of multiply robust estimators for inference. The multiply robust estimators are consistent under four types of misspecifications and are efficient when all nuisance models are correctly specified. We also develop a nonparametric efficient estimator that leverages data-adaptive machine learners to achieve efficient inference and discuss sensitivity methods to address key identification assumptions. We illustrate our methods via simulations and two real data examples.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Chao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St.&nbsp;Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.</p>
+<p><a href="../../seminars/ChaoCheng/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-chao-cheng-seminar/</guid>
+  <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing</title>
   <dc:creator>Honglang Wang</dc:creator>
