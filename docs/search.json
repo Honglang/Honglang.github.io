@@ -1698,7 +1698,7 @@
     "href": "index.html#recent-posts",
     "title": "Honglang Wang, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember…\n\n\n\nHonglang Wang\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\nCaihong Qin will present a shared-basis neural-network approach to…\n\n\n\nHonglang Wang\n\n\nSep 1, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata\n\n\nChao Cheng will present identification and multiply robust estimators for…\n\n\n\nHonglang Wang\n\n\nSep 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember…\n\n\n\nHonglang Wang\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
@@ -2728,5 +2728,33 @@
     "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
     "section": "About the Speaker",
     "text": "About the Speaker\nJordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.\nPrior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D. in Statistics from Duke University in 2023.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "",
+    "text": "Seminar flyer for Chao Cheng’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Chao Cheng, Assistant Professor, Department of Statistics and Data Science, Washington University in St. Louis\nTalk time: Tuesday, September 22, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+  },
+  {
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "Abstract",
+    "text": "Abstract\nWe consider assessing causal mediation in the presence of a posttreatment event (examples include noncompliance, a clinical event, or death). We identify natural mediation effects for the entire study population and for each principal stratum characterized by the joint potential values of the posttreatment event. We derive the efficient influence function for each mediation estimand, which motivates a set of multiply robust estimators for inference. The multiply robust estimators are consistent under four types of misspecifications and are efficient when all nuisance models are correctly specified. We also develop a nonparametric efficient estimator that leverages data-adaptive machine learners to achieve efficient inference and discuss sensitivity methods to address key identification assumptions. We illustrate our methods via simulations and two real data examples."
+  },
+  {
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nChao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.\nView the seminar flyer and full event page."
   }
 ]
