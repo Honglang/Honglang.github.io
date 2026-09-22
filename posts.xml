@@ -15,7 +15,58 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 15 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-xingche-guo-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/XingcheGuo/index.html"><img src="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Xingche Guo’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Xingche Guo, Assistant Professor, Department of Statistics, University of Connecticut</p>
+<p><strong>Talk time</strong>: Tuesday, September 29, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>High-dimensional functional data are becoming increasingly common in fields such as environmental monitoring and neuroimaging. This paper studies high-dimensional functional linear regression models that relate a scalar response to ultra-high-dimensional functional predictors, where each predictor is treated as a random element in an infinite-dimensional functional space. To address the dual challenges of high-dimensionality and model interpretability, we propose MoFI-FLR, a novel two-step estimation framework rooted in reproducing kernel Hilbert space (RKHS) theory. The first step employs a functional elastic-net penalty to screen out irrelevant covariates, while the second step decomposes each selected predictor’s functional coefficient into an interpretable finite-dimensional simple component and an infinite-dimensional complementary complement. By penalizing only the complementary component, our method automatically distinguishes simple effects, which consist only of the simple component, from complex effects, which also include complementary deviations. Under mild regularity conditions, we establish non-asymptotic theoretical guarantees, demonstrating that MoFI-FLR consistently recovers the active covariates and accurately identifies their true functional forms. We develop a computationally efficient algorithm to implement the proposed method and evaluate its performance through comprehensive simulation studies and an application to Psychomotor Vigilance Task EEG data.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Xingche Guo is an Assistant Professor in the Department of Statistics at the University of Connecticut. He received his Ph.D.&nbsp;in Statistics from Iowa State University and completed postdoctoral training at Columbia University. His research focuses on statistical machine learning, functional data analysis, and latent variable models and generative models, with applications to human behavior, neuroimaging, and mental health.</p>
+<p><a href="../../seminars/XingcheGuo/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-xingche-guo-seminar/</guid>
+  <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata</title>
   <dc:creator>Honglang Wang</dc:creator>
