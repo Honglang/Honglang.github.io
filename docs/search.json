@@ -1698,7 +1698,7 @@
     "href": "index.html#recent-posts",
     "title": "Honglang Wang, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata\n\n\nChao Cheng will present identification and multiply robust estimators for…\n\n\n\nHonglang Wang\n\n\nSep 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember…\n\n\n\nHonglang Wang\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\nHonglang Wang will lead a workshop on conducting research with AI while…\n\n\n\nHonglang Wang\n\n\nSep 6, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions\n\n\nXingche Guo will present MoFI-FLR, an RKHS-based framework for model-form…\n\n\n\nHonglang Wang\n\n\nSep 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata\n\n\nChao Cheng will present identification and multiply robust estimators for…\n\n\n\nHonglang Wang\n\n\nSep 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember…\n\n\n\nHonglang Wang\n\n\nSep 10, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "quarto-academic-site-examples.html",
@@ -2756,5 +2756,33 @@
     "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
     "section": "About the Speaker",
     "text": "About the Speaker\nChao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2026-09-xingche-guo-seminar/index.html",
+    "href": "posts/2026-09-xingche-guo-seminar/index.html",
+    "title": "Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions",
+    "section": "",
+    "text": "Seminar flyer for Xingche Guo’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-xingche-guo-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-xingche-guo-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Xingche Guo, Assistant Professor, Department of Statistics, University of Connecticut\nTalk time: Tuesday, September 29, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+  },
+  {
+    "objectID": "posts/2026-09-xingche-guo-seminar/index.html#abstract",
+    "href": "posts/2026-09-xingche-guo-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions",
+    "section": "Abstract",
+    "text": "Abstract\nHigh-dimensional functional data are becoming increasingly common in fields such as environmental monitoring and neuroimaging. This paper studies high-dimensional functional linear regression models that relate a scalar response to ultra-high-dimensional functional predictors, where each predictor is treated as a random element in an infinite-dimensional functional space. To address the dual challenges of high-dimensionality and model interpretability, we propose MoFI-FLR, a novel two-step estimation framework rooted in reproducing kernel Hilbert space (RKHS) theory. The first step employs a functional elastic-net penalty to screen out irrelevant covariates, while the second step decomposes each selected predictor’s functional coefficient into an interpretable finite-dimensional simple component and an infinite-dimensional complementary complement. By penalizing only the complementary component, our method automatically distinguishes simple effects, which consist only of the simple component, from complex effects, which also include complementary deviations. Under mild regularity conditions, we establish non-asymptotic theoretical guarantees, demonstrating that MoFI-FLR consistently recovers the active covariates and accurately identifies their true functional forms. We develop a computationally efficient algorithm to implement the proposed method and evaluate its performance through comprehensive simulation studies and an application to Psychomotor Vigilance Task EEG data."
+  },
+  {
+    "objectID": "posts/2026-09-xingche-guo-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-xingche-guo-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nDr. Xingche Guo is an Assistant Professor in the Department of Statistics at the University of Connecticut. He received his Ph.D. in Statistics from Iowa State University and completed postdoctoral training at Columbia University. His research focuses on statistical machine learning, functional data analysis, and latent variable models and generative models, with applications to human behavior, neuroimaging, and mental health.\nView the seminar flyer and full event page."
   }
 ]
