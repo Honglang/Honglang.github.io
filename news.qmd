@@ -6,6 +6,28 @@ title-block-banner: false
 ---
 
 
+## Call for Papers
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[![](/posts/2026-09-mathematics-special-issue/social-card.webp){fig-alt="Call for papers for the Mathematics Special Issue on Advanced Statistical Inference Methods and Their Applications"}](/posts/2026-09-mathematics-special-issue/)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**[September 2026]** I am serving as Guest Editor for the *Mathematics* Special Issue **Advanced Statistical Inference Methods and Their Applications**. The issue welcomes theoretical, methodological, computational, and applied work on statistical inference for complex data.
+
+**Manuscript submission deadline:** July 31, 2027
+
+[Read the call for papers](/posts/2026-09-mathematics-special-issue/){.btn .btn-primary role="button"}
+[View the Special Issue](https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7){.btn .btn-outline-primary role="button"}
+
+:::
+
+:::
+
+
 ## Papers Publication
 
 ::: {.grid}
@@ -147,4 +169,3 @@ title-block-banner: false
 :::
 
 :::
-

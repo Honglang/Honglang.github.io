@@ -33,6 +33,8 @@ website:
             
       - text: Research
         menu:
+          - text: "Special Issue: Call for Papers"
+            href: posts/2026-09-mathematics-special-issue/index.qmd
           - text: List of Publication
             href: publications.qmd
           # - text: Selected Papers

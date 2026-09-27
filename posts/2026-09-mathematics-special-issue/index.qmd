@@ -1,0 +1,82 @@
+---
+title: "Call for Papers: Advanced Statistical Inference Methods and Their Applications"
+description: "A Special Issue of Mathematics welcomes research on advanced statistical inference for complex data. Manuscripts are due July 31, 2027."
+description-meta: "A Special Issue of Mathematics welcomes research on advanced statistical inference for complex data. Manuscripts are due July 31, 2027."
+author: "Honglang Wang"
+date: "2026-09-27"
+categories: [news, call for papers, special issue, statistics]
+image: "social-card.webp"
+image-alt: "Call for papers for the Mathematics Special Issue on Advanced Statistical Inference Methods and Their Applications"
+css: /custom.css
+toc: true
+---
+
+I am serving as Guest Editor for the *Mathematics* Special Issue **Advanced Statistical Inference Methods and Their Applications**. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.
+
+::: {.callout-important title="Manuscript submission deadline"}
+**July 31, 2027**
+:::
+
+[View the Special Issue](https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7){.btn .btn-primary role="button"}
+[Submit a manuscript](https://susy.mdpi.com/user/manuscripts/upload?journal=mathematics&form%5Bspecial_issue_id%5D=291496){.btn .btn-outline-primary role="button"}
+
+## Scope
+
+Modern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.
+
+The Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:
+
+- high-dimensional inference;
+- frequentist and Bayesian methods;
+- nonparametric and semiparametric inference;
+- causal inference, robust methods, and distribution-free procedures;
+- functional and longitudinal data analysis;
+- survival analysis and methods for missing, censored, or error-prone data;
+- resampling and simulation-based inference;
+- inference after model selection and statistical learning; and
+- applications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.
+
+Submissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses.
+
+## What to submit
+
+The Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.
+
+[Submit an abstract](https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7/abstract){.btn .btn-outline-primary role="button"}
+
+## Guest Editor
+
+**Dr. Honglang Wang**<br>
+Department of Mathematical Sciences, School of Science<br>
+Indiana University Indianapolis<br>
+[hlwang@iu.edu](mailto:hlwang@iu.edu)
+
+My research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics.
+
+## Shareable flyers
+
+Click a flyer to open the corresponding PDF.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+[![English-language call-for-papers flyer for the Mathematics Special Issue](flyer-en.webp)](mathematics-special-issue-flyer-en.pdf)
+
+[Download the English flyer](mathematics-special-issue-flyer-en.pdf){.btn .btn-outline-primary role="button"}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![Chinese-language call-for-papers flyer for the Mathematics Special Issue](flyer-zh.webp)](mathematics-special-issue-flyer-zh.pdf)
+
+[Download the Chinese flyer](mathematics-special-issue-flyer-zh.pdf){.btn .btn-outline-primary role="button"}
+:::
+
+:::
+
+## Before submitting
+
+Please review the journal's current [instructions for authors](https://www.mdpi.com/journal/mathematics/instructions), [article processing charge](https://www.mdpi.com/journal/mathematics/apc), and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
