@@ -15,7 +15,113 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 22 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Call for Papers: Advanced Statistical Inference Methods and Their Applications</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-mathematics-special-issue/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am serving as Guest Editor for the <em>Mathematics</em> Special Issue <strong>Advanced Statistical Inference Methods and Their Applications</strong>. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Manuscript submission deadline">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Manuscript submission deadline
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>July 31, 2027</strong></p>
+</div>
+</div>
+<p><a href="https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7" class="btn btn-primary">View the Special Issue</a> <a href="https://susy.mdpi.com/user/manuscripts/upload?journal=mathematics&amp;form%5Bspecial_issue_id%5D=291496" class="btn btn-outline-primary">Submit a manuscript</a></p>
+<section id="scope" class="level2">
+<h2 class="anchored" data-anchor-id="scope">Scope</h2>
+<p>Modern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.</p>
+<p>The Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:</p>
+<ul>
+<li>high-dimensional inference;</li>
+<li>frequentist and Bayesian methods;</li>
+<li>nonparametric and semiparametric inference;</li>
+<li>causal inference, robust methods, and distribution-free procedures;</li>
+<li>functional and longitudinal data analysis;</li>
+<li>survival analysis and methods for missing, censored, or error-prone data;</li>
+<li>resampling and simulation-based inference;</li>
+<li>inference after model selection and statistical learning; and</li>
+<li>applications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.</li>
+</ul>
+<p>Submissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses.</p>
+</section>
+<section id="what-to-submit" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-submit">What to submit</h2>
+<p>The Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.</p>
+<p><a href="https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7/abstract" class="btn btn-outline-primary">Submit an abstract</a></p>
+</section>
+<section id="guest-editor" class="level2">
+<h2 class="anchored" data-anchor-id="guest-editor">Guest Editor</h2>
+<p><strong>Dr.&nbsp;Honglang Wang</strong><br> Department of Mathematical Sciences, School of Science<br> Indiana University Indianapolis<br> <script type="text/javascript">
+<!--
+h='&#x69;&#x75;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#104;&#108;&#x77;&#x61;&#110;&#x67;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>hlwang at iu dot edu</noscript></p>
+<p>My research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics.</p>
+</section>
+<section id="shareable-flyers" class="level2">
+<h2 class="anchored" data-anchor-id="shareable-flyers">Shareable flyers</h2>
+<p>Click a flyer to open the corresponding PDF.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="mathematics-special-issue-flyer-en.pdf"><img src="https://honglang.github.io/posts/2026-09-mathematics-special-issue/flyer-en.webp" class="img-fluid figure-img"></a></p>
+<figcaption>English-language call-for-papers flyer for the Mathematics Special Issue</figcaption>
+</figure>
+</div>
+<p><a href="mathematics-special-issue-flyer-en.pdf" class="btn btn-outline-primary">Download the English flyer</a></p>
+</div>
+<div class="g-col-12 g-col-md-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="mathematics-special-issue-flyer-zh.pdf"><img src="https://honglang.github.io/posts/2026-09-mathematics-special-issue/flyer-zh.webp" class="img-fluid figure-img"></a></p>
+<figcaption>Chinese-language call-for-papers flyer for the Mathematics Special Issue</figcaption>
+</figure>
+</div>
+<p><a href="mathematics-special-issue-flyer-zh.pdf" class="btn btn-outline-primary">Download the Chinese flyer</a></p>
+</div>
+</div>
+</section>
+<section id="before-submitting" class="level2">
+<h2 class="anchored" data-anchor-id="before-submitting">Before submitting</h2>
+<p>Please review the journal’s current <a href="https://www.mdpi.com/journal/mathematics/instructions">instructions for authors</a>, <a href="https://www.mdpi.com/journal/mathematics/apc">article processing charge</a>, and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>call for papers</category>
+  <category>special issue</category>
+  <category>statistics</category>
+  <guid>https://honglang.github.io/posts/2026-09-mathematics-special-issue/</guid>
+  <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-mathematics-special-issue/social-card.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions</title>
   <dc:creator>Honglang Wang</dc:creator>
