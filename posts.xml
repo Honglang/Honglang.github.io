@@ -15,7 +15,58 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 27 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-10-didong-li-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/DidongLi/index.html"><img src="https://honglang.github.io/posts/2026-10-didong-li-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Didong Li’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Didong Li, Assistant Professor of Biostatistics, University of North Carolina at Chapel Hill</p>
+<p><strong>Talk time</strong>: Tuesday, October 6, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Artificial Intelligence (AI) has surged in popularity, creating both opportunities and challenges for statistics. In this talk, I will present three recent directions from my lab that reflect our efforts to engage with the age of AI. First, I will discuss theoretical results for generative models, including statistical foundations connecting latent dimension, approximation error, and model complexity; robustness to data contamination during recursive training; and the effects of synthetic data on downstream tasks. Second, I will discuss a method that uses embeddings from large language models to enhance high-dimensional hypothesis testing, motivated by problems in cancer genomics where traditional methods are underpowered. I will also discuss extensions to genetic studies, for which we curated annotations for 8.9 billion genetic variants from the human genome, and obtained embeddings of these 8.9 billion variants for downstream tasks. Finally, I will switch to an infrastructural view, introducing STimage-1K4M, one of the first and largest publicly available spatial transcriptomics datasets curated by my group, consisting of 1,149 slides and more than 4 million pathology image–gene expression pairs across 50 tissue types. This resource has been downloaded over 290,000 times on Hugging Face and has facilitated the training of multiple foundation models.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Didong Li is an Assistant Professor of Biostatistics at the University of North Carolina at Chapel Hill. He received a PhD in Mathematics from Duke, completed postdoctoral training at Princeton Computer Science and UCLA Biostatistics, and was a visiting scholar at the Gladstone Institute. His research focuses on statistical and machine learning theory and methods for complex and high-dimensional biomedical and environmental data, specifically in manifold learning, nonparametric Bayes, generative AI, and spatial and spatiotemporal modeling. He has applied these methods to large-scale environmental exposures, electronic health records, and genomic and genetic data.</p>
+<p><a href="../../seminars/DidongLi/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-10-didong-li-seminar/</guid>
+  <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-10-didong-li-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Call for Papers: Advanced Statistical Inference Methods and Their Applications</title>
   <dc:creator>Honglang Wang</dc:creator>
