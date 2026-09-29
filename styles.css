@@ -4,3 +4,8 @@
 img.thumbnail-image[src$="2026-09-jordan-bryan-seminar/profile.jpg"] {
   object-position: center 22%;
 }
+
+/* Keep Didong Li's face in view when the portrait is cropped for listing cards. */
+img.thumbnail-image[src$="2026-10-didong-li-seminar/profile.jpg"] {
+  object-position: center 10% !important;
+}
