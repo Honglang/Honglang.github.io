@@ -88,7 +88,7 @@
     "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.10065600111813731)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.0013375666866328835)"
   },
   {
     "objectID": "statcomputing/units/unit1.html#latex",
@@ -210,221 +210,158 @@
     "text": "About the Speaker\nDr. Xingche Guo is an Assistant Professor in the Department of Statistics at the University of Connecticut. He received his Ph.D. in Statistics from Iowa State University and completed postdoctoral training at Columbia University. His research focuses on statistical machine learning, functional data analysis, and latent variable models and generative models, with applications to human behavior, neuroimaging, and mental health.\nView the seminar flyer and full event page."
   },
   {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html",
-    "href": "posts/2026-09-mathematics-special-issue/index.html",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
     "section": "",
-    "text": "I am serving as Guest Editor for the Mathematics Special Issue Advanced Statistical Inference Methods and Their Applications. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.\nView the Special Issue Submit a manuscript"
+    "text": "Seminar flyer for Caihong Qin’s talk"
   },
   {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html#scope",
-    "href": "posts/2026-09-mathematics-special-issue/index.html#scope",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
-    "section": "Scope",
-    "text": "Scope\nModern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.\nThe Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:\n\nhigh-dimensional inference;\nfrequentist and Bayesian methods;\nnonparametric and semiparametric inference;\ncausal inference, robust methods, and distribution-free procedures;\nfunctional and longitudinal data analysis;\nsurvival analysis and methods for missing, censored, or error-prone data;\nresampling and simulation-based inference;\ninference after model selection and statistical learning; and\napplications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.\n\nSubmissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses."
-  },
-  {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
-    "href": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
-    "section": "What to submit",
-    "text": "What to submit\nThe Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.\nSubmit an abstract"
-  },
-  {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
-    "href": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
-    "section": "Guest Editor",
-    "text": "Guest Editor\nDr. Honglang Wang Department of Mathematical Sciences, School of Science Indiana University Indianapolis hlwang at iu dot edu\nMy research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics."
-  },
-  {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
-    "href": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
-    "section": "Shareable flyers",
-    "text": "Shareable flyers\nClick a flyer to open the corresponding PDF.\n\n\n\n\n\nEnglish-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the English flyer\n\n\n\n\n\nChinese-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the Chinese flyer"
-  },
-  {
-    "objectID": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
-    "href": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
-    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
-    "section": "Before submitting",
-    "text": "Before submitting\nPlease review the journal’s current instructions for authors, article processing charge, and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available."
-  },
-  {
-    "objectID": "posts/2026-10-didong-li-seminar/index.html",
-    "href": "posts/2026-10-didong-li-seminar/index.html",
-    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
-    "section": "",
-    "text": "Seminar flyer for Didong Li’s talk"
-  },
-  {
-    "objectID": "posts/2026-10-didong-li-seminar/index.html#statistics-seminar-fall-2026",
-    "href": "posts/2026-10-didong-li-seminar/index.html#statistics-seminar-fall-2026",
-    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
     "section": "Statistics Seminar: Fall 2026",
-    "text": "Statistics Seminar: Fall 2026\nSpeaker: Didong Li, Assistant Professor of Biostatistics, University of North Carolina at Chapel Hill\nTalk time: Tuesday, October 6, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Caihong Qin, Postdoctoral Research Fellow, Department of Epidemiology and Biostatistics, Indiana University Bloomington\nTalk time: Tuesday, September 1, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
   },
   {
-    "objectID": "posts/2026-10-didong-li-seminar/index.html#abstract",
-    "href": "posts/2026-10-didong-li-seminar/index.html#abstract",
-    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
     "section": "Abstract",
-    "text": "Abstract\nArtificial Intelligence (AI) has surged in popularity, creating both opportunities and challenges for statistics. In this talk, I will present three recent directions from my lab that reflect our efforts to engage with the age of AI. First, I will discuss theoretical results for generative models, including statistical foundations connecting latent dimension, approximation error, and model complexity; robustness to data contamination during recursive training; and the effects of synthetic data on downstream tasks. Second, I will discuss a method that uses embeddings from large language models to enhance high-dimensional hypothesis testing, motivated by problems in cancer genomics where traditional methods are underpowered. I will also discuss extensions to genetic studies, for which we curated annotations for 8.9 billion genetic variants from the human genome, and obtained embeddings of these 8.9 billion variants for downstream tasks. Finally, I will switch to an infrastructural view, introducing STimage-1K4M, one of the first and largest publicly available spatial transcriptomics datasets curated by my group, consisting of 1,149 slides and more than 4 million pathology image–gene expression pairs across 50 tissue types. This resource has been downloaded over 290,000 times on Hugging Face and has facilitated the training of multiple foundation models."
+    "text": "Abstract\nDense repeated measurements from wearable devices and sensing technologies provide rich information about individual behavioral and physiological patterns, but common summaries or smoothed trajectories may miss distributional features relevant to health outcomes. For example, individuals with similar mean glucose may differ substantially in variability or exposure to extreme levels. Subject-specific densities capture such differences, but commonly used methods estimate each subject’s density separately and therefore do not learn or exploit structure shared across subjects. Additionally, measurement error in wearable recordings can further obscure latent distributions. We develop a density function neural network for estimating subject-specific densities while learning shared structure across subjects. Applications to continuous glucose monitoring and wearable physical activity data illustrate how subject-specific densities can provide information beyond conventional summaries for health prediction and association analyses."
   },
   {
-    "objectID": "posts/2026-10-didong-li-seminar/index.html#about-the-speaker",
-    "href": "posts/2026-10-didong-li-seminar/index.html#about-the-speaker",
-    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
+    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
     "section": "About the Speaker",
-    "text": "About the Speaker\nDr. Didong Li is an Assistant Professor of Biostatistics at the University of North Carolina at Chapel Hill. He received a PhD in Mathematics from Duke, completed postdoctoral training at Princeton Computer Science and UCLA Biostatistics, and was a visiting scholar at the Gladstone Institute. His research focuses on statistical and machine learning theory and methods for complex and high-dimensional biomedical and environmental data, specifically in manifold learning, nonparametric Bayes, generative AI, and spatial and spatiotemporal modeling. He has applied these methods to large-scale environmental exposures, electronic health records, and genomic and genetic data.\nView the seminar flyer and full event page."
+    "text": "About the Speaker\nCaihong Qin is a postdoctoral research fellow in the Department of Epidemiology and Biostatistics at Indiana University Bloomington. She received her PhD in Statistics from Shanghai University of Finance and Economics. Her research interests include functional data analysis, statistical machine learning, and applications of wearable device data.\nView the seminar flyer and full event page."
   },
   {
-    "objectID": "posts/2024-11-ran-mo-defense/index.html#defense",
-    "href": "posts/2024-11-ran-mo-defense/index.html#defense",
-    "title": "Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data",
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "",
+    "text": "Seminar flyer for Jordan Bryan’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Jordan Bryan, Assistant Professor of Data Science, School of Data Science, University of Virginia\nTalk time: Tuesday, September 15, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "Abstract",
+    "text": "Abstract\nSpectral data from the biological and environmental sciences often consist of a mixed signal vector, which is composed of a weighted sum of random, unobserved endmember vectors. Such a mixed signal has a mean and a variance that both depend on the unknown weights, which represent the contribution of each endmember to the total signal. Linear estimates of the weights based on the mean model are often used, but these are likely to be inefficient, and could be improved upon by estimates that also make use of the variance model. In the context of a latent factor model for source variability, we calculate theoretically how much information is available in the variance model, and demonstrate how this information may stabilize inference in the case of an ill-conditioned mean model. We further propose nonlinear estimators that make use of the variance model information. We show using data collected in water quality monitoring, bacterial imaging, and remote sensing contexts that utilization of the variance model improves estimation of the mixing weights."
+  },
+  {
+    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nJordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.\nPrior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D. in Statistics from Duke University in 2023.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2024-12-course-projects-samples/index.html",
+    "href": "posts/2024-12-course-projects-samples/index.html",
+    "title": "STAT 512/521 Course Projects Samples",
+    "section": "",
+    "text": "IU Indianapolis\nI had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses."
+  },
+  {
+    "objectID": "posts/2024-12-course-projects-samples/index.html#presentations",
+    "href": "posts/2024-12-course-projects-samples/index.html#presentations",
+    "title": "STAT 512/521 Course Projects Samples",
+    "section": "Presentations",
+    "text": "Presentations\n\nSTAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data\nSTAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods"
+  },
+  {
+    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
+    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
+    "title": "Lang’s Journal Club: Large Language Models",
+    "section": "Journal Club on LLM, Spring 2025",
+    "text": "Journal Club on LLM, Spring 2025\nTuesdays 9:30-11:00am (EST): 1/13/2025 — 5/4/2025 Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\nWelcome to join us to learn more about LLM at IU Indianapolis!"
+  },
+  {
+    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
+    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
+    "title": "Lang’s Journal Club: Large Language Models",
+    "section": "Journal Club Website",
+    "text": "Journal Club Website"
+  },
+  {
+    "objectID": "posts/2025-04-yishan-cui-defense/index.html#defense",
+    "href": "posts/2025-04-yishan-cui-defense/index.html#defense",
+    "title": "Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models",
     "section": "Defense",
-    "text": "Defense\n\nFriday 12:00-2:00PM (EST), 11/01/2024, SL 137\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Fang Li\nDr. Fei Tan\nDr. Hanxiang Peng\n\n\nWelcome to join us to learn more about Ran’s thesis work at IU Indianapolis!"
+    "text": "Defense\n\nFriday 11:00-1:00PM (EST), 04/04/2025, LD 004\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Jyotirmoy Sarkar\nDr. Hanxiang Peng\nDr. Fang Li\n\n\nWelcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!"
   },
   {
-    "objectID": "posts/2026-09-honglang-wang-seminar/index.html",
-    "href": "posts/2026-09-honglang-wang-seminar/index.html",
-    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "objectID": "quarto-academic-site-examples.html",
+    "href": "quarto-academic-site-examples.html",
+    "title": "Quarto Academic Site Examples and Tips",
     "section": "",
-    "text": "Seminar flyer for Honglang Wang’s talk"
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
   },
   {
-    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
-    "href": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
-    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
-    "section": "Statistics Seminar: Fall 2026",
-    "text": "Statistics Seminar: Fall 2026\nSpeaker: Honglang Wang, Associate Professor, Department of Mathematical Sciences, Indiana University Indianapolis\nTalk time: Tuesday, September 8, 2026, 12:15–1:15 PM Eastern Time\nLocation: Seminar room LD 265, IU Indianapolis"
-  },
-  {
-    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
-    "href": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
-    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
-    "section": "Abstract",
-    "text": "Abstract\nAI collapses the cost of execution. It does not collapse the cost of judgment — and a PhD was always mostly judgment: what to work on, what counts as evidence, when to stop. Execution was the visible part, and it is the part that just got cheap. So the ratio has shifted, and judgment is now the whole job, earlier in a career than it used to be.\nThis workshop is about working that way deliberately. Part I covers what does not change: research as a search problem, where AI raises your sampling rate but does not improve your gradient; the two phases of a research career, and why compressing the first one costs you the repetitions that used to build taste as a side effect; and the evidence on cognitive debt, read the way statisticians should read it — limitations included.\nPart II rewires the research loop stage by stage — reading, ideating, experimenting, verifying, writing — each with the AI layer that genuinely helps and the failure mode specific to it. It also supplies vocabulary most students are missing: prompt, context, harness, loop, and graph, and what each one actually governs.\nPart III is the lab workflow end to end, laptop to IU Quartz, with a live demo that begins from a vague question and shows the four expert redirections that turn it into a defensible simulation study.\nOne rule organizes all of it: AI may do the work you can check."
-  },
-  {
-    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
-    "href": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
-    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
-    "section": "About the Speaker",
-    "text": "About the Speaker\nHonglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.\nView the seminar flyer and full event page."
-  },
-  {
-    "objectID": "posts/2026-09-chao-cheng-seminar/index.html",
-    "href": "posts/2026-09-chao-cheng-seminar/index.html",
-    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "objectID": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "href": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
+    "title": "Quarto Academic Site Examples and Tips",
     "section": "",
-    "text": "Seminar flyer for Chao Cheng’s talk"
+    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
   },
   {
-    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
-    "href": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
-    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
-    "section": "Statistics Seminar: Fall 2026",
-    "text": "Statistics Seminar: Fall 2026\nSpeaker: Chao Cheng, Assistant Professor, Department of Statistics and Data Science, Washington University in St. Louis\nTalk time: Tuesday, September 22, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+    "objectID": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "href": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Templates I adapt you may find useful",
+    "text": "Templates I adapt you may find useful\n\n\n\nType\nWeb\nGitHub\n\n\n\n\nPersonal\nhttps://drganghe.github.io/\nhttps://github.com/drganghe/drganghe.github.io\n\n\nLab/Group\nhttps://deeppolicylab.github.io/\nhttps://github.com/deeppolicylab/deeppolicylab.github.io\n\n\nClass\nhttps://drganghe.github.io/energy-climate-policy/\nhttps://github.com/drganghe/energy-climate-policy\n\n\nEvents\nhttps://drganghe.github.io/climate-guest-speakers/\nhttps://github.com/drganghe/climate-guest-speakers\n\n\nSlides\nhttps://drganghe.github.io/files/slides/solar-supply-chains-slides.html\nhttps://quarto.org/docs/presentations/revealjs/\n\n\nPoster\nhttps://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png\nhttps://github.com/brentthorne/posterdown"
   },
   {
-    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
-    "href": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
-    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
-    "section": "Abstract",
-    "text": "Abstract\nWe consider assessing causal mediation in the presence of a posttreatment event (examples include noncompliance, a clinical event, or death). We identify natural mediation effects for the entire study population and for each principal stratum characterized by the joint potential values of the posttreatment event. We derive the efficient influence function for each mediation estimand, which motivates a set of multiply robust estimators for inference. The multiply robust estimators are consistent under four types of misspecifications and are efficient when all nuisance models are correctly specified. We also develop a nonparametric efficient estimator that leverages data-adaptive machine learners to achieve efficient inference and discuss sensitivity methods to address key identification assumptions. We illustrate our methods via simulations and two real data examples."
+    "objectID": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "href": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
+    "title": "Quarto Academic Site Examples and Tips",
+    "section": "Useful tips for building an academic Quarto site",
+    "text": "Useful tips for building an academic Quarto site\n\nUsing “Includes” for reusable content\nTo streamline updates across your site, use Quarto’s includes feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.\n{{include _statement.qmd}}\nPrefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.\nHere is an example course description, and reuse it in mainpage and syllabus.\n\n\nAcademic badges\nDisplay academic badges like the Dimension Citation badge and Altmetric badge.\n\nHere’s an example for embedding them:\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace the doi with your own.\nMake sure to include below scripts in the same page to enable the badges:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can also showcase your highly cited and hot papers using custom badges.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\nHere is an example, and the source code.\n\n\nSocial sharing\nFor easy setup of social sharing buttons, AddToAny is a simple solution.\nUsing includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.\nHere is an example.\n\n\nThe art of listing\nListings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.\nType: default, grid, table\nOptions: grid-columns, image-height, grid-item-align\nDisplay: fields and field-display-names\nBy mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.\nHere is an example, and source code; another example, and source code.\n\n\nListing external items\nIf you need to list external resources with key metadata, you can use this format to create clear, linked listings.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nIf you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.\nHere is an example, and source code."
   },
   {
-    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
-    "href": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
-    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
-    "section": "About the Speaker",
-    "text": "About the Speaker\nChao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.\nView the seminar flyer and full event page."
-  },
-  {
-    "objectID": "langclub.html",
-    "href": "langclub.html",
-    "title": "Lang’s Journal Club",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Honglang Wang, PhD",
     "section": "",
-    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
+    "text": "IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n      arXiv\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Wordpress\n  \n  \n      Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis.\nEducation\n\nPhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.\nDual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.\nMS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.\nBS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.\n\nSee my Curriculum Vitae for more information.\nResearch Interests\n\nStatistical Analysis for Longitudinal and Functional Data\nHigh Dimensional Statistical Inference and its Applications\nCausal Inference\nMachine Learning/Deep Learning\nNonparametric Statistics\nEmpirical Likelihood Methods and its Applications\nStatistical Genetics and Statistical Genomics"
   },
   {
-    "objectID": "now.html",
-    "href": "now.html",
-    "title": "Now",
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Honglang Wang, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions\n\n\nMaxine Yu will present SymmPI, a unified predictive-inference methodology…\n\n\n\nHonglang Wang\n\n\nOct 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data\n\n\nDidong Li will present recent theoretical, methodological, and…\n\n\n\nHonglang Wang\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCall for Papers: Advanced Statistical Inference Methods and Their Applications\n\n\nA Special Issue of Mathematics welcomes research on advanced statistical…\n\n\n\nHonglang Wang\n\n\nSep 27, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "A few things keep me busy these days:"
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nLEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging\n\n\nHonglang Wang\n\n\nNational Science Foundation\n\n\nThis project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics.\n\n\n$243,215\n\n\nJuly 2022\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\nSubcontract to NSF project: ‘Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato’\n\n\nHonglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell\n\n\nNational Science Foundation\n\n\nThis project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato.\n\n\n$14,812\n\n\n2016\n\n\n2017\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "now.html#kids",
-    "href": "now.html#kids",
-    "title": "Now",
-    "section": "Kids",
-    "text": "Kids\n\nRaising 2 young kids and spending 12 hours a day with them when their school is closed"
+    "objectID": "seminars/KrishnenduChandra/index.html#statistics-seminars-spring-2026",
+    "href": "seminars/KrishnenduChandra/index.html#statistics-seminars-spring-2026",
+    "title": "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation",
+    "section": "Statistics Seminars: Spring 2026",
+    "text": "Statistics Seminars: Spring 2026"
   },
   {
-    "objectID": "now.html#research",
-    "href": "now.html#research",
-    "title": "Now",
-    "section": "Research",
-    "text": "Research\n\n\n\n\n\n\nTipBig picture question\n\n\n\nHow can we achieve carbon neutrality by mid-century to address climate change?\nHow to make the clean energy transition more:\n\nSustainable (energy and environment)\nResilient (energy and climate)\nEquitable (energy and justice)\n\n\n\n\nI’m working with Baruch colleagues on the SSA project Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities\n\nI’m working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project\n\nI’m working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation\n\nI’m collaborating with LBL on power system decarbonization: we are organizing an Special Issue (The Electricity Journal) and a Workshop\n\n\nWelcome collaborations on\n\nClean energy global supply chain\nPower system decarbonization modeling\nClimate impact on energy systems\nJust energy transition\nEnergy-water-carbon nexus\n\nOther interdisciplinary aspects of carbon neutrality"
-  },
-  {
-    "objectID": "now.html#teaching",
-    "href": "now.html#teaching",
-    "title": "Now",
-    "section": "Teaching",
-    "text": "Teaching\nFall Semester:\n\nPAF 9199 Energy and Climate Policy\n\nSpring Semester:\n\nPAF 4199 Energy, Climate, and Society\nPAF 9174 Program Evaluation\n\nI’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:\n\nClimate Guest Speakers"
-  },
-  {
-    "objectID": "spatial_transcriptomics.html",
-    "href": "spatial_transcriptomics.html",
-    "title": "Spatial Transcriptomics",
-    "section": "",
-    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
-  },
-  {
-    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
-    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
-    "title": "Spatial Transcriptomics",
-    "section": "",
-    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
-  },
-  {
-    "objectID": "spatial_transcriptomics.html#packages",
-    "href": "spatial_transcriptomics.html#packages",
-    "title": "Spatial Transcriptomics",
-    "section": "Packages",
-    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
-  },
-  {
-    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
-    "href": "spatial_transcriptomics.html#youtube-tutorial",
-    "title": "Spatial Transcriptomics",
-    "section": "Youtube Tutorial",
-    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
-  },
-  {
-    "objectID": "spatial_transcriptomics.html#data-base",
-    "href": "spatial_transcriptomics.html#data-base",
-    "title": "Spatial Transcriptomics",
-    "section": "Data Base",
-    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics\nChan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover): Discover the mechanisms of human health"
-  },
-  {
-    "objectID": "seminars/QiangSun/index.html#statistics-seminars-fall-2025",
-    "href": "seminars/QiangSun/index.html#statistics-seminars-fall-2025",
-    "title": "Making Algorithms Robust to Structured Noise and Beyond",
-    "section": "Statistics Seminars: Fall 2025",
-    "text": "Statistics Seminars: Fall 2025"
-  },
-  {
-    "objectID": "seminars/QiangSun/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "href": "seminars/QiangSun/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "title": "Making Algorithms Robust to Structured Noise and Beyond",
+    "objectID": "seminars/KrishnenduChandra/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/KrishnenduChandra/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
-    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 09/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Making Algorithms Robust to Structured Noise and Beyond\nAbstract: Real-world data often conceal meaningful signals beneath both random and structured noise. Structured noise arises in many settings, from batch effects in biomedical studies to background variation in image classification. Interestingly, algorithms that encourage diversity or uniformity in their learned representations tend to generalize better across contexts. To investigate this phenomenon, we study linear representation learning with two views, comparing classical and contrastive methods, both with and without a uniformity constraint. We find that classical non-contrastive algorithms fail in the presence of structured noise. Contrastive learning with only an alignment loss performs well when background variation is mild but breaks down under strong structured noise. In contrast, contrastive learning that enforces a uniformity constraint remains robust regardless of the magnitude of the background noise. Building on these insights, we further explore strategies for designing algorithms that maintain robustness under broader conditions, including random noise and nonstationary environments, by appropriately augmenting the data and problem conditions.\nBio: Dr. Qiang Sun is a professor of Statistical Sciences, Computer Science, and Computer and Mathematical Sciences at the University of Toronto (UofT) and a visiting professor at MBZUAI, where he leads the NeXAIS (AGI × Statistics) group. His long-term goal is to develop Artificial Intelligence (AI) that is efficient, trustworthy, personalized, and accessible to all. Dr. Sun’s current research focuses on efficient GenAI, trustworthy AI, and foundations of AGI such as next generation statistics, driven by real-world challenges in technology, finance, and science.\nPrior to his tenure at UofT, he was an associate research scholar at Princeton University. He earned his PhD from the University of North Carolina at Chapel Hill and his BS in SCGY from the University of Science and Technology of China. Dr. Sun serves as an associate editor for Electronic Journal of Statistics (EJS), ASA Journal Data Science in Science (DSiS), Journal of the American Statistical Association (JASA), and as an area chair for several ML conferences such as ICLR, COLT, AISTATS, and UAI.\nWelcome to join us to learn more about Dr. Sun’s research work via Zoom!"
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/28/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation\nAbstract: Functional connectivity from neuroimaging can be viewed as high-dimensional network-valued data with complex dependence structure and subject-level variability driven by covariates. We propose a structured variational autoencoder that incorporates graph-based constraints and sparsity, while introducing covariates directly into the generative model through a modulation mechanism. This formulation allows covariates to influence the conditional distribution of connectivity given latent representations. The model is trained by balancing reconstruction and latent regularization, along with a penalty to reduce dependence between latent variables and covariates. Empirically, we find that while reconstruction performance is comparable to flexible MLP-based baselines, the structured model yields more stable patterns across datasets. We further introduce a model-based perturbation framework to quantify covariate effects by varying covariates while holding latent representations fixed.\nBio: Dr. Krishnendu Chandra received his M.Phil. and Ph.D. in Biostatistics from Columbia University and is currently a Postdoctoral Fellow in the Department of Biostatistics and Health Data Science at Indiana University School of Medicine. His research focuses on developing statistical and deep learning methods for high-dimensional and network-structured data, with applications in neuroimaging and neurodegenerative diseases. Broadly, Dr. Chandra is interested in bridging statistical theory with modern machine learning to enable interpretable and scalable analysis of complex biomedical data.\nWelcome to join us to learn more about Dr. Chandra’s research work via Zoom!"
   },
   {
     "objectID": "seminars/YuyingXie/index.html#statistics-seminars-fall-2025",
@@ -889,158 +826,249 @@
     "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 3/31/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: ELLA: Modelling Subcellular Spatial Variation of Gene Expression\nAbstract: Spatial transcriptomic technologies are becoming increasingly high-resolution, enabling precise mapping of mRNA localization within cells. We introduce a computational framework that models subcellular gene expression using a unified cellular coordinate system and a nonhomogeneous Poisson process, capturing spatial variation while maintaining strong statistical control. Through simulations and analyses of four diverse spatial transcriptomic datasets, the method identifies genes with distinct localization patterns and links them to molecular features. Nuclear-enriched genes are often long noncoding RNAs or long protein-coding mRNAs, whereas transcripts encoding ribosomal or membrane-associated proteins localize to the cytoplasm or cell periphery. Dynamic localization is also observed across cell-cycle phases.\nBio: Dr. Jade (Xiaoqing) Wang is an assistant professor in statistics at Texas A&M University, her research interests include developing statistical and computational methods in high-dimensional imaging and spatial transcriptomics data, agentic AI, and 3D modeling.\nWelcome to join us to learn more about Dr. Wang’s research work via Zoom!"
   },
   {
-    "objectID": "seminars/KrishnenduChandra/index.html#statistics-seminars-spring-2026",
-    "href": "seminars/KrishnenduChandra/index.html#statistics-seminars-spring-2026",
-    "title": "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation",
-    "section": "Statistics Seminars: Spring 2026",
-    "text": "Statistics Seminars: Spring 2026"
+    "objectID": "seminars/QiangSun/index.html#statistics-seminars-fall-2025",
+    "href": "seminars/QiangSun/index.html#statistics-seminars-fall-2025",
+    "title": "Making Algorithms Robust to Structured Noise and Beyond",
+    "section": "Statistics Seminars: Fall 2025",
+    "text": "Statistics Seminars: Fall 2025"
   },
   {
-    "objectID": "seminars/KrishnenduChandra/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "href": "seminars/KrishnenduChandra/index.html#department-of-mathematical-sciences-iu-indianapolis",
-    "title": "A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation",
+    "objectID": "seminars/QiangSun/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "href": "seminars/QiangSun/index.html#department-of-mathematical-sciences-iu-indianapolis",
+    "title": "Making Algorithms Robust to Structured Noise and Beyond",
     "section": "Department of Mathematical Sciences, IU Indianapolis",
-    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 4/28/2026, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: A Structured Variational Autoencoder for Network-Valued Functional Connectivity with Covariate Modulation\nAbstract: Functional connectivity from neuroimaging can be viewed as high-dimensional network-valued data with complex dependence structure and subject-level variability driven by covariates. We propose a structured variational autoencoder that incorporates graph-based constraints and sparsity, while introducing covariates directly into the generative model through a modulation mechanism. This formulation allows covariates to influence the conditional distribution of connectivity given latent representations. The model is trained by balancing reconstruction and latent regularization, along with a penalty to reduce dependence between latent variables and covariates. Empirically, we find that while reconstruction performance is comparable to flexible MLP-based baselines, the structured model yields more stable patterns across datasets. We further introduce a model-based perturbation framework to quantify covariate effects by varying covariates while holding latent representations fixed.\nBio: Dr. Krishnendu Chandra received his M.Phil. and Ph.D. in Biostatistics from Columbia University and is currently a Postdoctoral Fellow in the Department of Biostatistics and Health Data Science at Indiana University School of Medicine. His research focuses on developing statistical and deep learning methods for high-dimensional and network-structured data, with applications in neuroimaging and neurodegenerative diseases. Broadly, Dr. Chandra is interested in bridging statistical theory with modern machine learning to enable interpretable and scalable analysis of complex biomedical data.\nWelcome to join us to learn more about Dr. Chandra’s research work via Zoom!"
+    "text": "Department of Mathematical Sciences, IU Indianapolis\nOrganizer: Honglang Wang (hlwang at iu dot edu)\nTalk time: 12:15-1:15pm (EST), 09/02/2025, Tuesday\nZoom Meetings: We host our seminars via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 845 0989 4694 with Password: 113959 to join.\nTitle: Making Algorithms Robust to Structured Noise and Beyond\nAbstract: Real-world data often conceal meaningful signals beneath both random and structured noise. Structured noise arises in many settings, from batch effects in biomedical studies to background variation in image classification. Interestingly, algorithms that encourage diversity or uniformity in their learned representations tend to generalize better across contexts. To investigate this phenomenon, we study linear representation learning with two views, comparing classical and contrastive methods, both with and without a uniformity constraint. We find that classical non-contrastive algorithms fail in the presence of structured noise. Contrastive learning with only an alignment loss performs well when background variation is mild but breaks down under strong structured noise. In contrast, contrastive learning that enforces a uniformity constraint remains robust regardless of the magnitude of the background noise. Building on these insights, we further explore strategies for designing algorithms that maintain robustness under broader conditions, including random noise and nonstationary environments, by appropriately augmenting the data and problem conditions.\nBio: Dr. Qiang Sun is a professor of Statistical Sciences, Computer Science, and Computer and Mathematical Sciences at the University of Toronto (UofT) and a visiting professor at MBZUAI, where he leads the NeXAIS (AGI × Statistics) group. His long-term goal is to develop Artificial Intelligence (AI) that is efficient, trustworthy, personalized, and accessible to all. Dr. Sun’s current research focuses on efficient GenAI, trustworthy AI, and foundations of AGI such as next generation statistics, driven by real-world challenges in technology, finance, and science.\nPrior to his tenure at UofT, he was an associate research scholar at Princeton University. He earned his PhD from the University of North Carolina at Chapel Hill and his BS in SCGY from the University of Science and Technology of China. Dr. Sun serves as an associate editor for Electronic Journal of Statistics (EJS), ASA Journal Data Science in Science (DSiS), Journal of the American Statistical Association (JASA), and as an area chair for several ML conferences such as ICLR, COLT, AISTATS, and UAI.\nWelcome to join us to learn more about Dr. Sun’s research work via Zoom!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "spatial_transcriptomics.html",
+    "href": "spatial_transcriptomics.html",
+    "title": "Spatial Transcriptomics",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nLEAPS-MPS: Advancement of Functional Data Inference with Applications to Neuroimaging\n\n\nHonglang Wang\n\n\nNational Science Foundation\n\n\nThis project supported the research which aims to develop functional data analysis tools to understand the interaction between dynamic brain development and genetics and genomics.\n\n\n$243,215\n\n\nJuly 2022\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\nSubcontract to NSF project: ‘Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato’\n\n\nHonglang Wang - Subrecipient PI with PTE PI-Dr. C. Robin Buell\n\n\nNational Science Foundation\n\n\nThis project studies statistical analysis for Unraveling the Heterozygosity, Allelic Composition, and Copy Number Variation of Potato.\n\n\n$14,812\n\n\n2016\n\n\n2017\n\n\n\n\n\n\nNo matching items"
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Honglang Wang, PhD",
+    "objectID": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "href": "spatial_transcriptomics.html#reveiw-and-research-papers",
+    "title": "Spatial Transcriptomics",
     "section": "",
-    "text": "IUIprofile\n  \n  \n    \n     E-mail\n  \n  \n      arXiv\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Wordpress\n  \n  \n      Google Scholar\n  \n\n  \n  \nHonglang Wang is an researcher and teacher about data science, Statistics! He is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis.\nEducation\n\nPhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.\nDual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.\nMS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.\nBS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.\n\nSee my Curriculum Vitae for more information.\nResearch Interests\n\nStatistical Analysis for Longitudinal and Functional Data\nHigh Dimensional Statistical Inference and its Applications\nCausal Inference\nMachine Learning/Deep Learning\nNonparametric Statistics\nEmpirical Likelihood Methods and its Applications\nStatistical Genetics and Statistical Genomics"
+    "text": "Museum of spatial transcriptomics\nExploring tissue architecture using spatial transcriptomics\nSpatial transcriptomics in health and disease\nAn introduction to spatial transcriptomics for biomedical research\nStatistical and machine learning methods for spatially resolved transcriptomics data analysis\nDeep learning in spatially resolved transcriptomics: a comprehensive technical view\nA selective review of recent developments in spatially variable gene detection for spatial transcriptomics\nBenchmarking cell-type clustering methods for spatially resolved transcriptomics data\nTISSUE: uncertainty-calibrated prediction of single-cell spatial transcriptomics improves downstream analyses\nSpatial transcriptomic clocks reveal cell proximity effects in brain ageing\nSTANCE: a unified statistical model to detect cell-type-specific spatially variable genes in spatial transcriptomics\nTUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics\nCategorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data\nCell-type deconvolution methods for spatial transcriptomics"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Honglang Wang, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data\n\n\nDidong Li will present recent theoretical, methodological, and…\n\n\n\nHonglang Wang\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCall for Papers: Advanced Statistical Inference Methods and Their Applications\n\n\nA Special Issue of Mathematics welcomes research on advanced statistical…\n\n\n\nHonglang Wang\n\n\nSep 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions\n\n\nXingche Guo will present MoFI-FLR, an RKHS-based framework for model-form…\n\n\n\nHonglang Wang\n\n\nSep 22, 2026\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "objectID": "spatial_transcriptomics.html#packages",
+    "href": "spatial_transcriptomics.html#packages",
+    "title": "Spatial Transcriptomics",
+    "section": "Packages",
+    "text": "Packages\nSeurat is a widely used R package for single-cell and spatial transcriptomics that provides powerful tools for data preprocessing, integration, clustering, and visualization to uncover cellular identities and spatial organization.\n\nSingle-cell and spatial transcriptomics data analysis with Seurat in R\nSeurat Video Tutorials"
   },
   {
-    "objectID": "quarto-academic-site-examples.html",
-    "href": "quarto-academic-site-examples.html",
-    "title": "Quarto Academic Site Examples and Tips",
+    "objectID": "spatial_transcriptomics.html#youtube-tutorial",
+    "href": "spatial_transcriptomics.html#youtube-tutorial",
+    "title": "Spatial Transcriptomics",
+    "section": "Youtube Tutorial",
+    "text": "Youtube Tutorial\n\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 1\nUCLA Collaboratory Workshop on Spatial Transcriptomics Day 2"
+  },
+  {
+    "objectID": "spatial_transcriptomics.html#data-base",
+    "href": "spatial_transcriptomics.html#data-base",
+    "title": "Spatial Transcriptomics",
+    "section": "Data Base",
+    "text": "Data Base\n\nSTOmics DB: a comprehensive database for spatial transcriptomics data sharing, analysis and visualization\nDatabase for the museum of spatial transcriptomics project\nStatsUpAI\nCROST: CROST: a comprehensive repository of spatial transcriptomics\nChan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover): Discover the mechanisms of human health"
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
     "section": "",
-    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+    "text": "A few things keep me busy these days:"
   },
   {
-    "objectID": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
-    "href": "quarto-academic-site-examples.html#example-quarto-academic-websites-i-reference-regularly",
-    "title": "Quarto Academic Site Examples and Tips",
+    "objectID": "now.html#kids",
+    "href": "now.html#kids",
+    "title": "Now",
+    "section": "Kids",
+    "text": "Kids\n\nRaising 2 young kids and spending 12 hours a day with them when their school is closed"
+  },
+  {
+    "objectID": "now.html#research",
+    "href": "now.html#research",
+    "title": "Now",
+    "section": "Research",
+    "text": "Research\n\n\n\n\n\n\nTipBig picture question\n\n\n\nHow can we achieve carbon neutrality by mid-century to address climate change?\nHow to make the clean energy transition more:\n\nSustainable (energy and environment)\nResilient (energy and climate)\nEquitable (energy and justice)\n\n\n\n\nI’m working with Baruch colleagues on the SSA project Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities\n\nI’m working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project\n\nI’m working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation\n\nI’m collaborating with LBL on power system decarbonization: we are organizing an Special Issue (The Electricity Journal) and a Workshop\n\n\nWelcome collaborations on\n\nClean energy global supply chain\nPower system decarbonization modeling\nClimate impact on energy systems\nJust energy transition\nEnergy-water-carbon nexus\n\nOther interdisciplinary aspects of carbon neutrality"
+  },
+  {
+    "objectID": "now.html#teaching",
+    "href": "now.html#teaching",
+    "title": "Now",
+    "section": "Teaching",
+    "text": "Teaching\nFall Semester:\n\nPAF 9199 Energy and Climate Policy\n\nSpring Semester:\n\nPAF 4199 Energy, Climate, and Society\nPAF 9174 Program Evaluation\n\nI’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:\n\nClimate Guest Speakers"
+  },
+  {
+    "objectID": "langclub.html",
+    "href": "langclub.html",
+    "title": "Lang’s Journal Club",
     "section": "",
-    "text": "Web\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+    "text": "Organizer: Honglang Wang (hlwang at iu dot edu)\nTalk times: Tuesdays 9:30-11:00am (EST)\nZoom Meetings: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Speaker\n      \n      \n        Title\n      \n      \n        Note\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nSpeaker\n\n\n\nTitle\n\n\n\nNote\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Fully Connected Neural Network (FNN), Backpropgation (BP) and Convolutional Neural Network (CNN)\n\n\nFNN and BP, CNN, Coding\n\n\n\n\n\n\nJan 21, 2025\n\n\nHonglang Wang\n\n\nIntroduction to Recurrent Neural Network (RNN), Attension and Transformer\n\n\nRNN, Attension, Transformer\n\n\n\n\n\n\nJan 28, 2025\n\n\nHappy Chinese New Year\n\n\nCancelled\n\n\n \n\n\n\n\n\n\nFeb 4, 2025\n\n\nXiang Wang\n\n\nPhilosophy of Language\n\n\nbilibili talk\n\n\n\n\n\n\nFeb 11, 2025\n\n\nRan Mo\n\n\nEstimating textual treatment effect via causal disentangled representation learning\n\n\nPaper1, Paper2, Paper3\n\n\n\n\n\n\nFeb 18, 2025\n\n\nYishan Cui\n\n\nSpeech and Language Processing\n\n\nbook\n\n\n\n\n\n\nMar 4, 2025\n\n\nXuchen Fang\n\n\nInvestigating Gender Bias in Language Models Using Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nMar 11, 2025\n\n\nRan Mo\n\n\nBounds on Representation-Induced Confounding Bias for Treatment Effect Estimation\n\n\nPaper\n\n\n\n\n\n\nApr 8, 2025\n\n\nXuchen Fang\n\n\nDisentangled Representation for Causal Mediation Analysis\n\n\npaper\n\n\n\n\n\n\nApr 15, 2025\n\n\nXiang Wang\n\n\nMixture of Experts Explained\n\n\n混合专家模型 (MoE) 详解\n\n\n\n\n\n\nApr 22, 2025\n\n\nRan Mo\n\n\nLatent Semantic and Disentangled Attention\n\n\nPaper\n\n\n\n\n\n\nApr 29, 2025\n\n\nXuchen Fang\n\n\nTowards Reasoning in Large Language Models: A Survey\n\n\npaper\n\n\n\n\n\n\nNo matching items\n\nResources: places to select papers to study\n\nAwesome LLM\nLuberlab Journal Club - AI in Healthcare Research\nA.I. LLM Journal Club\nLLM Research Papers: The 2024 List from Sebastian Raschka\nNoteworthy LLM Research Papers of 2024-12 influential AI papers from January to December 2024\nMemory Networks\nRetrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\nChain-of-Thought Prompting Elicits Reasoning in Large Language Models\nDeep Residual Learning for Image Recognition\nOutrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer\nBatch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift\nAdderNet: Do We Really Need Multiplications in Deep Learning?\nBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\nMixture of Experts（MoE）学习笔记\n混合专家模型 (MoE) 详解\ndeepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention); deepseek技术解读(2)-MTP（Multi-Token Prediction）的前世今生; deepseek技术解读(3)-MoE的演进之路\nTheoretical Understanding of In-Context Learning in Shallow Transformers with Unstructured Data\nScan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer\nJoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention\nTransformers are RNNs: Fast Autoregressive Transformers with Linear Attention\nRNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval\nFrom Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency\nAn Overview of Large Language Models for Statisticians\n\nNice YouTube Videos:\n\nIntro to Large Language Models-Andrej Karpathy\nTransformer论文逐段精读\n从编解码和词嵌入开始，一步一步理解Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)\nIntroduction to Transformers w/ Andrej Karpathy\nLet’s build GPT: from scratch, in code, spelled out\nLet’s reproduce GPT-2 (124M)\nBuilding LLMs from the Ground Up: A 3-hour Coding Workshop-Sebastian Raschka"
   },
   {
-    "objectID": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
-    "href": "quarto-academic-site-examples.html#templates-i-adapt-you-may-find-useful",
-    "title": "Quarto Academic Site Examples and Tips",
-    "section": "Templates I adapt you may find useful",
-    "text": "Templates I adapt you may find useful\n\n\n\nType\nWeb\nGitHub\n\n\n\n\nPersonal\nhttps://drganghe.github.io/\nhttps://github.com/drganghe/drganghe.github.io\n\n\nLab/Group\nhttps://deeppolicylab.github.io/\nhttps://github.com/deeppolicylab/deeppolicylab.github.io\n\n\nClass\nhttps://drganghe.github.io/energy-climate-policy/\nhttps://github.com/drganghe/energy-climate-policy\n\n\nEvents\nhttps://drganghe.github.io/climate-guest-speakers/\nhttps://github.com/drganghe/climate-guest-speakers\n\n\nSlides\nhttps://drganghe.github.io/files/slides/solar-supply-chains-slides.html\nhttps://quarto.org/docs/presentations/revealjs/\n\n\nPoster\nhttps://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png\nhttps://github.com/brentthorne/posterdown"
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "",
+    "text": "Seminar flyer for Chao Cheng’s talk"
   },
   {
-    "objectID": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
-    "href": "quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site",
-    "title": "Quarto Academic Site Examples and Tips",
-    "section": "Useful tips for building an academic Quarto site",
-    "text": "Useful tips for building an academic Quarto site\n\nUsing “Includes” for reusable content\nTo streamline updates across your site, use Quarto’s includes feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.\n{{include _statement.qmd}}\nPrefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.\nHere is an example course description, and reuse it in mainpage and syllabus.\n\n\nAcademic badges\nDisplay academic badges like the Dimension Citation badge and Altmetric badge.\n\nHere’s an example for embedding them:\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace the doi with your own.\nMake sure to include below scripts in the same page to enable the badges:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can also showcase your highly cited and hot papers using custom badges.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\nHere is an example, and the source code.\n\n\nSocial sharing\nFor easy setup of social sharing buttons, AddToAny is a simple solution.\nUsing includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.\nHere is an example.\n\n\nThe art of listing\nListings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.\nType: default, grid, table\nOptions: grid-columns, image-height, grid-item-align\nDisplay: fields and field-display-names\nBy mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.\nHere is an example, and source code; another example, and source code.\n\n\nListing external items\nIf you need to list external resources with key metadata, you can use this format to create clear, linked listings.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nIf you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.\nHere is an example, and source code."
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Chao Cheng, Assistant Professor, Department of Statistics and Data Science, Washington University in St. Louis\nTalk time: Tuesday, September 22, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
   },
   {
-    "objectID": "posts/2025-04-yishan-cui-defense/index.html#defense",
-    "href": "posts/2025-04-yishan-cui-defense/index.html#defense",
-    "title": "Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models",
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "Abstract",
+    "text": "Abstract\nWe consider assessing causal mediation in the presence of a posttreatment event (examples include noncompliance, a clinical event, or death). We identify natural mediation effects for the entire study population and for each principal stratum characterized by the joint potential values of the posttreatment event. We derive the efficient influence function for each mediation estimand, which motivates a set of multiply robust estimators for inference. The multiply robust estimators are consistent under four types of misspecifications and are efficient when all nuisance models are correctly specified. We also develop a nonparametric efficient estimator that leverages data-adaptive machine learners to achieve efficient inference and discuss sensitivity methods to address key identification assumptions. We illustrate our methods via simulations and two real data examples."
+  },
+  {
+    "objectID": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-chao-cheng-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nChao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "",
+    "text": "Seminar flyer for Honglang Wang’s talk"
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "Statistics Seminar: Fall 2026",
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Honglang Wang, Associate Professor, Department of Mathematical Sciences, Indiana University Indianapolis\nTalk time: Tuesday, September 8, 2026, 12:15–1:15 PM Eastern Time\nLocation: Seminar room LD 265, IU Indianapolis"
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#abstract",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "Abstract",
+    "text": "Abstract\nAI collapses the cost of execution. It does not collapse the cost of judgment — and a PhD was always mostly judgment: what to work on, what counts as evidence, when to stop. Execution was the visible part, and it is the part that just got cheap. So the ratio has shifted, and judgment is now the whole job, earlier in a career than it used to be.\nThis workshop is about working that way deliberately. Part I covers what does not change: research as a search problem, where AI raises your sampling rate but does not improve your gradient; the two phases of a research career, and why compressing the first one costs you the repetitions that used to build taste as a side effect; and the evidence on cognitive debt, read the way statisticians should read it — limitations included.\nPart II rewires the research loop stage by stage — reading, ideating, experimenting, verifying, writing — each with the AI layer that genuinely helps and the failure mode specific to it. It also supplies vocabulary most students are missing: prompt, context, harness, loop, and graph, and what each one actually governs.\nPart III is the lab workflow end to end, laptop to IU Quartz, with a live demo that begins from a vague question and shows the four expert redirections that turn it into a defensible simulation study.\nOne rule organizes all of it: AI may do the work you can check."
+  },
+  {
+    "objectID": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-09-honglang-wang-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students",
+    "section": "About the Speaker",
+    "text": "About the Speaker\nHonglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "posts/2024-11-ran-mo-defense/index.html#defense",
+    "href": "posts/2024-11-ran-mo-defense/index.html#defense",
+    "title": "Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data",
     "section": "Defense",
-    "text": "Defense\n\nFriday 11:00-1:00PM (EST), 04/04/2025, LD 004\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Jyotirmoy Sarkar\nDr. Hanxiang Peng\nDr. Fang Li\n\n\nWelcome to join us to learn more about Yishan’s thesis work at IU Indianapolis!"
+    "text": "Defense\n\nFriday 12:00-2:00PM (EST), 11/01/2024, SL 137\nExamining Committee\n\nDr. Honglang Wang, Chair\nDr. Fang Li\nDr. Fei Tan\nDr. Hanxiang Peng\n\n\nWelcome to join us to learn more about Ran’s thesis work at IU Indianapolis!"
   },
   {
-    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
-    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-on-llm-spring-2025",
-    "title": "Lang’s Journal Club: Large Language Models",
-    "section": "Journal Club on LLM, Spring 2025",
-    "text": "Journal Club on LLM, Spring 2025\nTuesdays 9:30-11:00am (EST): 1/13/2025 — 5/4/2025 Zoom: We host our journal club via zoom meetings: Join from computer or mobile by clicking: Zoom to Join or use Meeting ID: 83130869503 with Password: 990915 to join.\nWelcome to join us to learn more about LLM at IU Indianapolis!"
-  },
-  {
-    "objectID": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
-    "href": "posts/2025-01-llm-journal-club/index.html#journal-club-website",
-    "title": "Lang’s Journal Club: Large Language Models",
-    "section": "Journal Club Website",
-    "text": "Journal Club Website"
-  },
-  {
-    "objectID": "posts/2024-12-course-projects-samples/index.html",
-    "href": "posts/2024-12-course-projects-samples/index.html",
-    "title": "STAT 512/521 Course Projects Samples",
+    "objectID": "posts/2026-10-didong-li-seminar/index.html",
+    "href": "posts/2026-10-didong-li-seminar/index.html",
+    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
     "section": "",
-    "text": "IU Indianapolis\nI had the pleasure to teach the STAT 512 (Linear Regression) and STAT 521 (Statistical Computing) in Fall 2024. The goal of STAT 512 is to enable the students to have a good theoretical and practical understanding about linear models. The goal of STAT 521 is to enable the students to know two programing languages SAS and R as well as some wonderful statistical learning methodologies. Below are some nice final projects from these two courses."
+    "text": "Seminar flyer for Didong Li’s talk"
   },
   {
-    "objectID": "posts/2024-12-course-projects-samples/index.html#presentations",
-    "href": "posts/2024-12-course-projects-samples/index.html#presentations",
-    "title": "STAT 512/521 Course Projects Samples",
-    "section": "Presentations",
-    "text": "Presentations\n\nSTAT 512 Project: Socioeconomic Disparities in Macro and Micronutrient Intake: A Cross-Sectional Analysis of NHANES 2021-2023 Data\nSTAT 521 Project: Bias-Variance Tradeoff Analysis in the EASE Framework: Evaluating Semi-Supervised Imputation Methods"
-  },
-  {
-    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html",
-    "href": "posts/2026-09-jordan-bryan-seminar/index.html",
-    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
-    "section": "",
-    "text": "Seminar flyer for Jordan Bryan’s talk"
-  },
-  {
-    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
-    "href": "posts/2026-09-jordan-bryan-seminar/index.html#statistics-seminar-fall-2026",
-    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "objectID": "posts/2026-10-didong-li-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-10-didong-li-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
     "section": "Statistics Seminar: Fall 2026",
-    "text": "Statistics Seminar: Fall 2026\nSpeaker: Jordan Bryan, Assistant Professor of Data Science, School of Data Science, University of Virginia\nTalk time: Tuesday, September 15, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Didong Li, Assistant Professor of Biostatistics, University of North Carolina at Chapel Hill\nTalk time: Tuesday, October 6, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
   },
   {
-    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
-    "href": "posts/2026-09-jordan-bryan-seminar/index.html#abstract",
-    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "objectID": "posts/2026-10-didong-li-seminar/index.html#abstract",
+    "href": "posts/2026-10-didong-li-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
     "section": "Abstract",
-    "text": "Abstract\nSpectral data from the biological and environmental sciences often consist of a mixed signal vector, which is composed of a weighted sum of random, unobserved endmember vectors. Such a mixed signal has a mean and a variance that both depend on the unknown weights, which represent the contribution of each endmember to the total signal. Linear estimates of the weights based on the mean model are often used, but these are likely to be inefficient, and could be improved upon by estimates that also make use of the variance model. In the context of a latent factor model for source variability, we calculate theoretically how much information is available in the variance model, and demonstrate how this information may stabilize inference in the case of an ill-conditioned mean model. We further propose nonlinear estimators that make use of the variance model information. We show using data collected in water quality monitoring, bacterial imaging, and remote sensing contexts that utilization of the variance model improves estimation of the mixing weights."
+    "text": "Abstract\nArtificial Intelligence (AI) has surged in popularity, creating both opportunities and challenges for statistics. In this talk, I will present three recent directions from my lab that reflect our efforts to engage with the age of AI. First, I will discuss theoretical results for generative models, including statistical foundations connecting latent dimension, approximation error, and model complexity; robustness to data contamination during recursive training; and the effects of synthetic data on downstream tasks. Second, I will discuss a method that uses embeddings from large language models to enhance high-dimensional hypothesis testing, motivated by problems in cancer genomics where traditional methods are underpowered. I will also discuss extensions to genetic studies, for which we curated annotations for 8.9 billion genetic variants from the human genome, and obtained embeddings of these 8.9 billion variants for downstream tasks. Finally, I will switch to an infrastructural view, introducing STimage-1K4M, one of the first and largest publicly available spatial transcriptomics datasets curated by my group, consisting of 1,149 slides and more than 4 million pathology image–gene expression pairs across 50 tissue types. This resource has been downloaded over 290,000 times on Hugging Face and has facilitated the training of multiple foundation models."
   },
   {
-    "objectID": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
-    "href": "posts/2026-09-jordan-bryan-seminar/index.html#about-the-speaker",
-    "title": "Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing",
+    "objectID": "posts/2026-10-didong-li-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-10-didong-li-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data",
     "section": "About the Speaker",
-    "text": "About the Speaker\nJordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.\nPrior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D. in Statistics from Duke University in 2023.\nView the seminar flyer and full event page."
+    "text": "About the Speaker\nDr. Didong Li is an Assistant Professor of Biostatistics at the University of North Carolina at Chapel Hill. He received a PhD in Mathematics from Duke, completed postdoctoral training at Princeton Computer Science and UCLA Biostatistics, and was a visiting scholar at the Gladstone Institute. His research focuses on statistical and machine learning theory and methods for complex and high-dimensional biomedical and environmental data, specifically in manifold learning, nonparametric Bayes, generative AI, and spatial and spatiotemporal modeling. He has applied these methods to large-scale environmental exposures, electronic health records, and genomic and genetic data.\nView the seminar flyer and full event page."
   },
   {
-    "objectID": "posts/2026-09-caihong-qin-seminar/index.html",
-    "href": "posts/2026-09-caihong-qin-seminar/index.html",
-    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html",
+    "href": "posts/2026-09-mathematics-special-issue/index.html",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
     "section": "",
-    "text": "Seminar flyer for Caihong Qin’s talk"
+    "text": "I am serving as Guest Editor for the Mathematics Special Issue Advanced Statistical Inference Methods and Their Applications. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.\nView the Special Issue Submit a manuscript"
   },
   {
-    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
-    "href": "posts/2026-09-caihong-qin-seminar/index.html#statistics-seminar-fall-2026",
-    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#scope",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#scope",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Scope",
+    "text": "Scope\nModern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.\nThe Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:\n\nhigh-dimensional inference;\nfrequentist and Bayesian methods;\nnonparametric and semiparametric inference;\ncausal inference, robust methods, and distribution-free procedures;\nfunctional and longitudinal data analysis;\nsurvival analysis and methods for missing, censored, or error-prone data;\nresampling and simulation-based inference;\ninference after model selection and statistical learning; and\napplications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.\n\nSubmissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses."
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "What to submit",
+    "text": "What to submit\nThe Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.\nSubmit an abstract"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Guest Editor",
+    "text": "Guest Editor\nDr. Honglang Wang Department of Mathematical Sciences, School of Science Indiana University Indianapolis hlwang at iu dot edu\nMy research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics."
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Shareable flyers",
+    "text": "Shareable flyers\nClick a flyer to open the corresponding PDF.\n\n\n\n\n\nEnglish-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the English flyer\n\n\n\n\n\nChinese-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the Chinese flyer"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Before submitting",
+    "text": "Before submitting\nPlease review the journal’s current instructions for authors, article processing charge, and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available."
+  },
+  {
+    "objectID": "posts/2026-10-maxine-yu-seminar/index.html",
+    "href": "posts/2026-10-maxine-yu-seminar/index.html",
+    "title": "Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions",
+    "section": "",
+    "text": "Seminar flyer for Maxine Yu’s talk"
+  },
+  {
+    "objectID": "posts/2026-10-maxine-yu-seminar/index.html#statistics-seminar-fall-2026",
+    "href": "posts/2026-10-maxine-yu-seminar/index.html#statistics-seminar-fall-2026",
+    "title": "Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions",
     "section": "Statistics Seminar: Fall 2026",
-    "text": "Statistics Seminar: Fall 2026\nSpeaker: Caihong Qin, Postdoctoral Research Fellow, Department of Epidemiology and Biostatistics, Indiana University Bloomington\nTalk time: Tuesday, September 1, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
+    "text": "Statistics Seminar: Fall 2026\nSpeaker: Mengxin (Maxine) Yu, Assistant Professor of Statistics and Data Science, Washington University in St. Louis\nTalk time: Tuesday, October 13, 2026, 12:15–1:15 PM Eastern Time\nOnline via Zoom: Join from a computer or mobile device using Zoom, or use Meeting ID 845 0989 4694 with Password 113959."
   },
   {
-    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
-    "href": "posts/2026-09-caihong-qin-seminar/index.html#abstract",
-    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "objectID": "posts/2026-10-maxine-yu-seminar/index.html#abstract",
+    "href": "posts/2026-10-maxine-yu-seminar/index.html#abstract",
+    "title": "Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions",
     "section": "Abstract",
-    "text": "Abstract\nDense repeated measurements from wearable devices and sensing technologies provide rich information about individual behavioral and physiological patterns, but common summaries or smoothed trajectories may miss distributional features relevant to health outcomes. For example, individuals with similar mean glucose may differ substantially in variability or exposure to extreme levels. Subject-specific densities capture such differences, but commonly used methods estimate each subject’s density separately and therefore do not learn or exploit structure shared across subjects. Additionally, measurement error in wearable recordings can further obscure latent distributions. We develop a density function neural network for estimating subject-specific densities while learning shared structure across subjects. Applications to continuous glucose monitoring and wearable physical activity data illustrate how subject-specific densities can provide information beyond conventional summaries for health prediction and association analyses."
+    "text": "Abstract\nQuantifying the uncertainty of black-box machine learning predictions is a core problem in modern statistics. Methods for predictive inference have been developed under a variety of assumptions, often—for instance, in standard conformal prediction—relying on the invariance of the distribution of the data under special groups of transformations such as permutation groups. Moreover, many existing methods for predictive inference aim to predict unobserved outcomes in sequences of feature-outcome observations. Meanwhile, there is interest in predictive inference under more general observation models (e.g., for partially observed features) and for data satisfying more general distributional symmetries beyond exchangeability (e.g., network, rotationally invariant, data with hierarchical structure). Here, we propose SymmPI, a unified methodology for predictive inference when data distributions have general group symmetries in arbitrary observation models. Our methods leverage the novel notion of distributional equivariant transformations, which process the data while preserving their distributional invariances. We show that SymmPI has valid coverage under distributional invariance and characterize its performance under distribution shift, recovering recent results as special cases. These methodologies are particularly relevant for cluster-randomized trials in clinical settings, where prediction reliability is essential.\nIf time permits, I will also briefly present our work on evaluating uncertainty and confidence measures in large language models. We introduce a novel method called rank calibration, which enables the identification of reliable uncertainty measures across a range of tasks and LLM models."
   },
   {
-    "objectID": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
-    "href": "posts/2026-09-caihong-qin-seminar/index.html#about-the-speaker",
-    "title": "Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation",
+    "objectID": "posts/2026-10-maxine-yu-seminar/index.html#about-the-speaker",
+    "href": "posts/2026-10-maxine-yu-seminar/index.html#about-the-speaker",
+    "title": "Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions",
     "section": "About the Speaker",
-    "text": "About the Speaker\nCaihong Qin is a postdoctoral research fellow in the Department of Epidemiology and Biostatistics at Indiana University Bloomington. She received her PhD in Statistics from Shanghai University of Finance and Economics. Her research interests include functional data analysis, statistical machine learning, and applications of wearable device data.\nView the seminar flyer and full event page."
+    "text": "About the Speaker\nDr. Mengxin (Maxine) Yu is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis, where she joined the faculty in Fall 2025. Prior to joining WashU, she was a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania from 2023 to 2025, where she worked with Professor Dylan S. Small. She received her Ph.D. in Operations Research and Financial Engineering from Princeton University in 2023 under the supervision of Professor Jianqing Fan.\nHer research interests include ranking and preference learning with applications to large language model evaluation, uncertainty quantification for black-box machine learning predictions, causal inference, and statistical decision-making. Dr. Yu is an elected member of the International Statistical Institute (ISI). She has also received several honors and awards, including the IMS New Researcher Travel Award, the ASA Best Paper Award, and the SEAS Award for Excellence at Princeton University.\nView the seminar flyer and full event page."
   },
   {
     "objectID": "seminar2026fall.html",
@@ -1124,7 +1152,7 @@
     "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.08452282730867612)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.17407280752249002)"
   },
   {
     "objectID": "statcomputing/units/unit3.html#latex",
@@ -1145,7 +1173,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nDidong Li will present recent theoretical, methodological, and data-infrastructure directions for statistics in the age of artificial intelligence.\n\n\n\n\n\nSep 29, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nCall for Papers: Advanced Statistical Inference Methods and Their Applications\n\n\n\nnews\n\ncall for papers\n\nspecial issue\n\nstatistics\n\n\n\nA Special Issue of Mathematics welcomes research on advanced statistical inference for complex data. Manuscripts are due July 31, 2027.\n\n\n\n\n\nSep 27, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nXingche Guo will present MoFI-FLR, an RKHS-based framework for model-form identification in high-dimensional functional linear regression.\n\n\n\n\n\nSep 22, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nChao Cheng will present identification and multiply robust estimators for causal mediation analysis across principal strata.\n\n\n\n\n\nSep 15, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember variance information to improve spectral unmixing.\n\n\n\n\n\nSep 10, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nHonglang Wang will lead a workshop on conducting research with AI while preserving expert judgment and verification.\n\n\n\n\n\nSep 6, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nCaihong Qin will present a shared-basis neural-network approach to subject-specific density estimation.\n\n\n\n\n\nSep 1, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nYishan Cui successfully defended his thesis.\n\n\n\n\n\nApr 4, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nWe will have journal club in spring 2025 focusing on large language models.\n\n\n\n\n\nJan 7, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\n\nnews\n\n\n\nNice course projects for statistical computing and applied linear regression.\n\n\n\n\n\nDec 18, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nRan Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nRan Mo successfully defended his thesis.\n\n\n\n\n\nNov 1, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation at The Conference on Statistical Learning and Data Science 2024\n\n\n\nnews\n\n\n\nHonglang Wang will present the work on Dominant-Set Based Clustering For Functional Data\n\n\n\n\n\nOct 25, 2024\n\n\nASA\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nMaxine Yu will present SymmPI, a unified predictive-inference methodology for machine learning data with general group symmetries and observation models.\n\n\n\n\n\nOct 5, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nDidong Li will present recent theoretical, methodological, and data-infrastructure directions for statistics in the age of artificial intelligence.\n\n\n\n\n\nSep 29, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nCall for Papers: Advanced Statistical Inference Methods and Their Applications\n\n\n\nnews\n\ncall for papers\n\nspecial issue\n\nstatistics\n\n\n\nA Special Issue of Mathematics welcomes research on advanced statistical inference for complex data. Manuscripts are due July 31, 2027.\n\n\n\n\n\nSep 27, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nXingche Guo will present MoFI-FLR, an RKHS-based framework for model-form identification in high-dimensional functional linear regression.\n\n\n\n\n\nSep 22, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nChao Cheng will present identification and multiply robust estimators for causal mediation analysis across principal strata.\n\n\n\n\n\nSep 15, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nJordan Bryan will discuss nonlinear estimators that use endmember variance information to improve spectral unmixing.\n\n\n\n\n\nSep 10, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nHonglang Wang will lead a workshop on conducting research with AI while preserving expert judgment and verification.\n\n\n\n\n\nSep 6, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation\n\n\n\nnews\n\nevent\n\nseminar\n\n\n\nCaihong Qin will present a shared-basis neural-network approach to subject-specific density estimation.\n\n\n\n\n\nSep 1, 2026\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nYishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nYishan Cui successfully defended his thesis.\n\n\n\n\n\nApr 4, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nLang’s Journal Club: Large Language Models\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nWe will have journal club in spring 2025 focusing on large language models.\n\n\n\n\n\nJan 7, 2025\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 512/521 Course Projects Samples\n\n\n\nnews\n\n\n\nNice course projects for statistical computing and applied linear regression.\n\n\n\n\n\nDec 18, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nRan Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data\n\n\n\nnews\n\nevent\n\npresentation\n\n\n\nRan Mo successfully defended his thesis.\n\n\n\n\n\nNov 1, 2024\n\n\nHonglang Wang\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation at The Conference on Statistical Learning and Data Science 2024\n\n\n\nnews\n\n\n\nHonglang Wang will present the work on Dominant-Set Based Clustering For Functional Data\n\n\n\n\n\nOct 25, 2024\n\n\nASA\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",

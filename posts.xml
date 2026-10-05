@@ -15,7 +15,60 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 29 Sep 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-10-maxine-yu-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/MaxineYu/index.html"><img src="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Maxine Yu’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Mengxin (Maxine) Yu, Assistant Professor of Statistics and Data Science, Washington University in St.&nbsp;Louis</p>
+<p><strong>Talk time</strong>: Tuesday, October 13, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Quantifying the uncertainty of black-box machine learning predictions is a core problem in modern statistics. Methods for predictive inference have been developed under a variety of assumptions, often—for instance, in standard conformal prediction—relying on the invariance of the distribution of the data under special groups of transformations such as permutation groups. Moreover, many existing methods for predictive inference aim to predict unobserved outcomes in sequences of feature-outcome observations. Meanwhile, there is interest in predictive inference under more general observation models (e.g., for partially observed features) and for data satisfying more general distributional symmetries beyond exchangeability (e.g., network, rotationally invariant, data with hierarchical structure). Here, we propose <em>SymmPI</em>, a unified methodology for predictive inference when data distributions have general group symmetries in arbitrary observation models. Our methods leverage the novel notion of distributional equivariant transformations, which process the data while preserving their distributional invariances. We show that SymmPI has valid coverage under distributional invariance and characterize its performance under distribution shift, recovering recent results as special cases. These methodologies are particularly relevant for cluster-randomized trials in clinical settings, where prediction reliability is essential.</p>
+<p>If time permits, I will also briefly present our work on evaluating uncertainty and confidence measures in large language models. We introduce a novel method called <em>rank calibration</em>, which enables the identification of reliable uncertainty measures across a range of tasks and LLM models.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Mengxin (Maxine) Yu is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St.&nbsp;Louis, where she joined the faculty in Fall 2025. Prior to joining WashU, she was a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania from 2023 to 2025, where she worked with Professor Dylan S. Small. She received her Ph.D.&nbsp;in Operations Research and Financial Engineering from Princeton University in 2023 under the supervision of Professor Jianqing Fan.</p>
+<p>Her research interests include ranking and preference learning with applications to large language model evaluation, uncertainty quantification for black-box machine learning predictions, causal inference, and statistical decision-making. Dr.&nbsp;Yu is an elected member of the International Statistical Institute (ISI). She has also received several honors and awards, including the IMS New Researcher Travel Award, the ASA Best Paper Award, and the SEAS Award for Excellence at Princeton University.</p>
+<p><a href="../../seminars/MaxineYu/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-10-maxine-yu-seminar/</guid>
+  <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data</title>
   <dc:creator>Honglang Wang</dc:creator>
