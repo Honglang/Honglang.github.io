@@ -39,6 +39,8 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
+**[October 2026]** Congratulations to my PhD student Ran Mo on the acceptance of Ran Mo and **Honglang Wang**, "Outlier Resistant Inference for Conditional Average Treatment Effect," *Statistica Sinica*. Accepted October 4, 2026.
+
 **[July 2026]** Congratulations to my PhD student Yishan Cui on the acceptance of Yishan Cui and **Honglang Wang**, "Empirical likelihood-based efficient semiparametric inference for longitudinal data," *The Canadian Journal of Statistics*. Accepted July 10, 2026.
 
 

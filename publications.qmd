@@ -18,6 +18,10 @@ Total citations as of December 2024:
 
 ## Selected Work
 
+Ran Mo<sup>GS</sup>, **Honglang Wang**. 2026. Outlier Resistant Inference for Conditional Average Treatment Effect. *Statistica Sinica*. Accepted October 4, 2026.
+
+<center><hr style="width:50%"></center>
+
 Yishan Cui<sup>GS</sup>, **Honglang Wang**. 2026. Empirical likelihood-based efficient semiparametric inference for longitudinal data. *The Canadian Journal of Statistics*. Accepted July 10, 2026.
 
 <center><hr style="width:50%"></center>

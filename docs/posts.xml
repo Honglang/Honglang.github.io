@@ -14,8 +14,478 @@
 <title>Dr. Honglang Wang</title>
 <link>https://honglang.github.io/posts.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 04 Apr 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Mon, 05 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-10-maxine-yu-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/MaxineYu/index.html"><img src="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Maxine Yu’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Mengxin (Maxine) Yu, Assistant Professor of Statistics and Data Science, Washington University in St.&nbsp;Louis</p>
+<p><strong>Talk time</strong>: Tuesday, October 13, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Quantifying the uncertainty of black-box machine learning predictions is a core problem in modern statistics. Methods for predictive inference have been developed under a variety of assumptions, often—for instance, in standard conformal prediction—relying on the invariance of the distribution of the data under special groups of transformations such as permutation groups. Moreover, many existing methods for predictive inference aim to predict unobserved outcomes in sequences of feature-outcome observations. Meanwhile, there is interest in predictive inference under more general observation models (e.g., for partially observed features) and for data satisfying more general distributional symmetries beyond exchangeability (e.g., network, rotationally invariant, data with hierarchical structure). Here, we propose <em>SymmPI</em>, a unified methodology for predictive inference when data distributions have general group symmetries in arbitrary observation models. Our methods leverage the novel notion of distributional equivariant transformations, which process the data while preserving their distributional invariances. We show that SymmPI has valid coverage under distributional invariance and characterize its performance under distribution shift, recovering recent results as special cases. These methodologies are particularly relevant for cluster-randomized trials in clinical settings, where prediction reliability is essential.</p>
+<p>If time permits, I will also briefly present our work on evaluating uncertainty and confidence measures in large language models. We introduce a novel method called <em>rank calibration</em>, which enables the identification of reliable uncertainty measures across a range of tasks and LLM models.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Mengxin (Maxine) Yu is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St.&nbsp;Louis, where she joined the faculty in Fall 2025. Prior to joining WashU, she was a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania from 2023 to 2025, where she worked with Professor Dylan S. Small. She received her Ph.D.&nbsp;in Operations Research and Financial Engineering from Princeton University in 2023 under the supervision of Professor Jianqing Fan.</p>
+<p>Her research interests include ranking and preference learning with applications to large language model evaluation, uncertainty quantification for black-box machine learning predictions, causal inference, and statistical decision-making. Dr.&nbsp;Yu is an elected member of the International Statistical Institute (ISI). She has also received several honors and awards, including the IMS New Researcher Travel Award, the ASA Best Paper Award, and the SEAS Award for Excellence at Princeton University.</p>
+<p><a href="../../seminars/MaxineYu/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-10-maxine-yu-seminar/</guid>
+  <pubDate>Mon, 05 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-10-didong-li-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/DidongLi/index.html"><img src="https://honglang.github.io/posts/2026-10-didong-li-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Didong Li’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Didong Li, Assistant Professor of Biostatistics, University of North Carolina at Chapel Hill</p>
+<p><strong>Talk time</strong>: Tuesday, October 6, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Artificial Intelligence (AI) has surged in popularity, creating both opportunities and challenges for statistics. In this talk, I will present three recent directions from my lab that reflect our efforts to engage with the age of AI. First, I will discuss theoretical results for generative models, including statistical foundations connecting latent dimension, approximation error, and model complexity; robustness to data contamination during recursive training; and the effects of synthetic data on downstream tasks. Second, I will discuss a method that uses embeddings from large language models to enhance high-dimensional hypothesis testing, motivated by problems in cancer genomics where traditional methods are underpowered. I will also discuss extensions to genetic studies, for which we curated annotations for 8.9 billion genetic variants from the human genome, and obtained embeddings of these 8.9 billion variants for downstream tasks. Finally, I will switch to an infrastructural view, introducing STimage-1K4M, one of the first and largest publicly available spatial transcriptomics datasets curated by my group, consisting of 1,149 slides and more than 4 million pathology image–gene expression pairs across 50 tissue types. This resource has been downloaded over 290,000 times on Hugging Face and has facilitated the training of multiple foundation models.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Didong Li is an Assistant Professor of Biostatistics at the University of North Carolina at Chapel Hill. He received a PhD in Mathematics from Duke, completed postdoctoral training at Princeton Computer Science and UCLA Biostatistics, and was a visiting scholar at the Gladstone Institute. His research focuses on statistical and machine learning theory and methods for complex and high-dimensional biomedical and environmental data, specifically in manifold learning, nonparametric Bayes, generative AI, and spatial and spatiotemporal modeling. He has applied these methods to large-scale environmental exposures, electronic health records, and genomic and genetic data.</p>
+<p><a href="../../seminars/DidongLi/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-10-didong-li-seminar/</guid>
+  <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-10-didong-li-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Call for Papers: Advanced Statistical Inference Methods and Their Applications</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-mathematics-special-issue/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am serving as Guest Editor for the <em>Mathematics</em> Special Issue <strong>Advanced Statistical Inference Methods and Their Applications</strong>. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.</p>
+<div class="callout callout-style-default callout-important callout-titled" title="Manuscript submission deadline">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Manuscript submission deadline
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>July 31, 2027</strong></p>
+</div>
+</div>
+<p><a href="https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7" class="btn btn-primary">View the Special Issue</a> <a href="https://susy.mdpi.com/user/manuscripts/upload?journal=mathematics&amp;form%5Bspecial_issue_id%5D=291496" class="btn btn-outline-primary">Submit a manuscript</a></p>
+<section id="scope" class="level2">
+<h2 class="anchored" data-anchor-id="scope">Scope</h2>
+<p>Modern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.</p>
+<p>The Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:</p>
+<ul>
+<li>high-dimensional inference;</li>
+<li>frequentist and Bayesian methods;</li>
+<li>nonparametric and semiparametric inference;</li>
+<li>causal inference, robust methods, and distribution-free procedures;</li>
+<li>functional and longitudinal data analysis;</li>
+<li>survival analysis and methods for missing, censored, or error-prone data;</li>
+<li>resampling and simulation-based inference;</li>
+<li>inference after model selection and statistical learning; and</li>
+<li>applications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.</li>
+</ul>
+<p>Submissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses.</p>
+</section>
+<section id="what-to-submit" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-submit">What to submit</h2>
+<p>The Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.</p>
+<p><a href="https://www.mdpi.com/journal/mathematics/special_issues/LLENL84XY7/abstract" class="btn btn-outline-primary">Submit an abstract</a></p>
+</section>
+<section id="guest-editor" class="level2">
+<h2 class="anchored" data-anchor-id="guest-editor">Guest Editor</h2>
+<p><strong>Dr.&nbsp;Honglang Wang</strong><br> Department of Mathematical Sciences, School of Science<br> Indiana University Indianapolis<br> <script type="text/javascript">
+<!--
+h='&#x69;&#x75;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#104;&#108;&#x77;&#x61;&#110;&#x67;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>hlwang at iu dot edu</noscript></p>
+<p>My research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics.</p>
+</section>
+<section id="shareable-flyers" class="level2">
+<h2 class="anchored" data-anchor-id="shareable-flyers">Shareable flyers</h2>
+<p>Click a flyer to open the corresponding PDF.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="mathematics-special-issue-flyer-en.pdf"><img src="https://honglang.github.io/posts/2026-09-mathematics-special-issue/flyer-en.webp" class="img-fluid figure-img"></a></p>
+<figcaption>English-language call-for-papers flyer for the Mathematics Special Issue</figcaption>
+</figure>
+</div>
+<p><a href="mathematics-special-issue-flyer-en.pdf" class="btn btn-outline-primary">Download the English flyer</a></p>
+</div>
+<div class="g-col-12 g-col-md-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="mathematics-special-issue-flyer-zh.pdf"><img src="https://honglang.github.io/posts/2026-09-mathematics-special-issue/flyer-zh.webp" class="img-fluid figure-img"></a></p>
+<figcaption>Chinese-language call-for-papers flyer for the Mathematics Special Issue</figcaption>
+</figure>
+</div>
+<p><a href="mathematics-special-issue-flyer-zh.pdf" class="btn btn-outline-primary">Download the Chinese flyer</a></p>
+</div>
+</div>
+</section>
+<section id="before-submitting" class="level2">
+<h2 class="anchored" data-anchor-id="before-submitting">Before submitting</h2>
+<p>Please review the journal’s current <a href="https://www.mdpi.com/journal/mathematics/instructions">instructions for authors</a>, <a href="https://www.mdpi.com/journal/mathematics/apc">article processing charge</a>, and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>call for papers</category>
+  <category>special issue</category>
+  <category>statistics</category>
+  <guid>https://honglang.github.io/posts/2026-09-mathematics-special-issue/</guid>
+  <pubDate>Sun, 27 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-mathematics-special-issue/social-card.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>Statistics Seminar: Model Form Identification in High-Dimensional Functional Linear Regressions</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-xingche-guo-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/XingcheGuo/index.html"><img src="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Xingche Guo’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Xingche Guo, Assistant Professor, Department of Statistics, University of Connecticut</p>
+<p><strong>Talk time</strong>: Tuesday, September 29, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>High-dimensional functional data are becoming increasingly common in fields such as environmental monitoring and neuroimaging. This paper studies high-dimensional functional linear regression models that relate a scalar response to ultra-high-dimensional functional predictors, where each predictor is treated as a random element in an infinite-dimensional functional space. To address the dual challenges of high-dimensionality and model interpretability, we propose MoFI-FLR, a novel two-step estimation framework rooted in reproducing kernel Hilbert space (RKHS) theory. The first step employs a functional elastic-net penalty to screen out irrelevant covariates, while the second step decomposes each selected predictor’s functional coefficient into an interpretable finite-dimensional simple component and an infinite-dimensional complementary complement. By penalizing only the complementary component, our method automatically distinguishes simple effects, which consist only of the simple component, from complex effects, which also include complementary deviations. Under mild regularity conditions, we establish non-asymptotic theoretical guarantees, demonstrating that MoFI-FLR consistently recovers the active covariates and accurately identifies their true functional forms. We develop a computationally efficient algorithm to implement the proposed method and evaluate its performance through comprehensive simulation studies and an application to Psychomotor Vigilance Task EEG data.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Dr.&nbsp;Xingche Guo is an Assistant Professor in the Department of Statistics at the University of Connecticut. He received his Ph.D.&nbsp;in Statistics from Iowa State University and completed postdoctoral training at Columbia University. His research focuses on statistical machine learning, functional data analysis, and latent variable models and generative models, with applications to human behavior, neuroimaging, and mental health.</p>
+<p><a href="../../seminars/XingcheGuo/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-xingche-guo-seminar/</guid>
+  <pubDate>Tue, 22 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-chao-cheng-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/ChaoCheng/index.html"><img src="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Chao Cheng’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Chao Cheng, Assistant Professor, Department of Statistics and Data Science, Washington University in St.&nbsp;Louis</p>
+<p><strong>Talk time</strong>: Tuesday, September 22, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>We consider assessing causal mediation in the presence of a posttreatment event (examples include noncompliance, a clinical event, or death). We identify natural mediation effects for the entire study population and for each principal stratum characterized by the joint potential values of the posttreatment event. We derive the efficient influence function for each mediation estimand, which motivates a set of multiply robust estimators for inference. The multiply robust estimators are consistent under four types of misspecifications and are efficient when all nuisance models are correctly specified. We also develop a nonparametric efficient estimator that leverages data-adaptive machine learners to achieve efficient inference and discuss sensitivity methods to address key identification assumptions. We illustrate our methods via simulations and two real data examples.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Chao Cheng is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St.&nbsp;Louis. His current research focuses on causal inference, including mediation analysis, principal stratification, and quantile causal inference. Beyond causal inference, he is also interested in measurement error correction and epidemiological methods, as well as applications of these methods in health research.</p>
+<p><a href="../../seminars/ChaoCheng/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-chao-cheng-seminar/</guid>
+  <pubDate>Tue, 15 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/JordanBryan/index.html"><img src="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Jordan Bryan’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Jordan Bryan, Assistant Professor of Data Science, School of Data Science, University of Virginia</p>
+<p><strong>Talk time</strong>: Tuesday, September 15, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Spectral data from the biological and environmental sciences often consist of a mixed signal vector, which is composed of a weighted sum of random, unobserved endmember vectors. Such a mixed signal has a mean and a variance that both depend on the unknown weights, which represent the contribution of each endmember to the total signal. Linear estimates of the weights based on the mean model are often used, but these are likely to be inefficient, and could be improved upon by estimates that also make use of the variance model. In the context of a latent factor model for source variability, we calculate theoretically how much information is available in the variance model, and demonstrate how this information may stabilize inference in the case of an ill-conditioned mean model. We further propose nonlinear estimators that make use of the variance model information. We show using data collected in water quality monitoring, bacterial imaging, and remote sensing contexts that utilization of the variance model improves estimation of the mixing weights.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Jordan Bryan is an Assistant Professor of Data Science at the School of Data Science at the University of Virginia. He has studied and developed statistical methods in the fields of environmental monitoring, high-energy physics, and cancer genomics. His research interests include Bayesian statistics, robust estimation, and information-assisted hypothesis testing.</p>
+<p>Prior to joining the faculty at UVA, he was a postdoctoral researcher at the University of North Carolina at Chapel Hill, where he was supported by training grants from the National Institute of Environmental Health Sciences (NIEHS) and the National Heart Lung and Blood Institute (NHLBI). He also worked as an associate computational biologist at the Broad Institute of MIT and Harvard. From 2024-2026 he served as the Secretary of the junior section of the International Society for Bayesian Analysis. He received his Ph.D.&nbsp;in Statistics from Duke University in 2023.</p>
+<p><a href="../../seminars/JordanBryan/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/</guid>
+  <pubDate>Thu, 10 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-honglang-wang-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/HonglangWang/index.html"><img src="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Honglang Wang’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Honglang Wang, Associate Professor, Department of Mathematical Sciences, Indiana University Indianapolis</p>
+<p><strong>Talk time</strong>: Tuesday, September 8, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Location</strong>: Seminar room LD 265, IU Indianapolis</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>AI collapses the cost of <em>execution</em>. It does not collapse the cost of <em>judgment</em> — and a PhD was always mostly judgment: what to work on, what counts as evidence, when to stop. Execution was the visible part, and it is the part that just got cheap. So the ratio has shifted, and judgment is now the whole job, earlier in a career than it used to be.</p>
+<p>This workshop is about working that way deliberately. <strong>Part I</strong> covers what does not change: research as a search problem, where AI raises your sampling rate but does not improve your gradient; the two phases of a research career, and why compressing the first one costs you the repetitions that used to build taste as a side effect; and the evidence on cognitive debt, read the way statisticians should read it — limitations included.</p>
+<p><strong>Part II</strong> rewires the research loop stage by stage — reading, ideating, experimenting, verifying, writing — each with the AI layer that genuinely helps and the failure mode specific to it. It also supplies vocabulary most students are missing: prompt, context, harness, loop, and graph, and what each one actually governs.</p>
+<p><strong>Part III</strong> is the lab workflow end to end, laptop to IU Quartz, with a live demo that begins from a vague question and shows the four expert redirections that turn it into a defensible simulation study.</p>
+<p>One rule organizes all of it: <strong>AI may do the work you can check.</strong></p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Honglang Wang is an Associate Professor in the Department of Mathematical Sciences, School of Science, Indiana University Indianapolis. He received his PhD in Statistics from Michigan State University in 2015. His research spans longitudinal and functional data analysis, high-dimensional inference, causal inference, machine learning/deep learning, nonparametric statistics, empirical likelihood, and statistical genetics and genomics.</p>
+<p><a href="../../seminars/HonglangWang/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-honglang-wang-seminar/</guid>
+  <pubDate>Sun, 06 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-09-caihong-qin-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/CaihongQin/index.html"><img src="https://honglang.github.io/posts/2026-09-caihong-qin-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Caihong Qin’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Caihong Qin, Postdoctoral Research Fellow, Department of Epidemiology and Biostatistics, Indiana University Bloomington</p>
+<p><strong>Talk time</strong>: Tuesday, September 1, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Dense repeated measurements from wearable devices and sensing technologies provide rich information about individual behavioral and physiological patterns, but common summaries or smoothed trajectories may miss distributional features relevant to health outcomes. For example, individuals with similar mean glucose may differ substantially in variability or exposure to extreme levels. Subject-specific densities capture such differences, but commonly used methods estimate each subject’s density separately and therefore do not learn or exploit structure shared across subjects. Additionally, measurement error in wearable recordings can further obscure latent distributions. We develop a density function neural network for estimating subject-specific densities while learning shared structure across subjects. Applications to continuous glucose monitoring and wearable physical activity data illustrate how subject-specific densities can provide information beyond conventional summaries for health prediction and association analyses.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Caihong Qin is a postdoctoral research fellow in the Department of Epidemiology and Biostatistics at Indiana University Bloomington. She received her PhD in Statistics from Shanghai University of Finance and Economics. Her research interests include functional data analysis, statistical machine learning, and applications of wearable device data.</p>
+<p><a href="../../seminars/CaihongQin/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-09-caihong-qin-seminar/</guid>
+  <pubDate>Tue, 01 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-09-caihong-qin-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models</title>
   <dc:creator>Honglang Wang</dc:creator>
@@ -193,6 +663,15 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://honglang.github.io/posts/2024-11-ran-mo-defense/</guid>
   <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
   <media:content url="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Presentation at The Conference on Statistical Learning and Data Science 2024</title>
+  <link>https://honglang.github.io/</link>
+  <description>Honglang Wang will present the work on Dominant-Set Based Clustering For Functional Data</description>
+  <category>news</category>
+  <guid>https://honglang.github.io/</guid>
+  <pubDate>Fri, 25 Oct 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/files/images/asa.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

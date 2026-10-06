@@ -46,7 +46,7 @@
     "href": "publications.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\nYishan CuiGS, Honglang Wang. 2026. Empirical likelihood-based efficient semiparametric inference for longitudinal data. The Canadian Journal of Statistics. Accepted July 10, 2026.\n\n\n\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
+    "text": "Selected Work\nRan MoGS, Honglang Wang. 2026. Outlier Resistant Inference for Conditional Average Treatment Effect. Statistica Sinica. Accepted October 4, 2026.\n\n\n\nYishan CuiGS, Honglang Wang. 2026. Empirical likelihood-based efficient semiparametric inference for longitudinal data. The Canadian Journal of Statistics. Accepted July 10, 2026.\n\n\n\nShuoyang Wang, Honglang Wang, Yichuan Zhao, Guanqun Cao*, Yingru Li. 2023. [Empirical Likelihood Ratio Tests for Varying Coefficient Geo Models]. Statistica Sinica 33, 1093-1114. doi: 10.5705/ss.202021.0233. [pdf] \n\n\n\n\n\n\nRuohong LiGS, Honglang Wang, Yi Zhao, Jing Su, Wanzhu Tu*. 2023. [Robust estimation of heterogeneous treatment effects: an algorithm-based approach]. Communications in Statistics-Simulation and Computation 52(10), 4981-4998. doi: 10.1080/03610918.2021.1974883. [pdf] \n\n\n\n\n\n\nHonglang Wang, Jingyi Zhang, Kelly L. Klump, S. Alexandra Burt, Yuehua Cui*. 2022. [Multivariate partial linear varying coefficients model for gene-environment interactions with multiple longitudinal traits]. Statistics in Medicine 41(19), 3643-3660. doi: 10.1002/sim.9440. [pdf] \n\n\n\n\n\n\nWenzhe Jiao, Lixin Wang*, William K. Smith, Qing Chang, Honglang Wang, Paolo D’Odorico. 2021. [Observed increasing water constraint on vegetation growth over the last three decades]. * Nature Communications* 12(1), 3777. doi: 10.1038/s41467-021-24016-9. [pdf] \n\n\n\nIU News\n\n\n\nRuohong LiGS, Honglang Wang, Wanzhu Tu*. 2021. [Robust Estimation of Heterogeneous Treatment Effect using Electronic Health Record Data]. Statistics in Medicine 40 (11), 2713-2752. doi: 10.1002/sim.8926. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui. 2018. [Empirical Likelihood Ratio Tests for Coefficients in High Dimensional Heteroscedastic Linear Models]. Statistica Sinica 28, 2409-2433. doi: 10.5705/ss.202017.0041. [pdf] \n\n\n\n\n\n\nHonglang Wang, Ping-Shou Zhong*, Yuehua Cui, Yehua Li. 2018. [Unified empirical likelihood ratio tests for functional concurrent linear models and the phase transition from sparse to dense functional data]. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.2: 343-364. doi: 10.1111/rssb.12246. [pdf] \n\n\n\n\n\n\nFang Han, Hongkai Ji, Zhicheng Ji, Honglang Wang. 2017. [A provable smoothing approach for high dimensional generalized regression with applications in genomics]. Electronic Journal of Statistics 11(2): 4347-4403. doi: 10.1214/17-EJS1352. [pdf]"
   },
   {
     "objectID": "publications.html#peer-reviewed-journal-paper",
@@ -1824,7 +1824,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "[July 2026] Congratulations to my PhD student Yishan Cui on the acceptance of Yishan Cui and Honglang Wang, “Empirical likelihood-based efficient semiparametric inference for longitudinal data,” The Canadian Journal of Statistics. Accepted July 10, 2026.\n[Feb 2025] Isaac Manring, Honglang Wang, George Mohler, Xenia Miscouridou. BSTPP: A Python Package for Bayesian Spatiotemporal Point Processes. Journal of Applied Statistics\n[Jan 2025] Jingyi Zhang, Honglang Wang, Yuehua Cui. Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits. Plos One\n[Jan 2025] Jingyi Zhang, Xu Liu, Honglang Wang, Yuehua Cui. Functional varying-index coefficients model for dynamic synergistic gene-environment interactions. Statistics in Biosciences"
+    "text": "[September 2026] I am serving as Guest Editor for the Mathematics Special Issue Advanced Statistical Inference Methods and Their Applications. The issue welcomes theoretical, methodological, computational, and applied work on statistical inference for complex data.\nManuscript submission deadline: July 31, 2027\nRead the call for papers View the Special Issue"
   },
   {
     "objectID": "news.html#presentations",
@@ -1949,8 +1949,8 @@
     "objectID": "news.html#papers-publication",
     "href": "news.html#papers-publication",
     "title": "News",
-    "section": "",
-    "text": "[July 2026] Congratulations to my PhD student Yishan Cui on the acceptance of Yishan Cui and Honglang Wang, “Empirical likelihood-based efficient semiparametric inference for longitudinal data,” The Canadian Journal of Statistics. Accepted July 10, 2026.\n[Feb 2025] Isaac Manring, Honglang Wang, George Mohler, Xenia Miscouridou. BSTPP: A Python Package for Bayesian Spatiotemporal Point Processes. Journal of Applied Statistics\n[Jan 2025] Jingyi Zhang, Honglang Wang, Yuehua Cui. Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits. Plos One\n[Jan 2025] Jingyi Zhang, Xu Liu, Honglang Wang, Yuehua Cui. Functional varying-index coefficients model for dynamic synergistic gene-environment interactions. Statistics in Biosciences"
+    "section": "Papers Publication",
+    "text": "Papers Publication\n\n\n\n\n\n[October 2026] Congratulations to my PhD student Ran Mo on the acceptance of Ran Mo and Honglang Wang, “Outlier Resistant Inference for Conditional Average Treatment Effect,” Statistica Sinica. Accepted October 4, 2026.\n[July 2026] Congratulations to my PhD student Yishan Cui on the acceptance of Yishan Cui and Honglang Wang, “Empirical likelihood-based efficient semiparametric inference for longitudinal data,” The Canadian Journal of Statistics. Accepted July 10, 2026.\n[Feb 2025] Isaac Manring, Honglang Wang, George Mohler, Xenia Miscouridou. BSTPP: A Python Package for Bayesian Spatiotemporal Point Processes. Journal of Applied Statistics\n[Jan 2025] Jingyi Zhang, Honglang Wang, Yuehua Cui. Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits. Plos One\n[Jan 2025] Jingyi Zhang, Xu Liu, Honglang Wang, Yuehua Cui. Functional varying-index coefficients model for dynamic synergistic gene-environment interactions. Statistics in Biosciences"
   },
   {
     "objectID": "teaching.html#capstone-projects",
@@ -2840,5 +2840,54 @@
     "title": "Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions",
     "section": "About the Speaker",
     "text": "About the Speaker\nDr. Mengxin (Maxine) Yu is an Assistant Professor in the Department of Statistics and Data Science at Washington University in St. Louis, where she joined the faculty in Fall 2025. Prior to joining WashU, she was a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the Wharton School of the University of Pennsylvania from 2023 to 2025, where she worked with Professor Dylan S. Small. She received her Ph.D. in Operations Research and Financial Engineering from Princeton University in 2023 under the supervision of Professor Jianqing Fan.\nHer research interests include ranking and preference learning with applications to large language model evaluation, uncertainty quantification for black-box machine learning predictions, causal inference, and statistical decision-making. Dr. Yu is an elected member of the International Statistical Institute (ISI). She has also received several honors and awards, including the IMS New Researcher Travel Award, the ASA Best Paper Award, and the SEAS Award for Excellence at Princeton University.\nView the seminar flyer and full event page."
+  },
+  {
+    "objectID": "news.html#call-for-papers",
+    "href": "news.html#call-for-papers",
+    "title": "News",
+    "section": "",
+    "text": "[September 2026] I am serving as Guest Editor for the Mathematics Special Issue Advanced Statistical Inference Methods and Their Applications. The issue welcomes theoretical, methodological, computational, and applied work on statistical inference for complex data.\nManuscript submission deadline: July 31, 2027\nRead the call for papers View the Special Issue"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html",
+    "href": "posts/2026-09-mathematics-special-issue/index.html",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "",
+    "text": "I am serving as Guest Editor for the Mathematics Special Issue Advanced Statistical Inference Methods and Their Applications. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.\nView the Special Issue Submit a manuscript"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#scope",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#scope",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Scope",
+    "text": "Scope\nModern datasets are often high-dimensional, heterogeneous, dependent, censored, measured with error, or incompletely observed. These features complicate estimation, hypothesis testing, uncertainty quantification, variable selection, and causal interpretation. Noise and model misspecification can also weaken standard asymptotic approximations and parametric procedures.\nThe Special Issue seeks work that develops or applies reliable inferential methods for these settings. Topics include:\n\nhigh-dimensional inference;\nfrequentist and Bayesian methods;\nnonparametric and semiparametric inference;\ncausal inference, robust methods, and distribution-free procedures;\nfunctional and longitudinal data analysis;\nsurvival analysis and methods for missing, censored, or error-prone data;\nresampling and simulation-based inference;\ninference after model selection and statistical learning; and\napplications in biostatistics, bioinformatics, engineering, environmental science, finance, and the social sciences.\n\nSubmissions should identify the inferential target and assumptions, quantify uncertainty, and evaluate the proposed methods through mathematical theory, simulation studies, or real-data analyses."
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#what-to-submit",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "What to submit",
+    "text": "What to submit\nThe Special Issue welcomes original research articles, focused reviews, and short communications. Authors who are planning a paper may also submit a title and an abstract of approximately 250 words to the Editorial Office for an initial assessment.\nSubmit an abstract"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#guest-editor",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Guest Editor",
+    "text": "Guest Editor\nDr. Honglang Wang Department of Mathematical Sciences, School of Science Indiana University Indianapolis hlwang at iu dot edu\nMy research interests include high-dimensional statistical inference, nonparametric statistics, functional and longitudinal data analysis, machine learning and deep learning, causal inference, and statistical genetics and genomics."
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#shareable-flyers",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Shareable flyers",
+    "text": "Shareable flyers\nClick a flyer to open the corresponding PDF.\n\n\n\n\n\nEnglish-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the English flyer\n\n\n\n\n\nChinese-language call-for-papers flyer for the Mathematics Special Issue\n\n\nDownload the Chinese flyer"
+  },
+  {
+    "objectID": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
+    "href": "posts/2026-09-mathematics-special-issue/index.html#before-submitting",
+    "title": "Call for Papers: Advanced Statistical Inference Methods and Their Applications",
+    "section": "Before submitting",
+    "text": "Before submitting\nPlease review the journal’s current instructions for authors, article processing charge, and Special Issue page before preparing a manuscript. Accepted papers are published open access and added to the Special Issue as they become available."
   }
 ]
