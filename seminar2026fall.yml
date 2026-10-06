@@ -40,12 +40,12 @@
       author: Fall Break
 
     - date: Oct 27, 2026
-      author: Rasika Balasuriya
+      author: Yuchen Liang
       title: TBD
-      description: IU Indianapolis (internal)
+      description: "[Assistant Professor, Luddy School of Informatics, Computing, and Engineering, Indiana University Indianapolis](https://yuchenliang1.github.io/)"
 
     - date: Nov 03, 2026
-      author: Yu Chen
+      author: Rasika Balasuriya
       title: TBD
       description: IU Indianapolis (internal)
 
@@ -66,5 +66,10 @@
 
     - date: Dec 01, 2026
       author: Chen Cheng
+      title: TBD
+      description: IU Indianapolis (internal)
+
+    - date: Dec 08, 2026
+      author: Yu Chen
       title: TBD
       description: IU Indianapolis (internal)
