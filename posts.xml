@@ -15,7 +15,58 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.19</generator>
-<lastBuildDate>Mon, 05 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Inference-Time Alignment of Diffusion Models: Efficient Sampling and Tail-Risk Control</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/YuchenLiang/index.html"><img src="https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Yuchen Liang’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Yuchen Liang, Assistant Professor of Computer Science, Luddy School of Informatics, Computing, and Engineering, Indiana University Indianapolis</p>
+<p><strong>Talk time</strong>: Tuesday, October 27, 2026, 12:15–1:15 PM Eastern Time</p>
+<p><strong>Online via Zoom</strong>: Join from a computer or mobile device using <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>, or use Meeting ID <strong>845 0989 4694</strong> with Password <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Diffusion generative models produce realistic images, text, and other complex data, but downstream applications require specific desirable properties. Inference-time alignment steers pretrained diffusion models without fine-tuning, yet can be computationally expensive and leave undesirable tail outcomes uncontrolled. This talk addresses two complementary goals for inference-time alignment of diffusion models: efficiency and reliability. For efficiency, we introduce Learnable Chernoff Baseline (LCB) for sampling from the exponentially tilted transitions arising in Kullback-Leibler-regularized reward (or cost) alignment. Using black-box sampling access to the pretrained model, LCB adapts rejection-sampling thresholds to balance computational cost and accuracy. We establish total-variation error bounds relative to the ideal aligned distribution. Experiments on synthetic Gaussian mixtures and text generation show that LCB achieves alignment performance comparable to exact rejection sampling while requiring substantially fewer queries to the pretrained model. For reliability, we develop a risk-averse framework balancing expected cost and Conditional Value-at-Risk (CVaR). Characterizing the optimal aligned distribution reduces the problem to a one-dimensional threshold optimization. We study its convexity and introduce quadratic regularization for efficient derivative-free optimization. Under suitable assumptions, we further derive finite-sample guarantees for threshold and value estimation, which yield an end-to-end sample-complexity guarantee relative to the regularized target under exact tilted sampling. Experiments on synthetic Cauchy mixtures and image generation demonstrate improved tail performance, with the mean-tail trade-off varying across samplers and experimental settings.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Yuchen Liang is an Assistant Professor of Computer Science in the Luddy School of Informatics, Computing, and Engineering at Indiana University Indianapolis. Previously, he was an AI-EDGE Postdoctoral Researcher at The Ohio State University. He received his Ph.D.&nbsp;in Electrical and Computer Engineering from the University of Illinois Urbana-Champaign in 2023. His research focuses on diffusion models, inference-time alignment, and statistical inference, with an emphasis on theoretical foundations and methods for efficient and reliable generative modeling. His work has appeared in NeurIPS, ICLR, AISTATS, IEEE Transactions on Information Theory, and IEEE Transactions on Signal Processing.</p>
+<p><a href="../../seminars/YuchenLiang/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/</guid>
+  <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions</title>
   <dc:creator>Honglang Wang</dc:creator>
