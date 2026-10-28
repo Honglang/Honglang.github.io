@@ -15,7 +15,58 @@
 <link>https://honglang.github.io/posts.html</link>
 </image>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Wed, 21 Oct 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: When Should You Stop? From Playing Cards to Optimal Stopping and Stochastic Optimization.</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/</link>
+  <description><![CDATA[
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/RasikaBalasuriya/index.html"><img src="https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Rasika K. Balasuriya’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Rasika K. Balasuriya, Ph.D.&nbsp;Student, Department of Mathematical Sciences, IU Indianapolis</p>
+<p><strong>Talk time</strong>: November 3, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Location</strong>: Seminar room LD 265, IU Indianapolis (in person).</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>When should we stop, and when is it better to continue? This simple question arises in many real-world situations involving uncertainty, risk, and sequential decision-making.</p>
+<p>In this talk, we explore the mathematical theory of optimal stopping through an interactive card game. We begin with a deck containing three red and three black cards, where each red card earns $1, and each black card loses $1. Cards are drawn without replacement, and the player may stop at any time to maximize the expected reward.</p>
+<p>Using conditional probabilities, recursive value functions, and backward induction, we determine the optimal strategy at every possible state. We then extend the problem to a standard 52-card deck and investigate how the optimal decisions form a stopping boundary separating the regions where continuing or stopping is preferable. Numerical computations and a quadratic approximation provide further insight into the structure of this boundary.</p>
+<p>Finally, we explore extensions involving different deck compositions, reward structures, and game-design strategies, raising new questions about stochastic optimization from both the player’s and the house’s perspectives.</p>
+<p>Through mathematical analysis, visualizations, and interactive demonstrations, this presentation illustrates how a simple card game can lead to deeper questions in probability, decision theory, and optimal stopping.</p>
+<p><a href="../../seminars/RasikaBalasuriya/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/</guid>
+  <pubDate>Wed, 28 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Statistics Seminar: Inference-Time Alignment of Diffusion Models: Efficient Sampling and Tail-Risk Control</title>
   <dc:creator>Honglang Wang</dc:creator>
