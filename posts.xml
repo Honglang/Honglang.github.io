@@ -13,9 +13,63 @@
 <url>https://honglang.github.io/files/profile/honglangwang.JPG</url>
 <title>Dr. Honglang Wang</title>
 <link>https://honglang.github.io/posts.html</link>
+<height>108</height>
+<width>144</width>
 </image>
-<generator>quarto-1.10.19</generator>
-<lastBuildDate>Wed, 28 Oct 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: Propensity Score Propagation: A General Framework for Design-Based Inference with Unknown Propensity Scores</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-11-siyu-heng-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/SiyuHeng/index.html"><img src="https://honglang.github.io/posts/2026-11-siyu-heng-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Siyu Heng’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Siyu Heng, <a href="https://www.hengsiyu.com/">Assistant Professor of Biostatistics, New York University</a></p>
+<p><strong>Talk time</strong>: November 10, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Meeting format</strong>: Online via <a href="https://iu.zoom.us/j/84509894694?pwd=K1F1c3JickhKREgwd3luellRVVpSUT09">Zoom</a>. Meeting ID: <strong>845 0989 4694</strong>. Password: <strong>113959</strong>.</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Design-based inference, also known as randomization-based or finite-population inference, provides a principled framework for trustworthy statistical inference. It attributes randomness solely to the design mechanism, such as treatment assignment, survey sampling, or missingness, without imposing super-population distributional or modeling assumptions on the outcome data. From the seminal work of Fisher and Neyman to its recent resurgence, design-based inference has played a central role in causal inference, survey sampling, and missing data analysis. However, its use in many modern applications has been limited by a fundamental obstacle: existing design-based inference methods typically assume that propensity scores (i.e., design probabilities) are known, whereas in observational studies, real-world surveys, missing data problems, and many other settings, propensity scores are usually unknown and must be estimated from data. We propose propensity score propagation, a general framework for valid design-based inference with unknown propensity scores. The framework uses a regeneration-and-union procedure to propagate uncertainty from propensity score estimation into downstream design-based inference without introducing super-population assumptions about the outcomes. It accommodates both parametric and nonparametric propensity score estimation, supports flexible machine learning estimators, integrates seamlessly with existing design-based inference methods developed for settings with known propensity scores, and applies broadly across design-based problems. Theoretical and simulation results show that the proposed framework achieves nominal coverage, even when existing approaches exhibit substantial under-coverage.</p>
+</section>
+<section id="about-the-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h2>
+<p>Siyu Heng, PhD, is an Assistant Professor in the Department of Biostatistics, with an interest in both methodology and applied research. His areas of expertise are in causal inference, health data science, observational studies, randomized trials, sensitivity analysis, instrumental variables, measurement error, and survey data, and their applications in public health. Dr.&nbsp;Heng received his PhD in Applied Mathematics and Computational Science from the University of Pennsylvania.</p>
+<p><a href="../../seminars/SiyuHeng/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<p><a href="../../seminar2026fall.html">View the Fall 2026 seminar schedule</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-11-siyu-heng-seminar/</guid>
+  <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-11-siyu-heng-seminar/profile.jpg" medium="image" type="image/jpeg" height="145" width="144"/>
+</item>
 <item>
   <title>Statistics Seminar: When Should You Stop? From Playing Cards to Optimal Stopping and Stochastic Optimization.</title>
   <dc:creator>Honglang Wang</dc:creator>
@@ -65,7 +119,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/</guid>
   <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-11-rasika-balasuriya-seminar/profile.jpg" medium="image" type="image/jpeg" height="179" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Inference-Time Alignment of Diffusion Models: Efficient Sampling and Tail-Risk Control</title>
@@ -116,7 +170,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/</guid>
   <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-10-yuchen-liang-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Uncertainty Quantification for Modern Machine Learning Predictions</title>
@@ -169,7 +223,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-10-maxine-yu-seminar/</guid>
   <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-10-maxine-yu-seminar/profile.jpg" medium="image" type="image/jpeg" height="96" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Statistics in the Age of AI: Theory, Methods, and Data</title>
@@ -220,7 +274,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-10-didong-li-seminar/</guid>
   <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-10-didong-li-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-10-didong-li-seminar/profile.jpg" medium="image" type="image/jpeg" height="160" width="144"/>
 </item>
 <item>
   <title>Call for Papers: Advanced Statistical Inference Methods and Their Applications</title>
@@ -232,7 +286,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 <p>I am serving as Guest Editor for the <em>Mathematics</em> Special Issue <strong>Advanced Statistical Inference Methods and Their Applications</strong>. The issue welcomes theoretical, methodological, computational, and applied research on statistical inference for complex data.</p>
-<div class="callout callout-style-default callout-important callout-titled" title="Manuscript submission deadline">
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -377,7 +431,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-09-xingche-guo-seminar/</guid>
   <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-09-xingche-guo-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Identification and multiply robust estimation in causal mediation analysis across principal strata</title>
@@ -428,7 +482,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-09-chao-cheng-seminar/</guid>
   <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-09-chao-cheng-seminar/profile.jpg" medium="image" type="image/jpeg" height="143" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Efficient Use of Endmember Variability for Spectral Unmixing</title>
@@ -480,7 +534,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/</guid>
   <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-09-jordan-bryan-seminar/profile.jpg" medium="image" type="image/jpeg" height="194" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: How to Do Research in the AI Age: A Guide for PhD Students</title>
@@ -535,7 +589,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-09-honglang-wang-seminar/</guid>
   <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-09-honglang-wang-seminar/profile.jpg" medium="image" type="image/jpeg" height="108" width="144"/>
 </item>
 <item>
   <title>Statistics Seminar: Adaptive Shared-Basis Learning for Subject-Specific Density Estimation</title>
@@ -586,7 +640,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>seminar</category>
   <guid>https://honglang.github.io/posts/2026-09-caihong-qin-seminar/</guid>
   <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2026-09-caihong-qin-seminar/profile.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2026-09-caihong-qin-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
 </item>
 <item>
   <title>Yishan Cui Thesis Defense: Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models</title>
@@ -633,7 +687,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>presentation</category>
   <guid>https://honglang.github.io/posts/2025-04-yishan-cui-defense/</guid>
   <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2025-04-yishan-cui-defense/defense.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2025-04-yishan-cui-defense/defense.jpg" medium="image" type="image/jpeg" height="108" width="144"/>
 </item>
 <item>
   <title>Lang’s Journal Club: Large Language Models</title>
@@ -717,7 +771,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <guid>https://honglang.github.io/posts/2024-12-course-projects-samples/</guid>
   <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2024-12-course-projects-samples/Indiana-University-Indianapolis.jpg" medium="image" type="image/jpeg" height="81" width="144"/>
 </item>
 <item>
   <title>Ran Mo Thesis Defense: Robust inference for heterogeneous treatment effects with applications to NHANES Data</title>
@@ -764,7 +818,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>presentation</category>
   <guid>https://honglang.github.io/posts/2024-11-ran-mo-defense/</guid>
   <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/posts/2024-11-ran-mo-defense/mo-defense.jpg" medium="image" type="image/jpeg" height="192" width="144"/>
 </item>
 <item>
   <title>Presentation at The Conference on Statistical Learning and Data Science 2024</title>
@@ -773,7 +827,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <guid>https://honglang.github.io/</guid>
   <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://honglang.github.io/files/images/asa.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://honglang.github.io/files/images/asa.jpg" medium="image" type="image/jpeg" height="68" width="144"/>
 </item>
 </channel>
 </rss>
