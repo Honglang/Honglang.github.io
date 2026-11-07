@@ -410,7 +410,7 @@
     "href": "statcomputing/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.16109922977032096)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.10838559079342293)"
   },
   {
     "objectID": "statcomputing/units/unit1.html#latex",
@@ -725,7 +725,7 @@
     "href": "posts/2026-11-siyu-heng-seminar/index.html#about-the-speaker",
     "title": "Statistics Seminar: Propensity Score Propagation: A General Framework for Design-Based Inference with Unknown Propensity Scores",
     "section": "About the Speaker",
-    "text": "About the Speaker\nSiyu Heng, PhD, is an Assistant Professor in the Department of Biostatistics, with an interest in both methodology and applied research. His areas of expertise are in causal inference, health data science, observational studies, randomized trials, sensitivity analysis, instrumental variables, measurement error, and survey data, and their applications in public health. Dr. Heng received his PhD in Applied Mathematics and Computational Science from the University of Pennsylvania.\nView the seminar flyer and full event page.\n\n\n\n        \n\n\nView the Fall 2026 seminar schedule."
+    "text": "About the Speaker\nSiyu Heng, PhD, is an Assistant Professor in the Department of Biostatistics at the New York University School of Global Public Health. His research interests are causal inference, health data science, observational studies, randomized trials, sensitivity analysis, instrumental variables, and missing data, and their applications in public health, biomedical research, and social sciences. Dr. Heng received his PhD in Applied Mathematics and Computational Science from the University of Pennsylvania.\nView the seminar flyer and full event page.\n\n\n\n        \n\n\nView the Fall 2026 seminar schedule."
   },
   {
     "objectID": "posts/2026-10-didong-li-seminar/index.html",
@@ -1005,7 +1005,7 @@
     "href": "statcomputing/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.11549637772239782)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.01999187359807719)"
   },
   {
     "objectID": "statcomputing/units/unit3.html#latex",
