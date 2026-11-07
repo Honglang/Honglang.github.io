@@ -433,7 +433,7 @@ main.content,
 
       <aside class="bio" aria-labelledby="bio-heading">
         <h2 class="section-heading" id="bio-heading">About the speaker</h2>
-        <p>Siyu Heng, PhD, is an Assistant Professor in the Department of Biostatistics, with an interest in both methodology and applied research. His areas of expertise are in causal inference, health data science, observational studies, randomized trials, sensitivity analysis, instrumental variables, measurement error, and survey data, and their applications in public health. Dr. Heng received his PhD in Applied Mathematics and Computational Science from the University of Pennsylvania.</p>
+        <p>Siyu Heng, PhD, is an Assistant Professor in the Department of Biostatistics at the New York University School of Global Public Health. His research interests are causal inference, health data science, observational studies, randomized trials, sensitivity analysis, instrumental variables, and missing data, and their applications in public health, biomedical research, and social sciences. Dr. Heng received his PhD in Applied Mathematics and Computational Science from the University of Pennsylvania.</p>
       </aside>
     </div>
 
