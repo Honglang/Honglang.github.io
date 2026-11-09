@@ -17,7 +17,57 @@
 <width>144</width>
 </image>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: To Explain or to Predict?</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-11-akm-rayhan-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/AKMRayhan/index.html"><img src="https://honglang.github.io/posts/2026-11-akm-rayhan-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for A K M Rayhan’s talk</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: A K M Rayhan, Ph.D.&nbsp;Student, Department of Mathematical Sciences, IU Indianapolis</p>
+<p><strong>Talk time</strong>: November 17, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Meeting format</strong>: In person in seminar room <strong>LD 265</strong>, IU Indianapolis.</p>
+</section>
+<section id="presentation-overview" class="level2">
+<h2 class="anchored" data-anchor-id="presentation-overview">Presentation overview</h2>
+<p>A K M Rayhan will present Galit Shmueli’s paper “To Explain or to Predict?” (2010). Shmueli examines how the purpose of a statistical model shapes its construction and evaluation. A model that supports an explanatory account does not necessarily predict new observations well, and predictive accuracy alone does not establish a causal explanation.</p>
+<p>The paper distinguishes explanatory, predictive, and descriptive modeling and discusses the consequences of these goals for the modeling process. It argues that researchers should state their objective clearly and choose methods and evaluation criteria that match that objective. This presentation focuses on the distinction between explanation and prediction and its implications for statistical research.</p>
+<p><a href="../../seminars/AKMRayhan/index.html">View the seminar flyer and full event page</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<p><strong>Paper</strong>: Shmueli, G. (2010). To explain or to predict? <em>Statistical Science, 25</em>(3), 289–310. <a href="https://doi.org/10.1214/10-STS330">https://doi.org/10.1214/10-STS330</a>.</p>
+<p><a href="../../seminar2026fall.html">View the Fall 2026 seminar schedule</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-11-akm-rayhan-seminar/</guid>
+  <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-11-akm-rayhan-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
+</item>
 <item>
   <title>Statistics Seminar: Propensity Score Propagation: A General Framework for Design-Based Inference with Unknown Propensity Scores</title>
   <dc:creator>Honglang Wang</dc:creator>
