@@ -17,7 +17,161 @@
 <width>144</width>
 </image>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Mon, 09 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Statistics Seminar: What Are Diffusion Models?</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-12-chen-cheng-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/ChenCheng/index.html"><img src="https://honglang.github.io/posts/2026-12-chen-cheng-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Chen Cheng</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Chen Cheng, Ph.D.&nbsp;Student, Department of Mathematical Sciences, IU Indianapolis.</p>
+<p><strong>Talk time</strong>: December 1, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Meeting format</strong>: In person in seminar room <strong>LD 265</strong>, IU Indianapolis.</p>
+</section>
+<section id="presentation-overview" class="level2">
+<h2 class="anchored" data-anchor-id="presentation-overview">Presentation overview</h2>
+<p>Chen Cheng will present an introduction to diffusion models based on Lilian Weng’s tutorial. Diffusion models generate data by learning to reverse a process that gradually adds noise to observed samples. The forward process corrupts the data through a sequence of Gaussian transitions; the learned reverse process starts from noise and progressively reconstructs a sample.</p>
+<p>The tutorial develops the probabilistic formulation of denoising diffusion models and the training objective used to learn the reverse transitions. It also connects denoising to score-based generative modeling. The presentation will introduce these foundations and discuss how conditioning and guidance steer generation, along with approaches that reduce the cost of sampling.</p>
+</section>
+<section id="readings" class="level2">
+<h2 class="anchored" data-anchor-id="readings">Readings</h2>
+<p>Weng, L. (2021; updated 2024). What are Diffusion Models? Lil’Log. <a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/">Read online</a>.</p>
+<p><a href="../../seminar2026fall.html">View the Fall 2026 seminar schedule</a>.</p>
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-12-chen-cheng-seminar/</guid>
+  <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-12-chen-cheng-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
+</item>
+<item>
+  <title>Statistics Seminar: Nonparametric Regression</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-11-brad-moss-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/BradMoss/index.html"><img src="https://honglang.github.io/posts/2026-11-brad-moss-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Brad Moss</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Brad Moss, Ph.D.&nbsp;Student, Department of Mathematical Sciences, IU Indianapolis.</p>
+<p><strong>Talk time</strong>: November 24, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Meeting format</strong>: In person in seminar room <strong>LD 265</strong>, IU Indianapolis.</p>
+</section>
+<section id="presentation-overview" class="level2">
+<h2 class="anchored" data-anchor-id="presentation-overview">Presentation overview</h2>
+<p>Brad Moss will present Yen-Chi Chen’s lecture notes on nonparametric regression. The central problem is to estimate the conditional mean of a response without specifying a fixed parametric form for its relationship with the predictors. The notes develop this idea through binning and kernel smoothing, including the Nadaraya–Watson estimator.</p>
+<p>The presentation will discuss how local averaging produces a regression estimate and how the smoothing bandwidth controls the balance between bias and variance. The notes connect kernel regression to density estimation and local least squares, providing complementary ways to understand the same estimator. These perspectives help explain the role of smoothness assumptions and the statistical consequences of choosing how much to smooth.</p>
+</section>
+<section id="readings" class="level2">
+<h2 class="anchored" data-anchor-id="readings">Readings</h2>
+<p>Chen, Y.-C. (2026). Lecture 7: Nonparametric Regression. STAT 425: Introduction to Nonparametric Statistics, Winter 2026, University of Washington. <a href="https://faculty.washington.edu/yenchic/26W_stat425/Lec7_NPregression.pdf">Read online</a>.</p>
+<p><a href="../../seminar2026fall.html">View the Fall 2026 seminar schedule</a>.</p>
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-11-brad-moss-seminar/</guid>
+  <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-11-brad-moss-seminar/profile.jpg" medium="image" type="image/jpeg" height="144" width="144"/>
+</item>
+<item>
+  <title>Statistics Seminar: Spatial Transcriptomics: Identifying Spatially Variable Genes</title>
+  <dc:creator>Honglang Wang</dc:creator>
+  <link>https://honglang.github.io/posts/2026-12-yu-chen-seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../../seminars/YuChen/index.html"><img src="https://honglang.github.io/posts/2026-12-yu-chen-seminar/flyer.png" class="img-fluid figure-img"></a></p>
+<figcaption>Seminar flyer for Yu Chen</figcaption>
+</figure>
+</div>
+<section id="statistics-seminar-fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-seminar-fall-2026">Statistics Seminar: Fall 2026</h2>
+<p><strong>Speaker</strong>: Yu Chen, Ph.D.&nbsp;Student, Department of Mathematical Sciences, IU Indianapolis.</p>
+<p><strong>Talk time</strong>: December 8, 2026, 12:15–1:15 p.m. EST</p>
+<p><strong>Meeting format</strong>: In person in seminar room <strong>LD 265</strong>, IU Indianapolis.</p>
+</section>
+<section id="presentation-overview" class="level2">
+<h2 class="anchored" data-anchor-id="presentation-overview">Presentation overview</h2>
+<p>Yu Chen will discuss two statistical approaches to identifying spatially variable genes in spatial transcriptomics. These data combine gene-expression measurements with tissue locations, making it possible to study how expression changes across space. The presentation will distinguish overall spatial variation from variation within a particular cell type.</p>
+<p>Weber and colleagues introduce nnSVG, which uses nearest-neighbor Gaussian processes to identify spatially variable genes while reducing computational cost. Shang, Wu, and Zhou introduce Celina, which uses a spatially varying coefficient model to detect cell type-specific spatial expression patterns. Together, the papers motivate a discussion of scalability, cell-type composition, and the biological questions addressed by different definitions of spatial variation.</p>
+</section>
+<section id="readings" class="level2">
+<h2 class="anchored" data-anchor-id="readings">Readings</h2>
+<p>Weber, L. M., Saha, A., Datta, A., Hansen, K. D., &amp; Hicks, S. C. (2023). nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes. Nature Communications, 14, 4059. <a href="https://doi.org/10.1038/s41467-023-39748-z">Read online</a>.</p>
+<p>Shang, L., Wu, P., &amp; Zhou, X. (2025). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics. Nature Communications, 16, 1059. <a href="https://doi.org/10.1038/s41467-025-56280-4">Read online</a>.</p>
+<p><a href="../../seminar2026fall.html">View the Fall 2026 seminar schedule</a>.</p>
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>seminar</category>
+  <guid>https://honglang.github.io/posts/2026-12-yu-chen-seminar/</guid>
+  <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://honglang.github.io/posts/2026-12-yu-chen-seminar/profile.jpg" medium="image" type="image/jpeg" height="81" width="144"/>
+</item>
 <item>
   <title>Statistics Seminar: To Explain or to Predict?</title>
   <dc:creator>Honglang Wang</dc:creator>

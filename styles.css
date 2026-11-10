@@ -9,3 +9,14 @@ img.thumbnail-image[src$="2026-09-jordan-bryan-seminar/profile.jpg"] {
 img.thumbnail-image[src$="2026-10-didong-li-seminar/profile.jpg"] {
   object-position: center 10% !important;
 }
+
+/* Keep each remaining Fall 2026 speaker's face in fixed-height listing cards. */
+.quarto-listing img[src$="2026-11-brad-moss-seminar/profile.jpg"] {
+  object-position: 50% 35%;
+}
+.quarto-listing img[src$="2026-12-chen-cheng-seminar/profile.jpg"] {
+  object-position: 32% 44%;
+}
+.quarto-listing img[src$="2026-12-yu-chen-seminar/profile.jpg"] {
+  object-position: 54% 68%;
+}
